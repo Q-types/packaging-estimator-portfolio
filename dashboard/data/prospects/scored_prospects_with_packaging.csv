@@ -1,0 +1,455 @@
+company_name,sic_codes,industry_sector,company_age_years,region,packaging_need,packaging_reason,packaging_multiplier,prospect_score,priority_tier,industry_score,age_score,size_score,geo_score,web_score
+WGN Media,1210,Agriculture,17.2,Bradford,HIGH,Products need packaging for distribution,1.0,95.0,Hot,100.0,100.0,100.0,50.0,100.0
+Royal Group,46180,Wholesale & Retail,6.7,Sheffield,HIGH,Shipping and distribution packaging,1.0,93.87,Hot,100.0,98.5,100.0,41.67,100.0
+Evans & Thompson Marketing,1410,Agriculture,34.0,Fife,HIGH,Products need packaging for distribution,1.0,92.75,Hot,100.0,95.0,95.0,50.0,100.0
+Fast Communications,1500,Agriculture,4.9,London,HIGH,Products need packaging for distribution,1.0,89.01,Hot,100.0,89.5,98.5,46.74,78.74
+Swift Trading,22220,Manufacturing,6.5,Buckinghamshire,HIGH,Products need packaging for distribution,1.0,88.58,Hot,67.33,97.5,98.0,93.75,100.0
+Golden Development,22290,Manufacturing,7.1,East of England,HIGH,Products need packaging for distribution,1.0,88.33,Hot,77.78,100.0,100.0,50.0,100.0
+YKZ Technologies,46760,Wholesale & Retail,14.0,Surrey,HIGH,Shipping and distribution packaging,1.0,87.14,Hot,66.67,100.0,100.0,71.43,100.0
+Swift International,17230,Manufacturing,19.5,Lancashire,HIGH,Products need packaging for distribution,1.0,87.08,Hot,77.78,100.0,100.0,37.5,100.0
+CNI Holdings,47620,Wholesale & Retail,13.8,Cheshire,HIGH,Shipping and distribution packaging,1.0,87.05,Hot,75.0,100.0,100.0,45.45,100.0
+Wilson & Williams Resources,22290,Manufacturing,8.9,Leicester,HIGH,Products need packaging for distribution,1.0,86.25,Hot,77.78,100.0,95.0,41.67,100.0
+South Engineering,46180,Wholesale & Retail,8.4,Blackpool,HIGH,Shipping and distribution packaging,1.0,86.0,Hot,100.0,100.0,100.0,50.0,40.0
+Williams & Walker Properties,1410,Agriculture,13.5,Reading,HIGH,Products need packaging for distribution,1.0,86.0,Hot,100.0,100.0,100.0,50.0,40.0
+Premier International,22290,Manufacturing,9.4,Cambridge,HIGH,Products need packaging for distribution,1.0,85.42,Hot,77.78,100.0,100.0,20.83,100.0
+Wilson & Brown Manufacturing,18129,Manufacturing,7.4,Motherwell,HIGH,Products need packaging for distribution,1.0,85.2,Hot,67.33,100.0,100.0,50.0,100.0
+JFB Logistics,18129,Manufacturing,5.6,Middlesex,HIGH,Products need packaging for distribution,1.0,85.05,Hot,67.33,93.0,100.0,62.5,100.0
+Evans & Smith Systems,1110,Agriculture,6.3,London,HIGH,Products need packaging for distribution,1.0,84.97,Hot,100.0,96.5,100.0,46.74,40.0
+EVW Associates,47110,Wholesale & Retail,6.5,Leeds,HIGH,Shipping and distribution packaging,1.0,84.63,Hot,61.43,97.5,95.0,79.55,100.0
+Thomas & Taylor Trading,18129,Manufacturing,9.5,Sheffield,HIGH,Products need packaging for distribution,1.0,84.37,Hot,67.33,100.0,100.0,41.67,100.0
+Quantum PLC,14190,Manufacturing,6.0,Brighton,HIGH,Products need packaging for distribution,1.0,84.2,Hot,67.33,95.0,100.0,50.0,100.0
+Brown & Wright Group,47110,Wholesale & Retail,20.9,Cardiff,HIGH,Shipping and distribution packaging,1.0,83.98,Hot,61.43,100.0,100.0,55.56,100.0
+Blue Systems,18140,Manufacturing,18.3,Lancashire,HIGH,Products need packaging for distribution,1.0,83.95,Hot,67.33,100.0,100.0,37.5,100.0
+Sterling Limited,46410,Wholesale & Retail,9.0,Torquay,HIGH,Shipping and distribution packaging,1.0,83.43,Hot,61.43,100.0,100.0,50.0,100.0
+Dynamic Solutions,46410,Wholesale & Retail,16.2,Ipswich,HIGH,Shipping and distribution packaging,1.0,83.43,Hot,61.43,100.0,100.0,50.0,100.0
+Sterling PLC,47990,Wholesale & Retail,22.1,London,HIGH,Shipping and distribution packaging,1.0,83.1,Hot,61.43,100.0,100.0,46.74,100.0
+XHW Media,46499,Wholesale & Retail,16.4,London,HIGH,Shipping and distribution packaging,1.0,83.1,Hot,61.43,100.0,100.0,46.74,100.0
+Info UK,46900,Wholesale & Retail,7.8,London,HIGH,Shipping and distribution packaging,1.0,83.1,Hot,61.43,100.0,100.0,46.74,100.0
+Wright & Jones Construction,47620,Wholesale & Retail,42.9,Milton Keynes,HIGH,Shipping and distribution packaging,1.0,82.97,Hot,75.0,86.1,93.0,50.0,100.0
+Peak Industries,27900,Manufacturing,3.8,Berkshire,HIGH,Products need packaging for distribution,1.0,82.88,Hot,67.33,84.0,93.5,75.0,100.0
+Urban Group,46110,Wholesale & Retail,27.0,Liverpool,HIGH,Shipping and distribution packaging,1.0,82.24,Hot,61.43,100.0,98.0,75.0,78.74
+BLE Creative,47710,Wholesale & Retail,14.9,Taunton,HIGH,Shipping and distribution packaging,1.0,82.18,Hot,61.43,100.0,95.0,50.0,100.0
+Thompson & Thomas Holdings,45200,Wholesale & Retail,28.2,London,HIGH,Shipping and distribution packaging,1.0,81.85,Hot,61.43,100.0,95.0,46.74,100.0
+Roberts & Johnson Resources,25990,Manufacturing,24.6,London,HIGH,Products need packaging for distribution,1.0,81.69,Hot,67.33,100.0,100.0,46.74,78.74
+Info Industries,47710,Wholesale & Retail,4.5,Northampton,HIGH,Shipping and distribution packaging,1.0,80.93,Hot,61.43,87.5,100.0,50.0,100.0
+Johnson & Thomas Creative,10710,Manufacturing,7.8,Belfast,HIGH,Products need packaging for distribution,1.0,80.76,Hot,67.33,100.0,95.0,50.0,78.74
+Core Limited,14190,Manufacturing,3.2,Reading,HIGH,Products need packaging for distribution,1.0,80.65,Hot,67.33,81.0,97.0,50.0,100.0
+Smith & Evans Capital,14190,Manufacturing,3.9,London,HIGH,Products need packaging for distribution,1.0,80.52,Hot,67.33,84.5,95.0,46.74,100.0
+Smith & Evans Innovations,45111,Wholesale & Retail,8.7,Dorset,HIGH,Shipping and distribution packaging,1.0,80.51,Hot,61.43,100.0,100.0,20.83,100.0
+Evans & Thompson Construction,1130,Agriculture,1.9,Chelmsford,HIGH,Products need packaging for distribution,1.0,80.28,Hot,100.0,74.5,97.5,50.0,40.0
+United International,18129,Manufacturing,26.7,Lancashire,HIGH,Products need packaging for distribution,1.0,80.26,Hot,67.33,100.0,98.0,37.5,78.74
+Walker & Thompson Print,47990,Wholesale & Retail,16.2,East of England,HIGH,Shipping and distribution packaging,1.0,80.24,Hot,61.43,100.0,100.0,50.0,78.74
+North Resources,45200,Wholesale & Retail,21.8,Wolverhampton,HIGH,Shipping and distribution packaging,1.0,80.24,Hot,61.43,100.0,100.0,50.0,78.74
+PVR Capital,46410,Wholesale & Retail,21.4,Warrington,HIGH,Shipping and distribution packaging,1.0,79.99,Hot,61.43,100.0,99.0,50.0,78.74
+ESJ Engineering,47110,Wholesale & Retail,4.8,Torquay,HIGH,Shipping and distribution packaging,1.0,79.98,Hot,61.43,89.0,95.0,50.0,100.0
+Swift Partners,45111,Wholesale & Retail,7.0,Cheshire,HIGH,Shipping and distribution packaging,1.0,79.79,Hot,61.43,100.0,100.0,45.45,78.74
+Atlas LLP,45200,Wholesale & Retail,25.5,Huddersfield,HIGH,Shipping and distribution packaging,1.0,79.74,Hot,61.43,100.0,98.0,50.0,78.74
+North Ltd,22290,Manufacturing,4.9,Berkshire,HIGH,Products need packaging for distribution,1.0,79.73,Hot,77.78,89.5,100.0,75.0,40.0
+Cyber Design,45111,Wholesale & Retail,8.6,Nottingham,HIGH,Shipping and distribution packaging,1.0,79.68,Hot,61.43,100.0,100.0,12.5,100.0
+Thompson & Davies Development,45200,Wholesale & Retail,6.4,Staffordshire,HIGH,Shipping and distribution packaging,1.0,79.64,Hot,61.43,97.0,100.0,50.0,78.74
+First PLC,45111,Wholesale & Retail,27.5,West Midlands,HIGH,Shipping and distribution packaging,1.0,79.56,Hot,61.43,100.0,93.0,28.85,100.0
+Green Management,47910,Wholesale & Retail,5.2,West Midlands,HIGH,Shipping and distribution packaging,1.0,79.26,Hot,61.43,91.0,99.0,28.85,100.0
+Metro Associates,18121,Manufacturing,2.7,Cheshire,HIGH,Products need packaging for distribution,1.0,79.2,Hot,67.33,78.5,95.0,45.45,100.0
+Nova Services,47710,Wholesale & Retail,26.8,Lancashire,HIGH,Shipping and distribution packaging,1.0,78.99,Hot,61.43,100.0,100.0,37.5,78.74
+Wilson & Roberts Resources,47110,Wholesale & Retail,1.0,Leeds,HIGH,Shipping and distribution packaging,1.0,78.76,Hot,61.43,70.0,93.5,79.55,100.0
+Brown & Wilson Construction,47110,Wholesale & Retail,8.4,London,HIGH,Shipping and distribution packaging,1.0,78.66,Hot,61.43,100.0,95.0,46.74,78.74
+Prime PLC,47110,Wholesale & Retail,18.6,London,HIGH,Shipping and distribution packaging,1.0,78.66,Hot,61.43,100.0,95.0,46.74,78.74
+VQO Properties,45200,Wholesale & Retail,15.8,London,HIGH,Shipping and distribution packaging,1.0,78.66,Hot,61.43,100.0,95.0,46.74,78.74
+Jones & Roberts Innovations,1420,Agriculture,1.1,York,HIGH,Products need packaging for distribution,1.0,78.6,Hot,100.0,70.5,94.0,50.0,40.0
+Thompson & Wright Group,46410,Wholesale & Retail,38.9,Chelmsford,HIGH,Shipping and distribution packaging,1.0,78.26,Hot,61.43,90.1,100.0,50.0,78.74
+LGJ Technologies,46900,Wholesale & Retail,2.7,London,HIGH,Shipping and distribution packaging,1.0,77.68,Hot,61.43,78.5,95.5,46.74,100.0
+Quick & Co,47910,Wholesale & Retail,5.6,Buckinghamshire,HIGH,Shipping and distribution packaging,1.0,77.4,Hot,61.43,93.0,100.0,93.75,40.0
+OJS Industries,47110,Wholesale & Retail,2.7,London,HIGH,Shipping and distribution packaging,1.0,77.05,Hot,61.43,78.5,93.0,46.74,100.0
+United International,47110,Wholesale & Retail,2.5,London,HIGH,Shipping and distribution packaging,1.0,76.1,Hot,61.43,77.5,90.0,46.74,100.0
+Wright & Evans Innovations,18129,Manufacturing,1.1,London,HIGH,Products need packaging for distribution,1.0,76.1,Hot,67.33,70.5,88.5,46.74,100.0
+Brown & Brown Creative,46760,Wholesale & Retail,10.3,Blackpool,HIGH,Shipping and distribution packaging,1.0,76.0,Hot,66.67,100.0,100.0,50.0,40.0
+Roberts & Smith Properties,18129,Manufacturing,17.3,London,HIGH,Products need packaging for distribution,1.0,75.87,Hot,67.33,100.0,100.0,46.74,40.0
+West Development,22110,Manufacturing,16.0,London,HIGH,Products need packaging for distribution,1.0,75.87,Hot,67.33,100.0,100.0,46.74,40.0
+Vertex International,17210,Manufacturing,1.0,West Midlands,HIGH,Products need packaging for distribution,1.0,75.46,Hot,67.33,70.0,93.5,28.85,100.0
+Core Consulting,45200,Wholesale & Retail,27.6,Liverpool,HIGH,Shipping and distribution packaging,1.0,75.18,Hot,61.43,100.0,93.0,75.0,40.0
+East International,18130,Manufacturing,13.8,Belfast,HIGH,Products need packaging for distribution,1.0,74.95,Warm,67.33,100.0,95.0,50.0,40.0
+IKJ Properties,32990,Manufacturing,31.6,Dundee,HIGH,Products need packaging for distribution,1.0,74.43,Warm,67.33,97.4,95.0,50.0,40.0
+UXS Technologies,45200,Wholesale & Retail,11.3,Doncaster,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,100.0,50.0,40.0
+Instant Consulting,47990,Wholesale & Retail,14.9,Falkirk,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,100.0,50.0,40.0
+Roberts & Thomas Engineering,47910,Wholesale & Retail,20.9,Darlington,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,100.0,50.0,40.0
+DEK Management,47110,Wholesale & Retail,9.1,Exeter,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,100.0,50.0,40.0
+Prime Services,45111,Wholesale & Retail,13.8,Blackpool,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,100.0,50.0,40.0
+ONX Engineering,45200,Wholesale & Retail,26.8,Cornwall,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,90.0,75.0,40.0
+Golden LLP,46410,Wholesale & Retail,26.1,Fife,HIGH,Shipping and distribution packaging,1.0,74.43,Warm,61.43,100.0,100.0,50.0,40.0
+BCK Holdings,47910,Wholesale & Retail,3.0,Brighton,HIGH,Shipping and distribution packaging,1.0,74.36,Warm,61.43,80.0,92.5,50.0,78.74
+Wilson & Davies Solutions,78200,Administrative Services,10.2,Surrey,MEDIUM,Industry may have packaging needs,0.85,73.77,Warm,69.64,100.0,95.0,71.43,100.0
+Pro Enterprises,56103,Accommodation & Food,7.1,Exeter,MEDIUM,Food service packaging,0.85,73.31,Warm,75.0,100.0,95.0,50.0,100.0
+Thompson & Williams Resources,46900,Wholesale & Retail,8.3,Bath,HIGH,Shipping and distribution packaging,1.0,73.18,Warm,61.43,100.0,95.0,50.0,40.0
+Green LLP,56103,Accommodation & Food,6.8,Newport,MEDIUM,Food service packaging,0.85,73.14,Warm,75.0,99.0,95.0,50.0,100.0
+VRK Solutions,18121,Manufacturing,37.2,Plymouth,HIGH,Products need packaging for distribution,1.0,73.06,Warm,67.33,91.8,94.0,50.0,40.0
+LEI Partners,81100,Administrative Services,7.7,Swansea,MEDIUM,Industry may have packaging needs,0.85,73.01,Warm,69.64,100.0,100.0,50.0,100.0
+Davies & Jones Trading,25990,Manufacturing,35.3,Sheffield,HIGH,Products need packaging for distribution,1.0,72.86,Warm,67.33,93.7,95.0,41.67,40.0
+Green Design,78109,Administrative Services,6.8,Dumfries,MEDIUM,Industry may have packaging needs,0.85,72.84,Warm,69.64,99.0,100.0,50.0,100.0
+Wilson & Johnson Manufacturing,78200,Administrative Services,4.3,Leeds,MEDIUM,Industry may have packaging needs,0.85,72.8,Warm,69.64,86.5,98.0,79.55,100.0
+XEV Group,81100,Administrative Services,12.6,London,MEDIUM,Industry may have packaging needs,0.85,72.73,Warm,69.64,100.0,100.0,46.74,100.0
+City Design,47110,Wholesale & Retail,75.2,Kent,HIGH,Shipping and distribution packaging,1.0,72.58,Warm,61.43,60.0,88.0,51.47,100.0
+Urban Marketing,81100,Administrative Services,27.4,Durham,MEDIUM,Industry may have packaging needs,0.85,72.58,Warm,69.64,100.0,98.0,50.0,100.0
+Cloud Limited,45200,Wholesale & Retail,37.4,London,HIGH,Shipping and distribution packaging,1.0,72.42,Warm,61.43,91.6,100.0,46.74,40.0
+City Group,56302,Accommodation & Food,12.2,Wigan,MEDIUM,Food service packaging,0.85,72.25,Warm,66.67,100.0,100.0,50.0,100.0
+Core Ltd,47910,Wholesale & Retail,18.1,West Midlands,HIGH,Shipping and distribution packaging,1.0,72.06,Warm,61.43,100.0,99.0,28.85,40.0
+Urban Capital,46900,Wholesale & Retail,28.3,Swansea,HIGH,Shipping and distribution packaging,1.0,71.93,Warm,61.43,100.0,90.0,50.0,40.0
+Royal UK,47110,Wholesale & Retail,35.2,London,HIGH,Shipping and distribution packaging,1.0,71.61,Warm,61.43,93.8,95.0,46.74,40.0
+Instant Limited,62011,Information & Communication,21.2,Leeds,MEDIUM,Industry may have packaging needs,0.85,71.57,Warm,54.17,100.0,100.0,79.55,100.0
+UJC Enterprises,82990,Administrative Services,5.2,Southend,MEDIUM,Fulfillment and business support,0.85,71.48,Warm,69.64,91.0,100.0,50.0,100.0
+Smith & Johnson Consulting,56103,Accommodation & Food,3.5,Huddersfield,MEDIUM,Food service packaging,0.85,71.4,Warm,75.0,82.5,100.0,50.0,100.0
+Urban LLP,46110,Wholesale & Retail,38.0,Darlington,HIGH,Shipping and distribution packaging,1.0,71.38,Warm,61.43,91.0,95.0,50.0,40.0
+Nova Solutions,46190,Wholesale & Retail,32.9,London,HIGH,Shipping and distribution packaging,1.0,71.32,Warm,61.43,96.1,92.0,46.74,40.0
+RXM Media,43220,Construction,6.2,Swansea,MEDIUM,Industry may have packaging needs,0.85,71.25,Warm,66.67,96.0,98.5,50.0,100.0
+Sterling Limited,43220,Construction,7.2,Brighton,MEDIUM,Industry may have packaging needs,0.85,71.19,Warm,66.67,100.0,95.0,50.0,100.0
+Wilson & Roberts Communications,56210,Accommodation & Food,15.0,Wales,MEDIUM,Food service packaging,0.85,70.9,Warm,61.36,100.0,100.0,50.0,100.0
+Walker & Taylor Print,56101,Accommodation & Food,14.7,Belfast,MEDIUM,Food service packaging,0.85,70.9,Warm,61.36,100.0,100.0,50.0,100.0
+Metro LLP,56102,Accommodation & Food,9.5,Shrewsbury,MEDIUM,Food service packaging,0.85,70.9,Warm,61.36,100.0,100.0,50.0,100.0
+Matrix Enterprises,55100,Accommodation & Food,23.2,Stockport,MEDIUM,Food service packaging,0.85,70.9,Warm,61.36,100.0,100.0,50.0,100.0
+Direct UK,56103,Accommodation & Food,3.2,London,MEDIUM,Food service packaging,0.85,70.87,Warm,75.0,81.0,100.0,46.74,100.0
+CPH Holdings,58190,Information & Communication,21.3,East of England,MEDIUM,Publishing materials,0.85,70.83,Warm,61.11,100.0,100.0,50.0,100.0
+Titan & Co,78109,Administrative Services,2.4,Berkshire,MEDIUM,Industry may have packaging needs,0.85,70.48,Warm,69.64,77.0,96.5,75.0,100.0
+VDP Marketing,78200,Administrative Services,7.1,Motherwell,MEDIUM,Industry may have packaging needs,0.85,70.3,Warm,69.64,100.0,100.0,50.0,78.74
+Diamond Systems,82990,Administrative Services,7.9,Teesside,MEDIUM,Fulfillment and business support,0.85,70.3,Warm,69.64,100.0,100.0,50.0,78.74
+Smart Design,43220,Construction,4.6,East of England,MEDIUM,Industry may have packaging needs,0.85,70.21,Warm,66.67,88.0,100.0,50.0,100.0
+Atlas Marketing,63120,Information & Communication,7.4,Middlesex,MEDIUM,Industry may have packaging needs,0.85,70.12,Warm,54.17,100.0,100.0,62.5,100.0
+Sterling PLC,81210,Administrative Services,13.1,London,MEDIUM,Industry may have packaging needs,0.85,70.02,Warm,69.64,100.0,100.0,46.74,78.74
+Davies & Williams Creative,74909,Professional Services,14.8,Buckinghamshire,MEDIUM,"Design services, presentations",0.85,69.71,Warm,52.73,100.0,100.0,93.75,78.74
+Central Innovations,45200,Wholesale & Retail,4.4,Bath,HIGH,Shipping and distribution packaging,1.0,69.7,Warm,61.43,87.0,91.5,50.0,40.0
+Jones & Wright Group,47910,Wholesale & Retail,2.8,Wakefield,HIGH,Shipping and distribution packaging,1.0,69.6,Warm,61.43,79.0,97.5,50.0,40.0
+Prime Manufacturing,82920,Administrative Services,14.6,Leicester,MEDIUM,Fulfillment and business support,0.85,69.59,Warm,69.64,100.0,100.0,41.67,78.74
+Smith & Williams Development,56103,Accommodation & Food,2.4,London,MEDIUM,Food service packaging,0.85,69.55,Warm,75.0,77.0,97.0,46.74,100.0
+CKM Construction,82110,Administrative Services,1.7,Surrey,MEDIUM,Fulfillment and business support,0.85,69.48,Warm,69.64,73.5,96.0,71.43,100.0
+GBV Engineering,49320,Transportation,7.1,Leeds,MEDIUM,Industry may have packaging needs,0.85,69.45,Warm,50.0,100.0,95.0,79.55,100.0
+VAF Innovations,46190,Wholesale & Retail,80.0,Perth,HIGH,Shipping and distribution packaging,1.0,69.24,Warm,61.43,60.0,88.0,50.0,78.74
+WEG Industries,62012,Information & Communication,12.4,Kent,MEDIUM,Industry may have packaging needs,0.85,69.19,Warm,54.17,100.0,100.0,51.47,100.0
+Atlas Innovations,55201,Accommodation & Food,8.2,West Midlands,MEDIUM,Food service packaging,0.85,69.1,Warm,61.36,100.0,100.0,28.85,100.0
+KPL Print,55209,Accommodation & Food,19.1,West Midlands,MEDIUM,Food service packaging,0.85,69.1,Warm,61.36,100.0,100.0,28.85,100.0
+Info Communications,62020,Information & Communication,13.2,East of England,MEDIUM,Industry may have packaging needs,0.85,69.06,Warm,54.17,100.0,100.0,50.0,100.0
+Evans & Jones Industries,62090,Information & Communication,12.4,Brighton,MEDIUM,Industry may have packaging needs,0.85,69.06,Warm,54.17,100.0,100.0,50.0,100.0
+Sterling Engineering,46110,Wholesale & Retail,2.5,Manchester,HIGH,Shipping and distribution packaging,1.0,68.8,Warm,61.43,77.5,95.5,50.0,40.0
+Roberts & Thompson Creative,82920,Administrative Services,3.8,Warrington,MEDIUM,Fulfillment and business support,0.85,68.8,Warm,69.64,84.0,93.0,50.0,100.0
+Rapid Group,58110,Information & Communication,7.7,London,MEDIUM,Publishing materials,0.85,68.79,Warm,54.17,100.0,100.0,46.74,100.0
+GDF Innovations,62011,Information & Communication,7.0,London,MEDIUM,Industry may have packaging needs,0.85,68.79,Warm,54.17,100.0,100.0,46.74,100.0
+Sterling Print,74100,Professional Services,12.3,Torquay,MEDIUM,"Design services, presentations",0.85,68.7,Warm,52.73,100.0,100.0,50.0,100.0
+Swift Management,73120,Professional Services,28.2,Doncaster,MEDIUM,"Marketing materials, presentation folders",0.85,68.7,Warm,52.73,100.0,100.0,50.0,100.0
+Net Innovations,63990,Information & Communication,5.2,Liverpool,MEDIUM,Industry may have packaging needs,0.85,68.6,Warm,54.17,91.0,95.0,75.0,100.0
+Davies & Williams Trading,62020,Information & Communication,22.0,London,MEDIUM,Industry may have packaging needs,0.85,68.57,Warm,54.17,100.0,99.0,46.74,100.0
+Express LLP,82990,Administrative Services,3.0,London,MEDIUM,Fulfillment and business support,0.85,68.48,Warm,69.64,80.0,96.0,46.74,100.0
+Direct Associates,62012,Information & Communication,26.9,Cardiff,MEDIUM,Industry may have packaging needs,0.85,68.47,Warm,54.17,100.0,95.0,55.56,100.0
+Atlas Innovations,46190,Wholesale & Retail,2.0,Durham,HIGH,Shipping and distribution packaging,1.0,68.43,Warm,61.43,75.0,96.0,50.0,40.0
+Titan Properties,74209,Professional Services,9.3,London,MEDIUM,"Design services, presentations",0.85,68.42,Warm,52.73,100.0,100.0,46.74,100.0
+ZAN Trading,55900,Accommodation & Food,36.3,London,MEDIUM,Food service packaging,0.85,68.32,Warm,61.36,92.7,95.0,46.74,100.0
+Thompson & Wright Services,55100,Accommodation & Food,4.1,Newport,MEDIUM,Food service packaging,0.85,68.22,Warm,61.36,85.5,99.0,50.0,100.0
+United Development,56210,Accommodation & Food,39.6,Brighton,MEDIUM,Food service packaging,0.85,68.03,Warm,61.36,89.4,95.0,50.0,100.0
+GPD Properties,63110,Information & Communication,17.7,East of England,MEDIUM,Industry may have packaging needs,0.85,68.0,Warm,54.17,100.0,95.0,50.0,100.0
+Evans & Wright Resources,63120,Information & Communication,16.9,Norwich,MEDIUM,Industry may have packaging needs,0.85,68.0,Warm,54.17,100.0,95.0,50.0,100.0
+Nova Resources,62090,Information & Communication,9.0,East Midlands,MEDIUM,Industry may have packaging needs,0.85,68.0,Warm,54.17,100.0,95.0,50.0,100.0
+SZL Logistics,56210,Accommodation & Food,19.6,London,MEDIUM,Food service packaging,0.85,67.91,Warm,61.36,100.0,100.0,46.74,78.74
+OQZ Trading,63990,Information & Communication,3.8,Surrey,MEDIUM,Industry may have packaging needs,0.85,67.85,Warm,54.17,84.0,98.5,71.43,100.0
+West UK,86220,Health,34.5,Surrey,MEDIUM,Industry may have packaging needs,0.85,67.82,Warm,50.0,94.5,95.0,71.43,100.0
+City PLC,56302,Accommodation & Food,4.9,Teesside,MEDIUM,Food service packaging,0.85,67.75,Warm,66.67,89.5,100.0,50.0,78.74
+Smith & Wright Capital,46760,Wholesale & Retail,73.5,Liverpool,HIGH,Shipping and distribution packaging,1.0,67.75,Warm,66.67,60.0,89.0,75.0,40.0
+DUW Holdings,81210,Administrative Services,1.8,East of England,MEDIUM,Industry may have packaging needs,0.85,67.74,Warm,69.64,74.0,96.0,50.0,100.0
+Swift Development,43220,Construction,2.9,Peterborough,MEDIUM,Industry may have packaging needs,0.85,67.6,Warm,66.67,79.5,94.5,50.0,100.0
+HIN Design,82990,Administrative Services,8.8,Oxford,MEDIUM,Fulfillment and business support,0.85,67.48,Warm,69.64,100.0,100.0,75.0,40.0
+Golden PLC,86220,Health,6.3,Belfast,MEDIUM,Industry may have packaging needs,0.85,67.4,Warm,50.0,96.5,100.0,50.0,100.0
+CDP Manufacturing,73120,Professional Services,18.3,London,MEDIUM,"Marketing materials, presentation folders",0.85,67.36,Warm,52.73,100.0,95.0,46.74,100.0
+Eco Group,58110,Information & Communication,9.8,West Midlands,MEDIUM,Publishing materials,0.85,67.26,Warm,54.17,100.0,100.0,28.85,100.0
+Diamond Systems,49420,Transportation,14.0,Surrey,MEDIUM,Industry may have packaging needs,0.85,67.11,Warm,50.0,100.0,100.0,71.43,78.74
+Nova Technologies,81210,Administrative Services,3.4,Aberdeen,MEDIUM,Industry may have packaging needs,0.85,67.03,Warm,69.64,82.0,99.0,50.0,78.74
+Pro Construction,62012,Information & Communication,4.6,Darlington,MEDIUM,Industry may have packaging needs,0.85,67.02,Warm,54.17,88.0,100.0,50.0,100.0
+Metro UK,63120,Information & Communication,4.8,Warrington,MEDIUM,Industry may have packaging needs,0.85,66.98,Warm,54.17,89.0,99.0,50.0,100.0
+Nexus Associates,56102,Accommodation & Food,3.3,Leicester,MEDIUM,Food service packaging,0.85,66.94,Warm,61.36,81.5,99.5,41.67,100.0
+Thomas & Thomas Print,58110,Information & Communication,4.7,Staffordshire,MEDIUM,Publishing materials,0.85,66.9,Warm,54.17,88.5,99.0,50.0,100.0
+North Engineering,56101,Accommodation & Food,5.4,Brighton,MEDIUM,Food service packaging,0.85,66.83,Warm,61.36,92.0,100.0,50.0,78.74
+Digital LLP,41202,Construction,5.2,Buckinghamshire,MEDIUM,Industry may have packaging needs,0.85,66.74,Warm,36.49,91.0,100.0,93.75,100.0
+Davies & Thompson Innovations,49320,Transportation,7.6,London,MEDIUM,Industry may have packaging needs,0.85,66.66,Warm,50.0,100.0,95.0,46.74,100.0
+XGA Marketing,14190,Manufacturing,95.8,London,HIGH,Products need packaging for distribution,1.0,66.62,Warm,67.33,60.0,95.0,46.74,40.0
+Wright & Jones Holdings,79110,Administrative Services,0.4,Gloucester,MEDIUM,Industry may have packaging needs,0.85,66.55,Warm,69.64,67.0,96.0,50.0,100.0
+Tech Resources,73110,Professional Services,4.5,East of England,MEDIUM,"Marketing materials, presentation folders",0.85,66.47,Warm,52.73,87.5,99.5,50.0,100.0
+AKT Associates,56302,Accommodation & Food,6.7,Oxford,MEDIUM,Food service packaging,0.85,66.36,Warm,66.67,98.5,99.5,75.0,40.0
+TBJ Trading,82990,Administrative Services,0.4,Stockport,MEDIUM,Fulfillment and business support,0.85,66.34,Warm,69.64,67.0,95.0,50.0,100.0
+QUD Development,49410,Transportation,37.5,London,MEDIUM,Industry may have packaging needs,0.85,66.28,Warm,50.0,91.5,100.0,46.74,100.0
+VCY Properties,43220,Construction,53.1,Swindon,MEDIUM,Industry may have packaging needs,0.85,66.24,Warm,66.67,75.9,91.0,50.0,100.0
+Quick Associates,73120,Professional Services,13.1,Kent,MEDIUM,"Marketing materials, presentation folders",0.85,66.11,Warm,52.73,100.0,100.0,51.47,78.74
+Matrix Technologies,58142,Information & Communication,3.8,London,MEDIUM,Publishing materials,0.85,65.96,Warm,54.17,84.0,99.5,46.74,100.0
+Red Creative,82110,Administrative Services,10.0,Birmingham,MEDIUM,Fulfillment and business support,0.85,65.83,Warm,69.64,100.0,100.0,55.56,40.0
+Titan PLC,72190,Professional Services,3.7,Hull,MEDIUM,Industry may have packaging needs,0.85,65.79,Warm,52.73,83.5,99.5,50.0,100.0
+Dynamic Services,55201,Accommodation & Food,1.8,Chelmsford,MEDIUM,Food service packaging,0.85,65.73,Warm,61.36,74.0,96.5,50.0,100.0
+Sterling PLC,81210,Administrative Services,18.3,Edinburgh,MEDIUM,Industry may have packaging needs,0.85,65.66,Warm,69.64,100.0,100.0,53.57,40.0
+Williams & Walker Creative,96020,Other Services,12.8,Doncaster,MEDIUM,Industry may have packaging needs,0.85,65.45,Warm,40.0,100.0,100.0,50.0,100.0
+Taylor & Williams Manufacturing,43290,Construction,10.4,Warrington,MEDIUM,Industry may have packaging needs,0.85,65.45,Warm,40.0,100.0,100.0,50.0,100.0
+Data Innovations,96020,Other Services,9.0,Belfast,MEDIUM,Industry may have packaging needs,0.85,65.45,Warm,40.0,100.0,100.0,50.0,100.0
+CKA Manufacturing,18130,Manufacturing,50.3,Nottingham,HIGH,Products need packaging for distribution,1.0,65.44,Warm,67.33,78.7,89.0,12.5,40.0
+Speedy PLC,56103,Accommodation & Food,7.7,London,MEDIUM,Food service packaging,0.85,65.39,Warm,75.0,100.0,95.0,46.74,40.0
+Taylor & Williams Group,81210,Administrative Services,7.8,Oldham,MEDIUM,Industry may have packaging needs,0.85,65.36,Warm,69.64,100.0,100.0,50.0,40.0
+South Solutions,78200,Administrative Services,16.0,Doncaster,MEDIUM,Industry may have packaging needs,0.85,65.36,Warm,69.64,100.0,100.0,50.0,40.0
+HUW Marketing,78200,Administrative Services,25.8,Preston,MEDIUM,Industry may have packaging needs,0.85,65.36,Warm,69.64,100.0,100.0,50.0,40.0
+Roberts & Johnson Creative,62011,Information & Communication,38.1,London,MEDIUM,Industry may have packaging needs,0.85,65.33,Warm,54.17,90.9,91.0,46.74,100.0
+Central Group,52290,Transportation,15.0,East of England,MEDIUM,Industry may have packaging needs,0.85,65.29,Warm,50.0,100.0,100.0,50.0,78.74
+Smart Industries,86101,Health,7.6,Halifax,MEDIUM,Industry may have packaging needs,0.85,65.29,Warm,50.0,100.0,100.0,50.0,78.74
+Taylor & Smith Marketing,53202,Transportation,22.8,Plymouth,MEDIUM,Industry may have packaging needs,0.85,65.29,Warm,50.0,100.0,100.0,50.0,78.74
+Atlas Ltd,62090,Information & Communication,2.4,Aberdeen,MEDIUM,Industry may have packaging needs,0.85,65.15,Warm,54.17,77.0,100.0,50.0,100.0
+KFL Logistics,86210,Health,4.1,Northampton,MEDIUM,Industry may have packaging needs,0.85,65.11,Warm,50.0,85.5,98.0,50.0,100.0
+Net UK,62020,Information & Communication,7.4,London,MEDIUM,Industry may have packaging needs,0.85,65.01,Warm,54.17,100.0,95.0,46.74,78.74
+Wright & Brown Media,62020,Information & Communication,5.2,Manchester,MEDIUM,Industry may have packaging needs,0.85,64.82,Warm,54.17,91.0,100.0,50.0,78.74
+Nexus Limited,74909,Professional Services,2.8,Taunton,MEDIUM,"Design services, presentations",0.85,64.7,Warm,52.73,79.0,98.0,50.0,100.0
+Brown & Johnson Engineering,74909,Professional Services,3.5,London,MEDIUM,"Design services, presentations",0.85,64.7,Warm,52.73,82.5,96.5,46.74,100.0
+Johnson & Evans Development,43220,Construction,25.6,Darlington,MEDIUM,Industry may have packaging needs,0.85,64.6,Warm,66.67,100.0,100.0,50.0,40.0
+Evans & Thomas Capital,42110,Construction,9.7,Taunton,MEDIUM,Industry may have packaging needs,0.85,64.55,Warm,36.49,100.0,100.0,50.0,100.0
+GDA Partners,41100,Construction,15.5,Southend,MEDIUM,Industry may have packaging needs,0.85,64.55,Warm,36.49,100.0,100.0,50.0,100.0
+Urban Systems,55900,Accommodation & Food,1.3,London,MEDIUM,Food service packaging,0.85,64.5,Warm,61.36,71.5,94.0,46.74,100.0
+Urban PLC,86900,Health,6.0,Bradford,MEDIUM,Industry may have packaging needs,0.85,64.44,Warm,50.0,95.0,100.0,50.0,78.74
+PKU Construction,43220,Construction,8.5,London,MEDIUM,Industry may have packaging needs,0.85,64.32,Warm,66.67,100.0,100.0,46.74,40.0
+Titan LLP,43999,Construction,10.9,London,MEDIUM,Industry may have packaging needs,0.85,64.28,Warm,36.49,100.0,100.0,46.74,100.0
+GMK Systems,62020,Information & Communication,5.8,Ipswich,MEDIUM,Industry may have packaging needs,0.85,64.27,Warm,54.17,94.0,95.0,50.0,78.74
+XMP Resources,43210,Construction,4.5,Liverpool,MEDIUM,Industry may have packaging needs,0.85,64.24,Warm,36.49,87.5,98.5,75.0,100.0
+Silver Limited,42210,Construction,6.6,Ipswich,MEDIUM,Industry may have packaging needs,0.85,64.21,Warm,36.49,98.0,100.0,50.0,100.0
+North Limited,74100,Professional Services,28.8,West Midlands,MEDIUM,"Design services, presentations",0.85,64.19,Warm,52.73,100.0,100.0,28.85,78.74
+MAJ Group,73110,Professional Services,3.7,Peterborough,MEDIUM,"Marketing materials, presentation folders",0.85,64.19,Warm,52.73,83.5,92.0,50.0,100.0
+YBT Communications,56101,Accommodation & Food,1.1,Lancashire,MEDIUM,Food service packaging,0.85,64.18,Warm,61.36,70.5,97.0,37.5,100.0
+Nova Consulting,74100,Professional Services,2.4,Kilmarnock,MEDIUM,"Design services, presentations",0.85,64.15,Warm,52.73,77.0,97.0,50.0,100.0
+MUO Industries,80200,Administrative Services,5.8,London,MEDIUM,Industry may have packaging needs,0.85,64.06,Warm,69.64,94.0,100.0,46.74,40.0
+WSJ Design,81100,Administrative Services,5.2,Belfast,MEDIUM,Industry may have packaging needs,0.85,63.83,Warm,69.64,91.0,100.0,50.0,40.0
+Walker & Wilson Partners,78109,Administrative Services,9.7,Glasgow,MEDIUM,Industry may have packaging needs,0.85,63.77,Warm,69.64,100.0,100.0,31.25,40.0
+Smith & Davies Associates,73120,Professional Services,3.8,London,MEDIUM,"Marketing materials, presentation folders",0.85,63.68,Warm,52.73,84.0,90.5,46.74,100.0
+PTF Holdings,43320,Construction,14.8,London,MEDIUM,Industry may have packaging needs,0.85,63.64,Warm,36.49,100.0,97.0,46.74,100.0
+KLZ Media,73120,Professional Services,2.2,London,MEDIUM,"Marketing materials, presentation folders",0.85,63.6,Warm,52.73,76.0,96.5,46.74,100.0
+Elite Associates,82990,Administrative Services,8.0,West Midlands,MEDIUM,Fulfillment and business support,0.85,63.56,Warm,69.64,100.0,100.0,28.85,40.0
+Elite Design,62012,Information & Communication,1.7,Dumfries,MEDIUM,Industry may have packaging needs,0.85,63.5,Warm,54.17,73.5,95.0,50.0,100.0
+Red UK,74100,Professional Services,1.9,Blackpool,MEDIUM,"Design services, presentations",0.85,63.41,Warm,52.73,74.5,95.5,50.0,100.0
+MWG Systems,56302,Accommodation & Food,5.6,Darlington,MEDIUM,Food service packaging,0.85,63.41,Warm,66.67,93.0,100.0,50.0,40.0
+GYN Consulting,81210,Administrative Services,33.1,Belfast,MEDIUM,Industry may have packaging needs,0.85,63.39,Warm,69.64,95.9,94.0,50.0,40.0
+Global & Co,43330,Construction,5.5,Teesside,MEDIUM,Industry may have packaging needs,0.85,63.28,Warm,36.49,92.5,100.0,50.0,100.0
+Thomas & Taylor Design,55900,Accommodation & Food,21.3,Newport,MEDIUM,Food service packaging,0.85,63.25,Warm,61.36,100.0,100.0,50.0,40.0
+SCE Properties,56101,Accommodation & Food,9.0,Wales,MEDIUM,Food service packaging,0.85,63.25,Warm,61.36,100.0,100.0,50.0,40.0
+BJQ Services,56102,Accommodation & Food,15.8,Dumfries,MEDIUM,Food service packaging,0.85,63.25,Warm,61.36,100.0,100.0,50.0,40.0
+Phoenix International,55100,Accommodation & Food,11.1,Belfast,MEDIUM,Food service packaging,0.85,63.25,Warm,61.36,100.0,100.0,50.0,40.0
+Elite Development,55100,Accommodation & Food,7.6,East of England,MEDIUM,Food service packaging,0.85,63.25,Warm,61.36,100.0,100.0,50.0,40.0
+Roberts & Brown Enterprises,42990,Construction,12.0,London,MEDIUM,Industry may have packaging needs,0.85,63.21,Warm,36.49,100.0,95.0,46.74,100.0
+Swift UK,63110,Information & Communication,3.4,London,MEDIUM,Industry may have packaging needs,0.85,63.01,Warm,54.17,82.0,100.0,46.74,78.74
+AQY Logistics,96090,Other Services,4.6,Coventry,MEDIUM,Industry may have packaging needs,0.85,62.98,Warm,40.0,88.0,98.0,50.0,100.0
+Wilson & Davies Trading,43220,Construction,0.9,Perth,MEDIUM,Industry may have packaging needs,0.85,62.97,Warm,66.67,69.5,93.5,50.0,78.74
+Nova PLC,56101,Accommodation & Food,10.9,London,MEDIUM,Food service packaging,0.85,62.97,Warm,61.36,100.0,100.0,46.74,40.0
+Eco Solutions,63110,Information & Communication,1.6,Belfast,MEDIUM,Industry may have packaging needs,0.85,62.77,Warm,54.17,73.0,92.0,50.0,100.0
+North International,63110,Information & Communication,2.5,West Midlands,MEDIUM,Industry may have packaging needs,0.85,62.59,Warm,54.17,77.5,96.0,28.85,100.0
+Wilson & Walker Holdings,62012,Information & Communication,0.5,Southend,MEDIUM,Industry may have packaging needs,0.85,62.58,Warm,54.17,67.5,95.5,50.0,100.0
+Speedy PLC,43320,Construction,4.5,Manchester,MEDIUM,Industry may have packaging needs,0.85,62.43,Warm,36.49,87.5,100.0,50.0,100.0
+UTK Print,43220,Construction,5.1,London,MEDIUM,Industry may have packaging needs,0.85,62.39,Warm,66.67,90.5,98.5,46.74,40.0
+Dynamic Group,94990,Other Services,3.4,Milton Keynes,MEDIUM,Industry may have packaging needs,0.85,62.28,Warm,40.0,82.0,99.5,50.0,100.0
+Brown & Wilson Consulting,56102,Accommodation & Food,11.4,Bradford,MEDIUM,Food service packaging,0.85,62.19,Warm,61.36,100.0,95.0,50.0,40.0
+BGD Services,43210,Construction,4.8,Kent,MEDIUM,Industry may have packaging needs,0.85,62.17,Warm,36.49,89.0,97.0,51.47,100.0
+Wright & Thomas Print,62020,Information & Communication,0.5,Exeter,MEDIUM,Industry may have packaging needs,0.85,62.16,Warm,54.17,67.5,93.5,50.0,100.0
+VRM Development,59200,Information & Communication,2.2,Wales,MEDIUM,Industry may have packaging needs,0.85,61.85,Warm,54.17,76.0,98.0,50.0,78.74
+Sterling Engineering,41202,Construction,13.0,Taunton,MEDIUM,Industry may have packaging needs,0.85,61.84,Warm,36.49,100.0,100.0,50.0,78.74
+Cloud Ltd,41202,Construction,9.0,Stockport,MEDIUM,Industry may have packaging needs,0.85,61.84,Warm,36.49,100.0,100.0,50.0,78.74
+VSU Construction,43320,Construction,8.2,Blackpool,MEDIUM,Industry may have packaging needs,0.85,61.84,Warm,36.49,100.0,100.0,50.0,78.74
+WLC Technologies,56210,Accommodation & Food,6.8,London,MEDIUM,Food service packaging,0.85,61.74,Warm,61.36,99.0,95.0,46.74,40.0
+BMY Innovations,77110,Administrative Services,5.2,London,MEDIUM,Industry may have packaging needs,0.85,61.64,Warm,69.64,91.0,91.0,46.74,40.0
+Apex Holdings,62012,Information & Communication,13.7,Kent,MEDIUM,Industry may have packaging needs,0.85,61.54,Warm,54.17,100.0,100.0,51.47,40.0
+Direct Management,73110,Professional Services,15.2,Birmingham,MEDIUM,"Marketing materials, presentation folders",0.85,61.52,Warm,52.73,100.0,100.0,55.56,40.0
+Johnson & Jones Resources,56210,Accommodation & Food,10.9,West Midlands,MEDIUM,Food service packaging,0.85,61.45,Warm,61.36,100.0,100.0,28.85,40.0
+TGL Industries,41100,Construction,14.4,Nottingham,MEDIUM,Industry may have packaging needs,0.85,61.37,Warm,36.49,100.0,100.0,12.5,100.0
+Data PLC,86230,Health,0.8,Chelmsford,MEDIUM,Industry may have packaging needs,0.85,61.35,Warm,50.0,69.0,93.5,50.0,100.0
+Swift Limited,58190,Information & Communication,4.8,Derby,MEDIUM,Publishing materials,0.85,61.31,Warm,61.11,89.0,100.0,50.0,40.0
+DRI Design,74909,Professional Services,1.1,Newport,MEDIUM,"Design services, presentations",0.85,61.24,Warm,52.73,70.5,88.5,50.0,100.0
+Williams & Wilson Group,56102,Accommodation & Food,4.6,Kent,MEDIUM,Food service packaging,0.85,61.23,Warm,61.36,88.0,99.5,51.47,40.0
+Walker & Wilson Media,55100,Accommodation & Food,1.7,Nottingham,MEDIUM,Food service packaging,0.85,61.08,Warm,61.36,73.5,90.0,12.5,100.0
+Diamond & Co,74909,Professional Services,91.1,Oxford,MEDIUM,"Design services, presentations",0.85,61.05,Warm,52.73,60.0,86.0,75.0,100.0
+Williams & Taylor Properties,73120,Professional Services,17.7,Coventry,MEDIUM,"Marketing materials, presentation folders",0.85,61.05,Warm,52.73,100.0,100.0,50.0,40.0
+Net Enterprises,72190,Professional Services,25.9,Staffordshire,MEDIUM,Industry may have packaging needs,0.85,61.05,Warm,52.73,100.0,100.0,50.0,40.0
+Nova Services,43290,Construction,3.4,Staffordshire,MEDIUM,Industry may have packaging needs,0.85,60.8,Warm,40.0,82.0,92.5,50.0,100.0
+North Solutions,41202,Construction,3.8,Perth,MEDIUM,Industry may have packaging needs,0.85,60.77,Warm,36.49,84.0,95.0,50.0,100.0
+Nova LLP,93110,Arts & Entertainment,10.9,Aberdeen,MEDIUM,Industry may have packaging needs,0.85,60.71,Warm,21.43,100.0,100.0,50.0,100.0
+TNI Industries,41202,Construction,6.4,Leicester,MEDIUM,Industry may have packaging needs,0.85,60.63,Warm,36.49,97.0,100.0,41.67,78.74
+RPH Innovations,73120,Professional Services,6.4,Warrington,MEDIUM,"Marketing materials, presentation folders",0.85,60.54,Warm,52.73,97.0,100.0,50.0,40.0
+Dynamic Services,86900,Health,8.1,Kent,MEDIUM,Industry may have packaging needs,0.85,60.47,Warm,50.0,100.0,100.0,51.47,40.0
+Express Ltd,62090,Information & Communication,23.8,East Midlands,MEDIUM,Industry may have packaging needs,0.85,60.35,Warm,54.17,100.0,95.0,50.0,40.0
+Wilson & Johnson Design,81300,Administrative Services,0.1,Liverpool,MEDIUM,Industry may have packaging needs,0.85,60.24,Warm,69.64,65.5,93.5,75.0,40.0
+Jones & Smith Properties,58190,Information & Communication,92.6,Stockport,MEDIUM,Publishing materials,0.85,60.21,Warm,61.11,60.0,82.0,50.0,100.0
+PCZ Development,86220,Health,9.4,London,MEDIUM,Industry may have packaging needs,0.85,60.07,Warm,50.0,100.0,100.0,46.74,40.0
+Taylor & Taylor Development,42990,Construction,15.3,West Midlands,MEDIUM,Industry may have packaging needs,0.85,60.05,Warm,36.49,100.0,100.0,28.85,78.74
+WIS Consulting,82990,Administrative Services,1.8,London,MEDIUM,Fulfillment and business support,0.85,59.81,Cool,69.64,74.0,96.0,46.74,40.0
+Cyber Group,49320,Transportation,6.5,London,MEDIUM,Industry may have packaging needs,0.85,59.65,Cool,50.0,97.5,100.0,46.74,40.0
+Nova LLP,90010,Arts & Entertainment,8.0,Belfast,MEDIUM,Industry may have packaging needs,0.85,59.65,Cool,21.43,100.0,95.0,50.0,100.0
+Urban Enterprises,59112,Information & Communication,17.6,Sheffield,MEDIUM,Industry may have packaging needs,0.85,59.64,Cool,54.17,100.0,95.0,41.67,40.0
+Digital Marketing,49410,Transportation,6.0,Halifax,MEDIUM,Industry may have packaging needs,0.85,59.5,Cool,50.0,95.0,100.0,50.0,40.0
+South PLC,49410,Transportation,8.2,Kent,MEDIUM,Industry may have packaging needs,0.85,59.41,Cool,50.0,100.0,95.0,51.47,40.0
+WIO Capital,58190,Information & Communication,3.1,Dumfries,MEDIUM,Publishing materials,0.85,59.34,Cool,61.11,80.5,97.5,50.0,40.0
+Evans & Walker Media,52290,Transportation,15.3,Lancashire,MEDIUM,Industry may have packaging needs,0.85,59.29,Cool,50.0,100.0,100.0,37.5,40.0
+Vertex Innovations,42210,Construction,35.7,Belfast,MEDIUM,Industry may have packaging needs,0.85,59.0,Cool,36.49,93.3,92.0,50.0,78.74
+West Capital,73110,Professional Services,35.7,Belfast,MEDIUM,"Marketing materials, presentation folders",0.85,58.85,Cool,52.73,93.3,95.0,50.0,40.0
+XFM Properties,72190,Professional Services,0.1,Swansea,MEDIUM,Industry may have packaging needs,0.85,58.74,Cool,52.73,65.5,93.5,50.0,78.74
+Green Group,49410,Transportation,15.7,West Midlands,MEDIUM,Industry may have packaging needs,0.85,58.55,Cool,50.0,100.0,100.0,28.85,40.0
+NBK Holdings,82990,Administrative Services,0.6,East Midlands,MEDIUM,Fulfillment and business support,0.85,58.54,Cool,69.64,68.0,93.5,50.0,40.0
+Speedy Associates,86101,Health,51.6,West Midlands,MEDIUM,Industry may have packaging needs,0.85,58.37,Cool,50.0,77.4,94.0,28.85,78.74
+Red LLP,94910,Other Services,18.2,Cardiff,MEDIUM,Industry may have packaging needs,0.85,58.06,Cool,40.0,100.0,99.0,55.56,40.0
+Prime & Co,43341,Construction,8.4,Middlesex,MEDIUM,Industry may have packaging needs,0.85,57.97,Cool,36.49,100.0,100.0,62.5,40.0
+Info International,82110,Administrative Services,0.8,Lancashire,MEDIUM,Fulfillment and business support,0.85,57.96,Cool,69.64,69.0,95.0,37.5,40.0
+Walker & Evans Management,96020,Other Services,2.9,Colchester,MEDIUM,Industry may have packaging needs,0.85,57.87,Cool,40.0,79.5,93.5,50.0,78.74
+KDV Engineering,43210,Construction,0.9,London,MEDIUM,Industry may have packaging needs,0.85,57.82,Cool,36.49,69.5,94.0,46.74,100.0
+Evans & Davies Communications,94120,Other Services,10.6,Belfast,MEDIUM,Industry may have packaging needs,0.85,57.8,Cool,40.0,100.0,100.0,50.0,40.0
+UBZ Partners,94990,Other Services,8.6,Swindon,MEDIUM,Industry may have packaging needs,0.85,57.8,Cool,40.0,100.0,100.0,50.0,40.0
+Crown LLP,94110,Other Services,16.6,Brighton,MEDIUM,Industry may have packaging needs,0.85,57.8,Cool,40.0,100.0,100.0,50.0,40.0
+Blue International,90020,Arts & Entertainment,9.9,London,MEDIUM,Industry may have packaging needs,0.85,57.73,Cool,21.43,100.0,100.0,46.74,78.74
+Metro Capital,41201,Construction,5.4,Cornwall,MEDIUM,Industry may have packaging needs,0.85,57.67,Cool,36.49,92.0,100.0,75.0,40.0
+Quick Ltd,49320,Transportation,38.7,Colchester,MEDIUM,Industry may have packaging needs,0.85,57.64,Cool,50.0,90.3,95.0,50.0,40.0
+QLH Innovations,52290,Transportation,4.4,Motherwell,MEDIUM,Industry may have packaging needs,0.85,57.61,Cool,50.0,87.0,97.5,50.0,40.0
+Jones & Brown Industries,94910,Other Services,27.3,London,MEDIUM,Industry may have packaging needs,0.85,57.52,Cool,40.0,100.0,100.0,46.74,40.0
+Eco PLC,96090,Other Services,8.9,London,MEDIUM,Industry may have packaging needs,0.85,57.52,Cool,40.0,100.0,100.0,46.74,40.0
+Tech Resources,58142,Information & Communication,45.7,Inverness,MEDIUM,Publishing materials,0.85,57.51,Cool,54.17,83.3,95.0,50.0,40.0
+Jones & Roberts Trading,43290,Construction,6.9,London,MEDIUM,Industry may have packaging needs,0.85,57.44,Cool,40.0,99.5,100.0,46.74,40.0
+Phoenix International,90030,Arts & Entertainment,6.3,Jersey,MEDIUM,Industry may have packaging needs,0.85,57.41,Cool,21.43,96.5,100.0,50.0,78.74
+Jones & Brown Solutions,86210,Health,5.6,London,MEDIUM,Industry may have packaging needs,0.85,57.4,Cool,50.0,93.0,93.0,46.74,40.0
+Rapid Print,56210,Accommodation & Food,0.7,Preston,MEDIUM,Food service packaging,0.85,57.15,Cool,61.36,68.5,96.5,50.0,40.0
+Johnson & Davies Trading,94910,Other Services,8.8,Sheffield,MEDIUM,Industry may have packaging needs,0.85,57.09,Cool,40.0,100.0,100.0,41.67,40.0
+Davies & Brown Properties,43999,Construction,0.0,London,MEDIUM,Industry may have packaging needs,0.85,57.05,Cool,36.49,65.0,94.0,46.74,100.0
+Evans & Williams Technologies,62020,Information & Communication,42.5,Torquay,MEDIUM,Industry may have packaging needs,0.85,56.99,Cool,54.17,86.5,90.0,50.0,40.0
+Crown Partners,53100,Transportation,3.2,Huddersfield,MEDIUM,Industry may have packaging needs,0.85,56.91,Cool,50.0,81.0,99.0,50.0,40.0
+Apex & Co,41202,Construction,17.6,Belfast,MEDIUM,Industry may have packaging needs,0.85,56.9,Cool,36.49,100.0,100.0,50.0,40.0
+Smith & Walker Construction,43341,Construction,17.5,Norwich,MEDIUM,Industry may have packaging needs,0.85,56.9,Cool,36.49,100.0,100.0,50.0,40.0
+Instant Limited,42210,Construction,24.9,Ipswich,MEDIUM,Industry may have packaging needs,0.85,56.9,Cool,36.49,100.0,100.0,50.0,40.0
+Express International,43290,Construction,7.2,Wakefield,MEDIUM,Industry may have packaging needs,0.85,56.74,Cool,40.0,100.0,95.0,50.0,40.0
+Instant Group,90030,Arts & Entertainment,3.3,London,MEDIUM,Industry may have packaging needs,0.85,56.65,Cool,21.43,81.5,97.0,46.74,100.0
+Thompson & Walker Manufacturing,43999,Construction,14.4,London,MEDIUM,Industry may have packaging needs,0.85,56.63,Cool,36.49,100.0,100.0,46.74,40.0
+Premier Innovations,41202,Construction,16.2,London,MEDIUM,Industry may have packaging needs,0.85,56.63,Cool,36.49,100.0,100.0,46.74,40.0
+Green Services,86220,Health,44.8,Milton Keynes,MEDIUM,Industry may have packaging needs,0.85,56.6,Cool,50.0,84.2,95.0,50.0,40.0
+Cloud Ltd,78109,Administrative Services,0.3,West Midlands,MEDIUM,Industry may have packaging needs,0.85,56.59,Cool,69.64,66.5,94.0,28.85,40.0
+Davies & Roberts Associates,43210,Construction,6.6,Durham,MEDIUM,Industry may have packaging needs,0.85,56.56,Cool,36.49,98.0,100.0,50.0,40.0
+QNV Partners,96040,Other Services,36.1,Kent,MEDIUM,Industry may have packaging needs,0.85,56.51,Cool,40.0,92.9,99.0,51.47,40.0
+Info LLP,41100,Construction,2.3,London,MEDIUM,Industry may have packaging needs,0.85,56.51,Cool,36.49,76.5,95.0,46.74,78.74
+Brown & Smith Systems,99999,Other,3.2,London,MEDIUM,Industry may have packaging needs,0.85,56.42,Cool,50.0,81.0,98.0,46.74,40.0
+Roberts & Roberts Management,86210,Health,3.0,Wigan,MEDIUM,Industry may have packaging needs,0.85,56.42,Cool,50.0,80.0,97.5,50.0,40.0
+Pro Resources,43110,Construction,16.0,Cardiff,MEDIUM,Industry may have packaging needs,0.85,56.31,Cool,36.49,100.0,95.0,55.56,40.0
+AIY Technologies,42990,Construction,5.4,Birmingham,MEDIUM,Industry may have packaging needs,0.85,56.02,Cool,36.49,92.0,100.0,55.56,40.0
+Quantum Capital,90010,Arts & Entertainment,4.5,Huddersfield,MEDIUM,Industry may have packaging needs,0.85,55.88,Cool,21.43,87.5,100.0,50.0,78.74
+Diamond Manufacturing,96090,Other Services,6.3,London,MEDIUM,Industry may have packaging needs,0.85,55.87,Cool,40.0,96.5,95.0,46.74,40.0
+IFA Manufacturing,41202,Construction,8.7,Reading,MEDIUM,Industry may have packaging needs,0.85,55.84,Cool,36.49,100.0,95.0,50.0,40.0
+Diamond International,41202,Construction,29.1,Lancashire,MEDIUM,Industry may have packaging needs,0.85,55.82,Cool,36.49,99.9,100.0,37.5,40.0
+Urban Construction,96090,Other Services,5.1,Cheshire,MEDIUM,Industry may have packaging needs,0.85,55.8,Cool,40.0,90.5,100.0,45.45,40.0
+Data Systems,99999,Other,88.9,Norwich,MEDIUM,Industry may have packaging needs,0.85,55.73,Cool,50.0,60.0,87.0,50.0,78.74
+Instant LLP,88100,Health,3.4,Glasgow,MEDIUM,Industry may have packaging needs,0.85,55.7,Cool,50.0,82.0,100.0,31.25,40.0
+Crown LLP,43290,Construction,29.3,Manchester,MEDIUM,Industry may have packaging needs,0.85,55.62,Cool,40.0,99.7,90.0,50.0,40.0
+Net Group,43320,Construction,5.7,Halifax,MEDIUM,Industry may have packaging needs,0.85,55.59,Cool,36.49,93.5,99.0,50.0,40.0
+CDF Communications,49320,Transportation,2.5,Stockport,MEDIUM,Industry may have packaging needs,0.85,55.57,Cool,50.0,77.5,95.5,50.0,40.0
+Elite Group,42990,Construction,9.0,London,MEDIUM,Industry may have packaging needs,0.85,55.56,Cool,36.49,100.0,95.0,46.74,40.0
+NQK Systems,90010,Arts & Entertainment,3.2,London,MEDIUM,Industry may have packaging needs,0.85,55.51,Cool,21.43,81.0,92.0,46.74,100.0
+Roberts & Walker Solutions,74100,Professional Services,84.3,West Midlands,MEDIUM,"Design services, presentations",0.85,55.48,Cool,52.73,60.0,91.0,28.85,78.74
+Titan Holdings,62020,Information & Communication,1.6,Bolton,MEDIUM,Industry may have packaging needs,0.85,55.44,Cool,54.17,73.0,93.5,50.0,40.0
+Williams & Taylor Properties,43220,Construction,0.6,Cambridge,MEDIUM,Industry may have packaging needs,0.85,55.41,Cool,66.67,68.0,94.0,20.83,40.0
+Smith & Williams Creative,93110,Arts & Entertainment,5.1,Torquay,MEDIUM,Industry may have packaging needs,0.85,55.33,Cool,21.43,90.5,95.0,50.0,78.74
+Core PLC,43290,Construction,10.7,Cambridge,MEDIUM,Industry may have packaging needs,0.85,55.32,Cool,40.0,100.0,100.0,20.83,40.0
+Alpha Ltd,93120,Arts & Entertainment,7.6,Cornwall,MEDIUM,Industry may have packaging needs,0.85,55.19,Cool,21.43,100.0,100.0,75.0,40.0
+CZW Properties,93120,Arts & Entertainment,3.8,Sunderland,MEDIUM,Industry may have packaging needs,0.85,55.18,Cool,21.43,84.0,99.5,50.0,78.74
+Peak Construction,96020,Other Services,2.7,Surrey,MEDIUM,Industry may have packaging needs,0.85,55.12,Cool,40.0,78.5,96.0,71.43,40.0
+Elite Group,42990,Construction,4.7,Chelmsford,MEDIUM,Industry may have packaging needs,0.85,54.74,Cool,36.49,88.5,99.0,50.0,40.0
+Data Group,43210,Construction,74.1,Sheffield,MEDIUM,Industry may have packaging needs,0.85,54.71,Cool,36.49,60.0,89.0,41.67,100.0
+Williams & Davies Resources,94120,Other Services,5.8,Bristol,MEDIUM,Industry may have packaging needs,0.85,54.46,Cool,40.0,94.0,100.0,22.73,40.0
+Williams & Wilson Creative,43390,Construction,37.3,Brighton,MEDIUM,Industry may have packaging needs,0.85,54.43,Cool,36.49,91.7,95.0,50.0,40.0
+JSB Print,90030,Arts & Entertainment,2.2,West Midlands,MEDIUM,Industry may have packaging needs,0.85,54.41,Cool,21.43,76.0,98.0,28.85,100.0
+Central Communications,49320,Transportation,1.3,London,MEDIUM,Industry may have packaging needs,0.85,54.06,Cool,50.0,71.5,94.5,46.74,40.0
+Royal UK,49410,Transportation,0.8,Shrewsbury,MEDIUM,Industry may have packaging needs,0.85,53.8,Cool,50.0,69.0,94.0,50.0,40.0
+Thomas & Thompson Print,43210,Construction,9.5,Nottingham,MEDIUM,Industry may have packaging needs,0.85,53.72,Cool,36.49,100.0,100.0,12.5,40.0
+Blue Holdings,49410,Transportation,1.4,Kent,MEDIUM,Industry may have packaging needs,0.85,53.7,Cool,50.0,72.0,90.5,51.47,40.0
+Roberts & Taylor Manufacturing,43120,Construction,3.5,London,MEDIUM,Industry may have packaging needs,0.85,53.44,Cool,36.49,82.5,99.0,46.74,40.0
+Prime Media,68310,Real Estate,7.5,Kent,LOW,Real estate - limited need,0.6,53.18,Cool,78.26,100.0,100.0,51.47,100.0
+Swift UK,68201,Real Estate,10.6,Taunton,LOW,Real estate - limited need,0.6,53.09,Cool,78.26,100.0,100.0,50.0,100.0
+Pro Limited,68100,Real Estate,6.9,Stockport,LOW,Real estate - limited need,0.6,53.03,Cool,78.26,99.5,100.0,50.0,100.0
+Walker & Williams Engineering,43210,Construction,5.8,West Midlands,MEDIUM,Industry may have packaging needs,0.85,53.02,Cool,36.49,94.0,95.0,28.85,40.0
+Davies & Evans Creative,68100,Real Estate,30.7,Hull,LOW,Real estate - limited need,0.6,52.88,Cool,78.26,98.3,100.0,50.0,100.0
+Instant LLP,93130,Arts & Entertainment,9.4,London,MEDIUM,Industry may have packaging needs,0.85,52.79,Cool,21.43,100.0,100.0,46.74,40.0
+Thomas & Evans Construction,68100,Real Estate,30.6,Blackpool,LOW,Real estate - limited need,0.6,52.74,Cool,78.26,98.4,99.0,50.0,100.0
+Cyber LLP,68209,Real Estate,21.5,Wakefield,LOW,Real estate - limited need,0.6,52.34,Cool,78.26,100.0,95.0,50.0,100.0
+PES Construction,68209,Real Estate,9.9,Aberdeen,LOW,Real estate - limited need,0.6,52.34,Cool,78.26,100.0,95.0,50.0,100.0
+YRO Trading,88100,Health,64.3,Milton Keynes,MEDIUM,Industry may have packaging needs,0.85,52.22,Cool,50.0,64.7,90.0,50.0,40.0
+Red Group,94110,Other Services,1.7,Colchester,MEDIUM,Industry may have packaging needs,0.85,51.91,Cool,40.0,73.5,93.5,50.0,40.0
+Davies & Jones Services,43390,Construction,2.3,London,MEDIUM,Industry may have packaging needs,0.85,51.89,Cool,36.49,76.5,96.5,46.74,40.0
+Vertex International,94990,Other Services,0.9,Northampton,MEDIUM,Industry may have packaging needs,0.85,51.76,Cool,40.0,69.5,96.0,50.0,40.0
+UIN Enterprises,90010,Arts & Entertainment,9.9,London,MEDIUM,Industry may have packaging needs,0.85,51.72,Cool,21.43,100.0,95.0,46.74,40.0
+Evans & Wright Engineering,68209,Real Estate,4.8,Belfast,LOW,Real estate - limited need,0.6,51.69,Cool,78.26,89.0,99.5,50.0,100.0
+DQR Services,90030,Arts & Entertainment,5.2,Kent,MEDIUM,Industry may have packaging needs,0.85,51.66,Cool,21.43,91.0,100.0,51.47,40.0
+FLI Partners,49410,Transportation,96.1,Sheffield,MEDIUM,Industry may have packaging needs,0.85,51.57,Cool,50.0,60.0,94.0,41.67,40.0
+VRN Holdings,68310,Real Estate,7.4,Bath,LOW,Real estate - limited need,0.6,51.17,Cool,78.26,100.0,100.0,50.0,78.74
+East Ltd,68209,Real Estate,4.3,Wales,LOW,Real estate - limited need,0.6,50.57,Cool,78.26,86.5,94.0,50.0,100.0
+Urban UK,68209,Real Estate,6.0,London,LOW,Real estate - limited need,0.6,50.38,Cool,78.26,95.0,100.0,46.74,78.74
+Brown & Thompson Print,41201,Construction,0.6,Blackpool,MEDIUM,Industry may have packaging needs,0.85,50.08,Cool,36.49,68.0,93.5,50.0,40.0
+United Properties,68320,Real Estate,3.0,Ipswich,LOW,Real estate - limited need,0.6,49.94,Cool,78.26,80.0,95.0,50.0,100.0
+GTJ Development,68310,Real Estate,5.2,London,LOW,Real estate - limited need,0.6,49.9,Cool,78.26,91.0,100.0,46.74,78.74
+CVH Consulting,68209,Real Estate,3.1,Manchester,LOW,Real estate - limited need,0.6,49.7,Cool,78.26,80.5,93.0,50.0,100.0
+Tech Construction,68209,Real Estate,40.0,Cardiff,LOW,Real estate - limited need,0.6,49.44,Cool,78.26,89.0,95.0,55.56,78.74
+FIA Design,68100,Real Estate,19.7,Oxford,LOW,Real estate - limited need,0.6,49.19,Cool,78.26,100.0,100.0,75.0,40.0
+MXY Development,43390,Construction,0.4,Preston,MEDIUM,Industry may have packaging needs,0.85,49.17,Cool,36.49,67.0,90.0,50.0,40.0
+Peak Properties,69102,Professional Services,9.3,Edinburgh,LOW,Pure services - minimal packaging need,0.6,48.71,Cool,52.73,100.0,100.0,53.57,100.0
+XLM Design,68100,Real Estate,1.3,Shrewsbury,LOW,Real estate - limited need,0.6,48.69,Cool,78.26,71.5,93.5,50.0,100.0
+City Ltd,93130,Arts & Entertainment,34.6,West Midlands,MEDIUM,Industry may have packaging needs,0.85,48.61,Cool,21.43,94.4,92.0,28.85,40.0
+Evans & Johnson Capital,71111,Professional Services,12.7,Norwich,LOW,Pure services - minimal packaging need,0.6,48.49,Cool,52.73,100.0,100.0,50.0,100.0
+KHA Solutions,71200,Professional Services,15.1,East of England,LOW,Pure services - minimal packaging need,0.6,48.49,Cool,52.73,100.0,100.0,50.0,100.0
+UCX Trading,70229,Professional Services,23.8,Bath,LOW,Pure services - minimal packaging need,0.6,48.49,Cool,52.73,100.0,100.0,50.0,100.0
+Walker & Thomas Print,70229,Professional Services,4.6,Surrey,LOW,Pure services - minimal packaging need,0.6,48.34,Cool,52.73,88.0,100.0,71.43,100.0
+West International,70100,Professional Services,12.5,London,LOW,Pure services - minimal packaging need,0.6,48.3,Cool,52.73,100.0,100.0,46.74,100.0
+Crystal PLC,71121,Professional Services,6.5,York,LOW,Pure services - minimal packaging need,0.6,48.19,Cool,52.73,97.5,100.0,50.0,100.0
+Global Industries,71122,Professional Services,3.5,London,LOW,Pure services - minimal packaging need,0.6,48.1,Cool,66.67,82.5,96.0,46.74,100.0
+Wilson & Brown Associates,70210,Professional Services,10.9,Huddersfield,LOW,Pure services - minimal packaging need,0.6,48.04,Cool,52.73,100.0,97.0,50.0,100.0
+Thompson & Wilson Industries,64209,Finance,9.9,Derby,LOW,Financial services - minimal need,0.6,48.0,Cool,50.0,100.0,100.0,50.0,100.0
+QEO Logistics,90030,Arts & Entertainment,0.5,Surrey,MEDIUM,Industry may have packaging needs,0.85,47.98,Cool,21.43,67.5,93.5,71.43,40.0
+Summit Group,68100,Real Estate,16.8,Edinburgh,LOW,Real estate - limited need,0.6,47.9,Cool,78.26,100.0,100.0,53.57,40.0
+Tech & Co,68100,Real Estate,26.5,Kent,LOW,Real estate - limited need,0.6,47.78,Cool,78.26,100.0,100.0,51.47,40.0
+First PLC,68310,Real Estate,65.0,Dumfries,LOW,Real estate - limited need,0.6,47.72,Cool,78.26,64.0,93.0,50.0,100.0
+Thompson & Roberts Trading,69102,Professional Services,36.9,Brighton,LOW,Pure services - minimal packaging need,0.6,47.54,Cool,52.73,92.1,100.0,50.0,100.0
+FEI Logistics,68100,Real Estate,10.9,London,LOW,Real estate - limited need,0.6,47.49,Cool,78.26,100.0,100.0,46.74,40.0
+South Industries,70100,Professional Services,5.4,London,LOW,Pure services - minimal packaging need,0.6,47.34,Cool,52.73,92.0,100.0,46.74,100.0
+Taylor & Johnson Marketing,70229,Professional Services,6.1,Falkirk,LOW,Pure services - minimal packaging need,0.6,47.2,Cool,52.73,95.5,95.0,50.0,100.0
+Vertex Resources,65120,Finance,9.7,London,LOW,Financial services - minimal need,0.6,47.05,Cool,50.0,100.0,95.0,46.74,100.0
+Williams & Davies Creative,69109,Professional Services,4.8,Blackpool,LOW,Pure services - minimal packaging need,0.6,46.95,Cool,52.73,89.0,98.5,50.0,100.0
+Jones & Taylor Resources,69102,Professional Services,5.4,Lancashire,LOW,Pure services - minimal packaging need,0.6,46.78,Cool,52.73,92.0,100.0,37.5,100.0
+Cloud Communications,70229,Professional Services,24.1,Wales,LOW,Pure services - minimal packaging need,0.6,46.58,Cool,52.73,100.0,100.0,50.0,78.74
+Smith & Wright Trading,68209,Real Estate,62.1,Kent,LOW,Real estate - limited need,0.6,46.54,Cool,78.26,66.9,95.0,51.47,78.74
+Thompson & Davies Manufacturing,70229,Professional Services,3.7,Coventry,LOW,Pure services - minimal packaging need,0.6,46.51,Cool,52.73,83.5,100.0,50.0,100.0
+Evans & Roberts Engineering,71200,Professional Services,4.6,Dumfries,LOW,Pure services - minimal packaging need,0.6,46.45,Cool,52.73,88.0,96.0,50.0,100.0
+KRD Resources,68310,Real Estate,7.4,West Midlands,LOW,Real estate - limited need,0.6,46.42,Cool,78.26,100.0,100.0,28.85,40.0
+Roberts & Williams Properties,64209,Finance,32.4,Bradford,LOW,Financial services - minimal need,0.6,46.39,Cool,50.0,96.6,92.0,50.0,100.0
+Express UK,69102,Professional Services,8.9,London,LOW,Pure services - minimal packaging need,0.6,46.38,Cool,52.73,100.0,100.0,46.74,78.74
+Speedy Enterprises,70229,Professional Services,10.7,London,LOW,Pure services - minimal packaging need,0.6,46.38,Cool,52.73,100.0,100.0,46.74,78.74
+EJX Marketing,69201,Professional Services,18.9,London,LOW,Pure services - minimal packaging need,0.6,46.38,Cool,52.73,100.0,100.0,46.74,78.74
+Info & Co,70100,Professional Services,5.4,West Midlands,LOW,Pure services - minimal packaging need,0.6,46.26,Cool,52.73,92.0,100.0,28.85,100.0
+KLD Systems,69201,Professional Services,3.9,London,LOW,Pure services - minimal packaging need,0.6,46.14,Cool,52.73,84.5,98.0,46.74,100.0
+Johnson & Taylor Technologies,68201,Real Estate,3.9,East of England,LOW,Real estate - limited need,0.6,45.83,Cool,78.26,84.5,100.0,50.0,40.0
+TFH Consulting,71111,Professional Services,24.4,Buckinghamshire,LOW,Pure services - minimal packaging need,0.6,45.72,Cool,52.73,100.0,100.0,93.75,40.0
+Brown & Thomas Consulting,65120,Finance,3.5,London,LOW,Financial services - minimal need,0.6,45.7,Cool,50.0,82.5,100.0,46.74,100.0
+Roberts & Williams Development,66190,Finance,4.5,Cheshire,LOW,Financial services - minimal need,0.6,45.7,Cool,50.0,87.5,96.5,45.45,100.0
+Thompson & Roberts Communications,64999,Finance,3.4,London,LOW,Financial services - minimal need,0.6,45.64,Cool,50.0,82.0,100.0,46.74,100.0
+Blue Ltd,64209,Finance,3.2,Milton Keynes,LOW,Financial services - minimal need,0.6,45.34,Cool,50.0,81.0,97.5,50.0,100.0
+Smith & Johnson Capital,70229,Professional Services,24.5,Sheffield,LOW,Pure services - minimal packaging need,0.6,45.33,Cool,52.73,100.0,95.0,41.67,78.74
+Quantum PLC,70100,Professional Services,4.4,Paisley,LOW,Pure services - minimal packaging need,0.6,45.02,Cool,52.73,87.0,100.0,50.0,78.74
+Thomas & Jones Associates,70100,Professional Services,3.3,Hull,LOW,Pure services - minimal packaging need,0.6,45.0,Cold,52.73,81.5,91.5,50.0,100.0
+Crystal Limited,70100,Professional Services,17.8,Leeds,LOW,Pure services - minimal packaging need,0.6,44.86,Cold,52.73,100.0,100.0,79.55,40.0
+Tech & Co,85310,Education,27.9,Reading,LOW,Education - limited need,0.6,44.7,Cold,37.5,100.0,93.0,50.0,100.0
+Jones & Brown Group,70229,Professional Services,2.5,Belfast,LOW,Pure services - minimal packaging need,0.6,44.67,Cold,52.73,77.5,92.5,50.0,100.0
+OZA Systems,71111,Professional Services,1.7,Wigan,LOW,Pure services - minimal packaging need,0.6,44.64,Cold,52.73,73.5,95.5,50.0,100.0
+CHD Creative,66120,Finance,2.6,Aberdeen,LOW,Financial services - minimal need,0.6,44.61,Cold,50.0,78.0,95.0,50.0,100.0
+YLF Capital,69102,Professional Services,4.0,London,LOW,Pure services - minimal packaging need,0.6,44.58,Cold,52.73,85.0,100.0,46.74,78.74
+BXE Technologies,66120,Finance,36.2,Peterborough,LOW,Financial services - minimal need,0.6,44.47,Cold,50.0,92.8,95.0,50.0,78.74
+Rapid Solutions,68100,Real Estate,2.5,Derby,LOW,Real estate - limited need,0.6,44.46,Cold,78.26,77.5,96.5,50.0,40.0
+TUC Partners,70229,Professional Services,1.7,London,LOW,Pure services - minimal packaging need,0.6,44.44,Cold,52.73,73.5,95.5,46.74,100.0
+LOB Communications,70229,Professional Services,0.9,Inverness,LOW,Pure services - minimal packaging need,0.6,43.86,Cold,52.73,69.5,93.5,50.0,100.0
+NSF Marketing,69102,Professional Services,1.6,London,LOW,Pure services - minimal packaging need,0.6,43.78,Cold,52.73,73.0,91.5,46.74,100.0
+HSN Trading,69109,Professional Services,22.1,London,LOW,Pure services - minimal packaging need,0.6,42.9,Cold,52.73,100.0,100.0,46.74,40.0
+Crown Ltd,68100,Real Estate,0.6,Peterborough,LOW,Real estate - limited need,0.6,42.87,Cold,78.26,68.0,93.5,50.0,40.0
+Golden International,69109,Professional Services,0.4,Dumfries,LOW,Pure services - minimal packaging need,0.6,42.81,Cold,52.73,67.0,88.5,50.0,100.0
+PUD Resources,71111,Professional Services,2.0,Cambridge,LOW,Pure services - minimal packaging need,0.6,42.47,Cold,52.73,75.0,91.5,20.83,100.0
+Quick International,66190,Finance,0.5,Huddersfield,LOW,Financial services - minimal need,0.6,42.38,Cold,50.0,67.5,88.5,50.0,100.0
+XSF Group,69102,Professional Services,25.7,Sunderland,LOW,Pure services - minimal packaging need,0.6,42.34,Cold,52.73,100.0,95.0,50.0,40.0
+Elite & Co,66190,Finance,8.9,Leicester,LOW,Financial services - minimal need,0.6,42.1,Cold,50.0,100.0,100.0,41.67,40.0
+ADY Marketing,71111,Professional Services,6.7,London,LOW,Pure services - minimal packaging need,0.6,41.97,Cold,52.73,98.5,95.0,46.74,40.0
+Apex & Co,70100,Professional Services,18.8,West Midlands,LOW,Pure services - minimal packaging need,0.6,41.82,Cold,52.73,100.0,100.0,28.85,40.0
+Tech Management,71200,Professional Services,31.2,Bolton,LOW,Pure services - minimal packaging need,0.6,41.63,Cold,52.73,97.8,92.0,50.0,40.0
+Digital UK,85100,Education,1.3,Staffordshire,LOW,Education - limited need,0.6,41.36,Cold,37.5,71.5,93.5,50.0,100.0
+Quantum & Co,66190,Finance,9.8,West Midlands,LOW,Financial services - minimal need,0.6,41.33,Cold,50.0,100.0,100.0,28.85,40.0
+ZBI Capital,70229,Professional Services,39.2,Stockport,LOW,Pure services - minimal packaging need,0.6,41.12,Cold,52.73,89.8,95.0,50.0,40.0
+Net Development,66120,Finance,3.9,Kent,LOW,Financial services - minimal need,0.6,40.83,Cold,50.0,84.5,100.0,51.47,40.0
+Wilson & Jones Technologies,68100,Real Estate,69.7,Hull,LOW,Real estate - limited need,0.6,40.79,Cold,78.26,60.0,86.0,50.0,40.0
+Royal Ltd,68209,Real Estate,68.1,London,LOW,Real estate - limited need,0.6,40.7,Cold,78.26,60.9,86.0,46.74,40.0
+Beta Group,85320,Education,26.2,Ipswich,LOW,Education - limited need,0.6,40.35,Cold,37.5,100.0,100.0,50.0,40.0
+Walker & Evans Management,68201,Real Estate,85.3,Huddersfield,LOW,Real estate - limited need,0.6,40.34,Cold,78.26,60.0,83.0,50.0,40.0
+Urban Engineering,69102,Professional Services,79.4,Lancashire,LOW,Pure services - minimal packaging need,0.6,39.83,Cold,52.73,60.0,92.0,37.5,78.74
+Roberts & Brown Partners,64209,Finance,89.8,Middlesex,LOW,Financial services - minimal need,0.6,37.2,Cold,50.0,60.0,91.0,62.5,40.0
