@@ -1,0 +1,218 @@
+{
+  "_metadata": {
+    "description": "Segment profiles from hierarchical K-Means clustering",
+    "data_snapshot": "October 2024",
+    "active_threshold_days": 365,
+    "source_mapping": {
+      "segments_0_to_4": "ADS core recluster (subclusters of initial mixed cluster 0)",
+      "segments_5_to_7": "Original primary clusters 1, 2, 3 (remapped)"
+    },
+    "key_insights": [
+      "Segment 0: Burst pattern - short tenure (59d) + high orders_per_year (mean 20.6, median 1) = skewed by few burst buyers",
+      "Segment 2: High-Cadence Lapsed - highest historical activity (18.7 orders/year) but now 84% dormant",
+      "Segment 4: 49.6% active (verified) - highest value segment, CRITICAL win-back priority",
+      "Segment 5: Long-tenure relationship cohort (1722d avg tenure, 40% active) - PROTECT",
+      "Segment 7: Archive tier - lowest value (median £789), lowest activity (10% active)"
+    ],
+    "metric_notes": {
+      "monetary_total": "Displayed as MEDIAN by default to avoid outlier skew",
+      "recent_12m_revenue": "Revenue from trailing 365 days from Oct 2024 snapshot. £0 for recency > 365",
+      "pct_active": "Computed as % with recency_days <= 365, not segment-level assumption",
+      "orders_per_year": "When mean >> median, distribution is skewed (few high-activity customers)"
+    }
+  },
+  "0": {
+    "name": "Early-Churn Burst",
+    "description": "Short tenure (median 0d, mean 59d) with skewed activity pattern. Most are one-time buyers (orders_per_year median=1), but a subset had burst activity (mean=20.6). Suggests onboarding friction for the active subset.",
+    "source": "core_subcluster0",
+    "count": 686,
+    "metrics": {
+      "median_monetary": 1621,
+      "mean_monetary": 10615,
+      "median_recency_days": 1432,
+      "mean_recency_days": 1420,
+      "pct_active": 12.0,
+      "orders_per_year_median": 1.0,
+      "orders_per_year_mean": 20.6,
+      "median_tenure_days": 0,
+      "mean_tenure_days": 59,
+      "avg_days_between_orders": 8.5
+    },
+    "recommended_actions": [
+      "Automated friction-removal survey for recent churners",
+      "Address spec/MOQ/lead time concerns in messaging",
+      "Segment top 10% by value for personal outreach",
+      "Batch-only for median one-timers"
+    ],
+    "motion": "Friction Removal",
+    "priority": "MEDIUM",
+    "color": "#FF7043"
+  },
+  "1": {
+    "name": "Lapsed Regular",
+    "description": "Previously regular customers (orders_per_year ~4-5) who stopped. 57% still active. Need diagnosis before discounting.",
+    "source": "core_subcluster1",
+    "count": 7,
+    "metrics": {
+      "median_monetary": 3967,
+      "mean_monetary": 6166,
+      "median_recency_days": 327,
+      "mean_recency_days": 716,
+      "pct_active": 57.1,
+      "orders_per_year_median": 4.84,
+      "orders_per_year_mean": 4.05
+    },
+    "recommended_actions": [
+      "Personal phone outreach - diagnosis first",
+      "Avoid discount-first approach",
+      "Understand service/quality/pricing concerns",
+      "Tailored win-back based on feedback"
+    ],
+    "motion": "Diagnosis-First",
+    "priority": "HIGH",
+    "color": "#AB47BC"
+  },
+  "2": {
+    "name": "High-Cadence Lapsed",
+    "description": "Highest historical activity (18.7 orders/year median) but now 84% dormant. Were highly engaged when active - worth win-back effort.",
+    "source": "core_subcluster2",
+    "count": 31,
+    "metrics": {
+      "median_monetary": 2495,
+      "mean_monetary": 6347,
+      "median_recency_days": 1192,
+      "mean_recency_days": 1190,
+      "pct_active": 16.1,
+      "orders_per_year_median": 18.73,
+      "orders_per_year_mean": 22.04
+    },
+    "recommended_actions": [
+      "Win-back with barrier removal focus",
+      "Fast re-quote with simplified process",
+      "Review historical patterns for personalization"
+    ],
+    "motion": "Win-back",
+    "priority": "HIGH",
+    "color": "#5C6BC0"
+  },
+  "3": {
+    "name": "Project Re-quote",
+    "description": "Higher AOV (median £2,877) with moderate order frequency (9.3/year). Project-based buying pattern - maintain awareness.",
+    "source": "core_subcluster3",
+    "count": 14,
+    "metrics": {
+      "median_monetary": 2877,
+      "mean_monetary": 6826,
+      "median_recency_days": 1129,
+      "mean_recency_days": 1288,
+      "pct_active": 14.3,
+      "orders_per_year_median": 9.34,
+      "orders_per_year_mean": 8.63
+    },
+    "recommended_actions": [
+      "Semi-personal quarterly touchpoints",
+      "Project planning check-ins",
+      "Case study and capability updates",
+      "Fast turnaround when project starts"
+    ],
+    "motion": "Project Re-quote",
+    "priority": "MEDIUM",
+    "color": "#26A69A"
+  },
+  "4": {
+    "name": "Win-back VIP",
+    "description": "CRITICAL: Highest value (median £19,748, mean £91,587). 49.6% still active (verified). Executive-level tiered win-back required.",
+    "source": "core_subcluster4",
+    "count": 117,
+    "metrics": {
+      "median_monetary": 19748,
+      "mean_monetary": 91587,
+      "median_recency_days": 415,
+      "mean_recency_days": 576,
+      "pct_active": 49.6,
+      "orders_per_year_median": 2.70,
+      "orders_per_year_mean": 6.05,
+      "total_segment_revenue": 10715642
+    },
+    "recommended_actions": [
+      "URGENT: Executive outreach within 48 hours",
+      "Tiered offer ladder: Service fix → Commercial terms → Incentive",
+      "Reason-coded churn analysis per account",
+      "Account review meeting with senior leadership"
+    ],
+    "motion": "Executive Win-back",
+    "priority": "CRITICAL",
+    "color": "#E53935"
+  },
+  "5": {
+    "name": "Long-Tenure Relationship",
+    "description": "Long-tenure cohort (1722d avg tenure). 40% active. Relationship-heavy segment - protect and grow.",
+    "source": "initial_cluster1",
+    "count": 5,
+    "metrics": {
+      "median_monetary": 2474,
+      "mean_monetary": 3856,
+      "median_recency_days": 375,
+      "mean_recency_days": 449,
+      "pct_active": 40.0,
+      "orders_per_year_median": 0.44,
+      "orders_per_year_mean": 0.43,
+      "mean_tenure_days": 1722
+    },
+    "recommended_actions": [
+      "PROTECT: Dedicated account management",
+      "Cross-sell and upsell opportunities",
+      "Loyalty recognition program",
+      "Quarterly business reviews"
+    ],
+    "motion": "Retention + Grow",
+    "priority": "PROTECT",
+    "color": "#43A047"
+  },
+  "6": {
+    "name": "Dormant Mid-Tenure",
+    "description": "Mid-tenure (median 454d) with 84% now dormant. Worth moderate re-engagement effort.",
+    "source": "initial_cluster2",
+    "count": 38,
+    "metrics": {
+      "median_monetary": 2859,
+      "mean_monetary": 5077,
+      "median_recency_days": 840,
+      "mean_recency_days": 1018,
+      "pct_active": 15.8,
+      "orders_per_year_median": 1.63,
+      "orders_per_year_mean": 1.97
+    },
+    "recommended_actions": [
+      "'We miss you' email sequence",
+      "Special return customer offer",
+      "Quarterly touchpoints"
+    ],
+    "motion": "Re-engagement",
+    "priority": "LOW-MEDIUM",
+    "color": "#FFA726"
+  },
+  "7": {
+    "name": "Archive/Low-Touch",
+    "description": "Lowest value (median £789), lowest activity (10% active). Archive tier - minimal investment only.",
+    "source": "initial_cluster3",
+    "count": 10,
+    "metrics": {
+      "median_monetary": 789,
+      "mean_monetary": 1393,
+      "median_recency_days": 724,
+      "mean_recency_days": 905,
+      "pct_active": 10.0,
+      "orders_per_year_median": 0.65,
+      "orders_per_year_mean": 0.75
+    },
+    "recommended_actions": [
+      "Batch emails only (2x/year)",
+      "No personal outreach",
+      "Consider for archive after 2 no-response campaigns"
+    ],
+    "motion": "Batch Only",
+    "priority": "LOWEST",
+    "color": "#78909C"
+  }
+}
