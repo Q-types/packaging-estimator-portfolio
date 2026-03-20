@@ -1,6 +1,6 @@
-# PackagePro Intelligence Dashboard
+# Customer Intelligence Dashboard
 
-A comprehensive customer analytics dashboard built with Streamlit for PackagePro. Features advanced customer segmentation, prospect scoring, and actionable business insights.
+A comprehensive customer analytics dashboard built with Streamlit. Features advanced customer segmentation, profiling, and AI-powered prospect recommendation.
 
 ## Features
 
@@ -13,6 +13,11 @@ A comprehensive customer analytics dashboard built with Streamlit for PackagePro
 - **New Prospects** - Recently acquired, nurturing needed
 - **Growth Potential** - Active with expansion opportunity
 - **High-Value Regulars** - Premium accounts to protect
+
+### Prospect Recommendation System
+- **KNN Similarity Scoring** - Finds companies similar to your best customers
+- **Companies House Integration** - Search and discover UK companies
+- **Automated Ranking** - Prospects scored by likelihood to convert
 
 ### Dashboard Views
 - **Action Center** - Daily prioritised tasks and alerts
@@ -31,7 +36,7 @@ pip install -r requirements.txt
 ## Running Locally
 
 ```bash
-streamlit run PackagePro_Customer_Intelligence.py
+streamlit run Customer_Intelligence.py
 ```
 
 Or use the included run script:
@@ -46,7 +51,7 @@ For Companies House API access, create a `.env` file:
 COMPANIES_HOUSE_API_KEY=your_api_key_here
 ```
 
-For Streamlit Cloud deployment, add the API key to `.streamlit/secrets.toml`.
+For Streamlit Cloud deployment, add the API key in the Streamlit Cloud dashboard under Settings → Secrets.
 
 ## Data
 
@@ -56,7 +61,9 @@ The dashboard includes pre-processed customer data with:
 - Customer lifetime value metrics
 - Order pattern analysis
 
-**Data Snapshot Date**: October 2024
+**Note**: Company names have been anonymised for confidentiality. All metrics and analytical insights are based on real business data.
+
+**Data Snapshot Date**: September 2024
 
 ## Tech Stack
 
@@ -64,11 +71,8 @@ The dashboard includes pre-processed customer data with:
 - **Visualisation**: Plotly
 - **Data Processing**: Pandas, NumPy
 - **Machine Learning**: scikit-learn (KNN prospect scoring)
+- **External API**: Companies House
 
 ## Deployment
 
 This app is configured for deployment on [Streamlit Cloud](https://streamlit.io/cloud).
-
-## License
-
-Proprietary - PackagePro
