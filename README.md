@@ -29,7 +29,9 @@ Company names have been anonymised for confidentiality. All metrics, segments, a
 - **Frontend**: Streamlit
 - **Visualisation**: Plotly
 - **Data Processing**: Pandas, NumPy
-- **Machine Learning**: scikit-learn (KNN prospect scoring)
+- **Machine Learning**: scikit-learn
+  - KMeans clustering for customer segmentation
+  - KNN for prospect similarity scoring
 - **External API**: Companies House
 
 ## Running Locally
