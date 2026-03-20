@@ -168,6 +168,10 @@ with st.sidebar:
     st.warning(f"📅 **Data: {snapshot['date_str']}**")
     st.caption("Recency metrics are relative to this snapshot date, not today.")
 
+    # Portfolio notice
+    st.info("🔒 **Portfolio Demo**")
+    st.caption("Company names have been anonymised for confidentiality. All metrics, segments, and analytical insights are based on real business data.")
+
     st.markdown("---")
     st.markdown("### 🔬 Analysis Tools")
     st.caption("Use the page selector above for detailed analysis:")
