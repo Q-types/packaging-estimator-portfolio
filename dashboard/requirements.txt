@@ -1,4 +1,4 @@
-# KSP Customer Intelligence Dashboard
+# PackagePro Intelligence Dashboard
 # Dependencies for Streamlit Cloud deployment
 
 # Core framework

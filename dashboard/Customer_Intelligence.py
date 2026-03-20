@@ -1,5 +1,5 @@
 """
-KSP Customer Intelligence Command Center
+PackagePro Intelligence Command Center
 Unified dashboard combining customer analytics, prospect pipeline, and revenue opportunities
 """
 import os
@@ -20,7 +20,7 @@ import streamlit as st
 
 # Page configuration - MUST be first Streamlit command
 st.set_page_config(
-    page_title="KSP Intelligence Center",
+    page_title="PackagePro Intelligence Center",
     page_icon="🎯",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -141,7 +141,7 @@ st.markdown("""
 # =============================================================================
 
 with st.sidebar:
-    st.markdown("## 📦 KSP Intelligence")
+    st.markdown("## 📦 PackagePro Intelligence")
     st.markdown("---")
 
     page = st.radio(
@@ -533,7 +533,7 @@ def render_prospect_pipeline():
             with st.expander("Score Breakdown Explained"):
                 st.markdown("""
                 - **ICP Score**: Overall fit (0-100) combining all factors
-                - **Ind.**: Industry match to KSP's ideal sectors (packaging-intensive)
+                - **Ind.**: Industry match to PackagePro's ideal sectors (packaging-intensive)
                 - **Age**: Company maturity (7-29 years optimal)
                 - **Size**: Business size indicators (officers, filings)
                 - **Pkg Need**: HIGH = manufacturing/retail, MEDIUM = services, LOW = other
@@ -1033,7 +1033,7 @@ def render_marketing_playbook():
     # Email Templates - segment-specific messaging based on behavioral analysis
     EMAIL_TEMPLATES = {
         0: {
-            "subject": "Quick question about your KSP experience",
+            "subject": "Quick question about your PackagePro experience",
             "body": """Hi {company_name},
 
 I noticed you worked with us intensively for a short period, then we lost touch. I'd love to understand what happened.
@@ -1051,7 +1051,7 @@ If you reply with just a few words about what didn't work, I'll personally ensur
 
 Thanks,
 {sales_rep_name}
-KSP Packaging
+PackagePro
 
 P.S. If you'd prefer, just reply with a number: 1=lead times, 2=MOQs, 3=specs, 4=other"""
         },
@@ -1074,7 +1074,7 @@ Could I call you for 5 minutes this week? I promise: no sales pitch, just listen
 
 Regards,
 {sales_rep_name}
-Account Manager, KSP Packaging
+Account Manager, PackagePro
 {phone_number}
 
 P.S. If you prefer email, just reply and I'll respond the same day."""
@@ -1096,11 +1096,11 @@ Reply to this email with what's holding you back, and I'll get back to you withi
 Or if it's easier, just tell me which quote you'd like me to revisit and I'll send a simplified version today.
 
 {sales_rep_name}
-KSP Packaging
+PackagePro
 {phone_number}"""
         },
         3: {
-            "subject": "When's your next project? - KSP check-in",
+            "subject": "When's your next project? - PackagePro check-in",
             "body": """Hi {company_name},
 
 Hope you're well. I know you tend to work with us on a project basis, so I wanted to check in and see what's on the horizon.
@@ -1116,7 +1116,7 @@ Just reply with a rough brief and I'll turn around a quote within 24 hours.
 
 Best,
 {sales_rep_name}
-KSP Packaging"""
+PackagePro"""
         },
         4: {
             "subject": "Personal message from our Managing Director - {company_name}",
@@ -1139,14 +1139,14 @@ May I call you this week?
 
 Sincerely,
 {senior_name}
-{senior_title}, KSP Packaging
+{senior_title}, PackagePro
 {direct_line}"""
         },
         5: {
             "subject": "Thank you for your continued partnership - {company_name}",
             "body": """Dear {contact_name},
 
-I wanted to personally thank you for your ongoing business with KSP. Customers like {company_name} are the foundation of what we do.
+I wanted to personally thank you for your ongoing business with PackagePro. Customers like {company_name} are the foundation of what we do.
 
 **As a valued regular customer, you have access to:**
 • {rep_name} as your dedicated account manager (direct: {phone_number})
@@ -1160,7 +1160,7 @@ I'd also love to explore if there are product areas we haven't discussed - we've
 
 Best regards,
 {sales_rep_name}
-Account Director, KSP Packaging"""
+Account Director, PackagePro"""
         },
         6: {
             "subject": "We miss working with you - {company_name}",
@@ -1168,7 +1168,7 @@ Account Director, KSP Packaging"""
 
 It's been a while since we heard from you, and we'd love to reconnect.
 
-**What's new at KSP:**
+**What's new at PackagePro:**
 • Improved lead times across all products
 • New competitive pricing structure
 • Extended eco-friendly range
@@ -1178,10 +1178,10 @@ As a returning customer, you'd receive preferential pricing on your next order.
 If you have any upcoming needs, or just want to catch up on what's new, I'd be happy to chat.
 
 Best regards,
-The KSP Team"""
+The PackagePro Team"""
         },
         7: {
-            "subject": "Seasonal offer from KSP Packaging",
+            "subject": "Seasonal offer from PackagePro",
             "body": """Hi {company_name},
 
 Quick update: we're running a seasonal promotion with special pricing.
@@ -1192,7 +1192,7 @@ Quick update: we're running a seasonal promotion with special pricing.
 
 Visit [link] or reply for a quote.
 
-KSP Packaging"""
+PackagePro"""
         }
     }
 

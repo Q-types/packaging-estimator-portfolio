@@ -17,7 +17,7 @@ PROSPECTS_DIR = DATA_DIR / "prospects"
 MODELS_DIR = BASE_DIR / "models"
 
 # DATA SNAPSHOT DATE - all recency/activity metrics are relative to this date
-# The underlying order data is from KSP's system up to October 2024
+# The underlying order data is from PackagePro's system up to October 2024
 DATA_SNAPSHOT_DATE = datetime(2024, 10, 18)
 DATA_SNAPSHOT_STR = "October 2024"
 

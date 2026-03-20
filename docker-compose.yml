@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app/backend
+      - ./frontend:/app/frontend
+      - ./ml:/app/ml
+      - ./data:/app/data
+    environment:
+      - DEBUG=true
+      - ENVIRONMENT=development
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+      - POSTGRES_USER=ksp
+      - POSTGRES_PASSWORD=ksp_dev_password
+      - POSTGRES_DB=ksp_estimator
+    depends_on:
+      db:
+        condition: service_healthy
+    command: uvicorn backend.app.main:app --reload --host 0.0.0.0 --port 8000
+
+  db:
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_USER=ksp
+      - POSTGRES_PASSWORD=ksp_dev_password
+      - POSTGRES_DB=ksp_estimator
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ksp -d ksp_estimator"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:

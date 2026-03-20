@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ring mechanism / closure mechanism",
+    "sku": "MECHANISM",
+    "description": "Extracted from pricing model: MECHANISM (number)",
+    "category": "hardware",
+    "unit": "unit",
+    "current_price": 0.5,
+    "is_active": true,
+    "source_feature": "MECHANISM (number)"
+  },
+  {
+    "name": "Dutch grey board sheet",
+    "sku": "COST-PER-SHEET-OF-DUTCH-GREY-B",
+    "description": "Extracted from pricing model: COST PER SHEET OF DUTCH GREY BOARD (number)",
+    "category": "board",
+    "unit": "sheet",
+    "current_price": 1.3,
+    "is_active": true,
+    "source_feature": "COST PER SHEET OF DUTCH GREY BOARD (number)"
+  },
+  {
+    "name": "Liner paper sheet",
+    "sku": "COST-PER-SHEET-OF-LINER-PAPER",
+    "description": "Extracted from pricing model: COST PER SHEET OF LINER PAPER (number)",
+    "category": "paper",
+    "unit": "sheet",
+    "current_price": 0.18,
+    "is_active": true,
+    "source_feature": "COST PER SHEET OF LINER PAPER (number)"
+  },
+  {
+    "name": "Printed and laminated outer sheets",
+    "sku": "PRINTED-AND-LAMINATED-OUTER-SH",
+    "description": "Extracted from pricing model: PRINTED AND LAMINATED OUTER SHEETS (number)",
+    "category": "paper",
+    "unit": "sheet",
+    "current_price": 0.0,
+    "is_active": true,
+    "source_feature": "PRINTED AND LAMINATED OUTER SHEETS (number)"
+  },
+  {
+    "name": "Printed and laminated inner sheets",
+    "sku": "PRINTED-AND-LAMINATED-INNER-SH",
+    "description": "Extracted from pricing model: PRINTED AND LAMINATED INNER SHEETS (number)",
+    "category": "paper",
+    "unit": "sheet",
+    "current_price": 0.0,
+    "is_active": true,
+    "source_feature": "PRINTED AND LAMINATED INNER SHEETS (number)"
+  },
+  {
+    "name": "Ring mechanism / closure mechanism",
+    "sku": "MECHANISM-1",
+    "description": "Extracted from pricing model: MECHANISM (number).1",
+    "category": "hardware",
+    "unit": "unit",
+    "current_price": 0.0,
+    "is_active": true,
+    "source_feature": "MECHANISM (number).1"
+  },
+  {
+    "name": "Digital printing / foil / screenprint finishing",
+    "sku": "DIGITAL-FOIL-SCREENPRINTING",
+    "description": "Extracted from pricing model: DIGITAL/FOIL/SCREENPRINTING (number)",
+    "category": "finishing",
+    "unit": "unit",
+    "current_price": 0.0,
+    "is_active": true,
+    "source_feature": "DIGITAL/FOIL/SCREENPRINTING (number)"
+  },
+  {
+    "name": "PVA adhesive for binding",
+    "sku": "GLUE-COST-PER-BINDER",
+    "description": "Extracted from pricing model: GLUE COST PER BINDER (number)",
+    "category": "adhesive",
+    "unit": "sqm",
+    "current_price": 0.1,
+    "is_active": true,
+    "source_feature": "GLUE COST PER BINDER (number)"
+  },
+  {
+    "name": "Magnetic closure (single magnet)",
+    "sku": "SINGLE-MAGNET-COST-GBP0-10-PEN",
+    "description": "Extracted from pricing model: SINGLE MAGNET COST \u00a30.10 PENCE EACH (number)",
+    "category": "hardware",
+    "unit": "unit",
+    "current_price": 0.1,
+    "is_active": true,
+    "source_feature": "SINGLE MAGNET COST \u00a30.10 PENCE EACH (number)"
+  },
+  {
+    "name": "Binding rivets",
+    "sku": "NUMBER-OF-RIVETS-PER-BINDER",
+    "description": "Extracted from pricing model: NUMBER OF RIVETS PER BINDER (number)",
+    "category": "hardware",
+    "unit": "unit",
+    "current_price": 0.0,
+    "is_active": true,
+    "source_feature": "NUMBER OF RIVETS PER BINDER (number)"
+  },
+  {
+    "name": "Custom cutting forme/die",
+    "sku": "CUTTING-FORME-COST-IF-REQUIRED",
+    "description": "Extracted from pricing model: CUTTING FORME COST IF REQUIRED (number)",
+    "category": "consumable",
+    "unit": "unit",
+    "current_price": 0.0,
+    "is_active": true,
+    "source_feature": "CUTTING FORME COST IF REQUIRED (number)"
+  },
+  {
+    "name": "Pallet packing materials (wrap, strapping)",
+    "sku": "PACKING-MATERIALS-PER-PALLETE",
+    "description": "Extracted from pricing model: PACKING MATERIALS PER PALLETE (number)",
+    "category": "consumable",
+    "unit": "unit",
+    "current_price": 20.0,
+    "is_active": true,
+    "source_feature": "PACKING MATERIALS PER PALLETE (number)"
+  }
+]

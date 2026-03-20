@@ -1,0 +1,15 @@
+{
+  "n_clusters": 5,
+  "n_samples": 867,
+  "n_features": 58,
+  "inertia": 18052.441370420114,
+  "silhouette_score": 0.1810525830756631,
+  "cluster_distribution": {
+    "0": 23,
+    "1": 618,
+    "2": 92,
+    "3": 83,
+    "4": 51
+  },
+  "training_date": "2026-02-03T10:38:52.124086"
+}

@@ -1,4 +1,4 @@
-# KSP Packaging Estimator
+# PackagePro Estimator
 
 Intelligent cost estimation platform for bespoke packaging manufacturers.
 

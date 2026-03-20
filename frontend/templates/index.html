@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PackagePro Estimator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div x-data="estimator()" class="container mx-auto px-4 py-8 max-w-4xl">
+        <!-- Header -->
+        <header class="text-center mb-8">
+            <h1 class="text-3xl font-bold text-gray-800">PackagePro Estimator</h1>
+            <p class="text-gray-600 mt-2">Get instant cost estimates for bespoke packaging</p>
+        </header>
+
+        <!-- Main Form -->
+        <div class="bg-white rounded-lg shadow-lg p-6">
+            <form @submit.prevent="calculateEstimate">
+
+                <!-- Job Details -->
+                <section class="mb-6">
+                    <h2 class="text-xl font-semibold text-gray-700 mb-4 border-b pb-2">Job Details</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Job Name</label>
+                            <input type="text" x-model="form.job_name" required
+                                   class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                   placeholder="e.g., Premium Gift Box Set">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Quantity</label>
+                            <input type="number" x-model.number="form.quantity" required min="1" max="100000"
+                                   class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                   placeholder="1000">
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Dimensions -->
+                <section class="mb-6">
+                    <h2 class="text-xl font-semibold text-gray-700 mb-4 border-b pb-2">Dimensions (mm)</h2>
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Flat Width</label>
+                            <input type="number" x-model.number="form.dimensions.flat_width" required min="10" max="2000"
+                                   class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                   placeholder="300">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Flat Height</label>
+                            <input type="number" x-model.number="form.dimensions.flat_height" required min="10" max="2000"
+                                   class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                   placeholder="400">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Spine Depth</label>
+                            <input type="number" x-model.number="form.dimensions.spine_depth" min="0" max="200"
+                                   class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                   placeholder="25">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Complexity</label>
+                            <select x-model.number="form.complexity_tier"
+                                    class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                                <option value="1">Simple (Tier 1)</option>
+                                <option value="2">Basic (Tier 2)</option>
+                                <option value="3" selected>Standard (Tier 3)</option>
+                                <option value="4">Complex (Tier 4)</option>
+                                <option value="5">Very Complex (Tier 5)</option>
+                            </select>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Materials -->
+                <section class="mb-6">
+                    <h2 class="text-xl font-semibold text-gray-700 mb-4 border-b pb-2">Materials</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Board Type</label>
+                            <select x-model="form.materials.board_type"
+                                    class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                                <option value="dutch_grey_2mm">Dutch Grey 2mm</option>
+                                <option value="dutch_grey_3mm">Dutch Grey 3mm</option>
+                                <option value="greyboard_1.5mm">Greyboard 1.5mm</option>
+                                <option value="greyboard_2mm">Greyboard 2mm</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Outer Wrap</label>
+                            <select x-model="form.materials.outer_wrap"
+                                    class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                                <option value="buckram_cloth">Buckram Cloth</option>
+                                <option value="book_cloth">Book Cloth</option>
+                                <option value="coated_paper">Coated Paper</option>
+                                <option value="leather_effect">Leather Effect</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Liner</label>
+                            <select x-model="form.materials.liner"
+                                    class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                                <option value="uncoated_paper_120gsm">Uncoated Paper 120gsm</option>
+                                <option value="uncoated_paper_150gsm">Uncoated Paper 150gsm</option>
+                                <option value="coated_paper_150gsm">Coated Paper 150gsm</option>
+                                <option value="velvet_paper">Velvet Paper</option>
+                            </select>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Operations -->
+                <section class="mb-6">
+                    <h2 class="text-xl font-semibold text-gray-700 mb-4 border-b pb-2">Operations Required</h2>
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                        <template x-for="op in availableOperations" :key="op.value">
+                            <label class="flex items-center p-3 bg-gray-50 rounded-md cursor-pointer hover:bg-gray-100">
+                                <input type="checkbox" :value="op.value" x-model="form.operations"
+                                       class="w-4 h-4 text-blue-600 rounded focus:ring-blue-500">
+                                <span class="ml-2 text-sm text-gray-700" x-text="op.label"></span>
+                            </label>
+                        </template>
+                    </div>
+                </section>
+
+                <!-- Rush Order -->
+                <section class="mb-6">
+                    <label class="flex items-center p-4 bg-yellow-50 rounded-md cursor-pointer hover:bg-yellow-100">
+                        <input type="checkbox" x-model="form.rush_order"
+                               class="w-5 h-5 text-yellow-600 rounded focus:ring-yellow-500">
+                        <span class="ml-3">
+                            <span class="font-medium text-yellow-800">Rush Order</span>
+                            <span class="text-sm text-yellow-600 block">+50% premium for expedited production</span>
+                        </span>
+                    </label>
+                </section>
+
+                <!-- Submit Button -->
+                <button type="submit"
+                        :disabled="loading"
+                        class="w-full bg-blue-600 text-white py-3 px-6 rounded-md font-semibold hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed">
+                    <span x-show="!loading">Calculate Estimate</span>
+                    <span x-show="loading">Calculating...</span>
+                </button>
+            </form>
+        </div>
+
+        <!-- Results -->
+        <div x-show="result" x-cloak class="mt-8 bg-white rounded-lg shadow-lg p-6">
+            <div class="flex items-center justify-between mb-4 border-b pb-2">
+                <h2 class="text-xl font-semibold text-gray-700">Estimate Result</h2>
+                <div class="flex items-center gap-3">
+                    <span x-show="result?.reference_number" class="text-sm font-mono bg-gray-100 px-2 py-1 rounded" x-text="result?.reference_number"></span>
+                    <span x-show="result?.source === 'api'" class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded">Server</span>
+                    <span x-show="result?.source === 'local'" class="text-xs bg-yellow-100 text-yellow-700 px-2 py-1 rounded">Local estimate</span>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <!-- Total Cost -->
+                <div class="bg-green-50 p-6 rounded-lg text-center">
+                    <p class="text-sm text-green-600 font-medium">Estimated Total Cost</p>
+                    <p class="text-4xl font-bold text-green-700 mt-2" x-text="'£' + (result?.total_cost || 0).toFixed(2)"></p>
+                </div>
+
+                <!-- Unit Cost -->
+                <div class="bg-emerald-50 p-6 rounded-lg text-center">
+                    <p class="text-sm text-emerald-600 font-medium">Unit Cost</p>
+                    <p class="text-4xl font-bold text-emerald-700 mt-2" x-text="'£' + (result?.unit_cost || 0).toFixed(4)"></p>
+                </div>
+
+                <!-- Confidence Interval -->
+                <div class="bg-blue-50 p-6 rounded-lg text-center">
+                    <p class="text-sm text-blue-600 font-medium">Confidence Range (80%)</p>
+                    <p class="text-2xl font-bold text-blue-700 mt-2">
+                        <span x-text="'£' + (result?.confidence_low || 0).toFixed(2)"></span>
+                        <span class="text-lg text-blue-500"> - </span>
+                        <span x-text="'£' + (result?.confidence_high || 0).toFixed(2)"></span>
+                    </p>
+                    <p class="text-sm text-gray-500 mt-2">Based on historical data</p>
+                </div>
+            </div>
+
+            <!-- Cost Breakdown -->
+            <div class="mt-6" x-show="result?.breakdown">
+                <h3 class="font-medium text-gray-700 mb-3">Cost Breakdown</h3>
+                <div class="space-y-2">
+                    <div class="flex justify-between py-2 border-b">
+                        <span class="text-gray-600">Materials</span>
+                        <span class="font-medium" x-text="'£' + (result?.breakdown?.material_total || 0).toFixed(2)"></span>
+                    </div>
+                    <div class="flex justify-between py-2 border-b">
+                        <span class="text-gray-600">Labour</span>
+                        <span class="font-medium" x-text="'£' + (result?.breakdown?.labor_cost || 0).toFixed(2)"></span>
+                    </div>
+                    <div class="flex justify-between py-2 border-b">
+                        <span class="text-gray-600">Overhead</span>
+                        <span class="font-medium" x-text="'£' + (result?.breakdown?.overhead_cost || 0).toFixed(2)"></span>
+                    </div>
+                    <div class="flex justify-between py-2 border-b">
+                        <span class="text-gray-600">Wastage Allowance</span>
+                        <span class="font-medium" x-text="'£' + (result?.breakdown?.wastage_cost || 0).toFixed(2)"></span>
+                    </div>
+                    <div class="flex justify-between py-2 border-b" x-show="result?.breakdown?.complexity_adjustment">
+                        <span class="text-gray-600">Complexity Adjustment</span>
+                        <span class="font-medium" x-text="'£' + (result?.breakdown?.complexity_adjustment || 0).toFixed(2)"></span>
+                    </div>
+                    <div class="flex justify-between py-2 border-b" x-show="form.rush_order">
+                        <span class="text-gray-600">Rush Premium</span>
+                        <span class="font-medium text-yellow-600" x-text="'£' + (result?.breakdown?.rush_premium || 0).toFixed(2)"></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Material Detail (API only) -->
+            <div class="mt-4" x-show="result?.breakdown?.material_detail">
+                <h4 class="text-sm font-medium text-gray-500 mb-2">Material Detail</h4>
+                <div class="space-y-1">
+                    <template x-for="[name, cost] in Object.entries(result?.breakdown?.material_detail || {})" :key="name">
+                        <div class="flex justify-between py-1 text-sm">
+                            <span class="text-gray-500 capitalize" x-text="name.replace(/_/g, ' ')"></span>
+                            <span class="text-gray-600" x-text="'£' + Number(cost).toFixed(2)"></span>
+                        </div>
+                    </template>
+                </div>
+            </div>
+        </div>
+
+        <!-- Error Message -->
+        <div x-show="error" x-cloak class="mt-8 bg-red-50 border border-red-200 rounded-lg p-4">
+            <p class="text-red-700" x-text="error"></p>
+        </div>
+
+        <!-- Instructions -->
+        <div class="mt-8 bg-gray-50 rounded-lg p-6">
+            <h3 class="font-semibold text-gray-700 mb-3">How to Use</h3>
+            <ol class="list-decimal list-inside space-y-2 text-gray-600 text-sm">
+                <li>Enter a <strong>Job Name</strong> to identify your estimate</li>
+                <li>Specify the <strong>Quantity</strong> of items needed</li>
+                <li>Enter the <strong>Dimensions</strong> of your packaging in millimetres</li>
+                <li>Select <strong>Materials</strong> - board type, outer wrap, and liner</li>
+                <li>Check the <strong>Operations</strong> required for production</li>
+                <li>Toggle <strong>Rush Order</strong> if you need expedited delivery</li>
+                <li>Click <strong>Calculate Estimate</strong> to get your quote</li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        function estimator() {
+            return {
+                form: {
+                    job_name: '',
+                    quantity: 1000,
+                    dimensions: {
+                        flat_width: 300,
+                        flat_height: 400,
+                        spine_depth: 25
+                    },
+                    materials: {
+                        board_type: 'dutch_grey_2mm',
+                        board_thickness: 2,
+                        outer_wrap: 'buckram_cloth',
+                        liner: 'uncoated_paper_120gsm',
+                        additional_materials: []
+                    },
+                    operations: ['cutting', 'wrapping', 'assembly'],
+                    complexity_tier: 3,
+                    rush_order: false
+                },
+                availableOperations: [
+                    { value: 'cutting', label: 'Cutting' },
+                    { value: 'wrapping', label: 'Wrapping' },
+                    { value: 'creasing', label: 'Creasing' },
+                    { value: 'drilling', label: 'Drilling' },
+                    { value: 'laminating', label: 'Laminating' },
+                    { value: 'foil_blocking', label: 'Foil Blocking' },
+                    { value: 'screen_printing', label: 'Screen Printing' },
+                    { value: 'assembly', label: 'Assembly' }
+                ],
+                result: null,
+                error: null,
+                loading: false,
+
+                async calculateEstimate() {
+                    this.loading = true;
+                    this.error = null;
+                    this.result = null;
+
+                    try {
+                        this.result = await this.apiCalculate();
+                    } catch (apiError) {
+                        // Fallback to local calculation when API is unavailable
+                        console.warn('API unavailable, using local calculation:', apiError.message);
+                        try {
+                            this.result = this.localCalculate();
+                        } catch (e) {
+                            this.error = 'Calculation error: ' + e.message;
+                        }
+                    }
+
+                    this.loading = false;
+                },
+
+                async apiCalculate() {
+                    const payload = {
+                        job_name: this.form.job_name || 'Quick Estimate',
+                        quantity: this.form.quantity,
+                        complexity_tier: this.form.complexity_tier,
+                        rush_order: this.form.rush_order,
+                        dimensions: this.form.dimensions,
+                        materials: this.form.materials,
+                        operations: this.form.operations
+                    };
+
+                    // Use the stateless /calculate endpoint (no DB required)
+                    const response = await fetch('/api/v1/estimates/calculate', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(payload)
+                    });
+
+                    if (!response.ok) {
+                        const err = await response.json().catch(() => ({}));
+                        throw new Error(err.detail || `Server error (${response.status})`);
+                    }
+
+                    const data = await response.json();
+                    const bd = data.breakdown || {};
+                    const materialCosts = bd.material_costs || {};
+                    const materialTotal = Object.values(materialCosts).reduce((s, v) => s + Number(v), 0);
+
+                    return {
+                        source: 'api',
+                        total_cost: Number(bd.total_cost || 0),
+                        unit_cost: Number(bd.unit_cost || 0),
+                        confidence_low: Number(data.confidence_interval?.[0] || 0),
+                        confidence_high: Number(data.confidence_interval?.[1] || 0),
+                        breakdown: {
+                            material_total: materialTotal,
+                            material_detail: materialCosts,
+                            labor_cost: Number(bd.labor_cost || 0),
+                            overhead_cost: Number(bd.overhead_cost || 0),
+                            wastage_cost: Number(bd.wastage_cost || 0),
+                            complexity_adjustment: Number(bd.complexity_adjustment || 0),
+                            rush_premium: Number(bd.rush_premium || 0)
+                        }
+                    };
+                },
+
+                localCalculate() {
+                    const { quantity, dimensions, materials, operations, complexity_tier, rush_order } = this.form;
+
+                    const board_area = (dimensions.flat_width * dimensions.flat_height) / 1000000;
+                    const board_prices = {
+                        'dutch_grey_2mm': 8.50, 'dutch_grey_3mm': 12.00,
+                        'greyboard_1.5mm': 5.50, 'greyboard_2mm': 7.00
+                    };
+                    const wrap_prices = {
+                        'buckram_cloth': 15.00, 'book_cloth': 12.00,
+                        'coated_paper': 6.00, 'leather_effect': 25.00
+                    };
+
+                    const material_cost = quantity * board_area * (
+                        (board_prices[materials.board_type] || 8) +
+                        (wrap_prices[materials.outer_wrap] || 10) + 3
+                    );
+
+                    const setup_time = operations.length * 0.5;
+                    const run_time = quantity / 100;
+                    const labor_cost = (setup_time + run_time) * 25;
+
+                    const wastage_rate = 0.03 + (complexity_tier * 0.01);
+                    const wastage_cost = material_cost * wastage_rate;
+
+                    const complexity_multipliers = { 1: 1.0, 2: 1.05, 3: 1.10, 4: 1.20, 5: 1.35 };
+                    const base_total = material_cost + labor_cost + wastage_cost;
+                    const with_complexity = base_total * complexity_multipliers[complexity_tier];
+
+                    const rush_premium = rush_order ? with_complexity * 0.5 : 0;
+                    const total_cost = with_complexity + rush_premium;
+
+                    return {
+                        source: 'local',
+                        total_cost: total_cost,
+                        unit_cost: total_cost / quantity,
+                        confidence_low: total_cost * 0.85,
+                        confidence_high: total_cost * 1.20,
+                        breakdown: {
+                            material_total: material_cost,
+                            labor_cost: labor_cost,
+                            overhead_cost: 0,
+                            wastage_cost: wastage_cost,
+                            complexity_adjustment: with_complexity - base_total,
+                            rush_premium: rush_premium
+                        }
+                    };
+                }
+            };
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+    </style>
+</body>
+</html>

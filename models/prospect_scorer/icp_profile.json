@@ -1,0 +1,800 @@
+{
+  "created_at": "2026-02-03T11:07:30.501066",
+  "total_customers": 867,
+  "high_value_count": 330,
+  "high_value_threshold": "High-Value Regulars, VIP Champions",
+  "industry_profiles": {
+    "Manufacturing": {
+      "sector": "Manufacturing",
+      "customer_count": 225,
+      "customer_pct": 25.951557093425603,
+      "high_value_count": "101",
+      "high_value_pct": 30.606060606060602,
+      "lift_ratio": 1.1793535353535354,
+      "avg_monetary": 26763.042828828395,
+      "avg_frequency": 9.32,
+      "score_weight": 67.33333333333333
+    },
+    "Wholesale & Retail": {
+      "sector": "Wholesale & Retail",
+      "customer_count": 105,
+      "customer_pct": 12.110726643598616,
+      "high_value_count": "43",
+      "high_value_pct": 13.030303030303031,
+      "lift_ratio": 1.075930735930736,
+      "avg_monetary": 23966.257944287725,
+      "avg_frequency": 7.580952380952381,
+      "score_weight": 61.42857142857143
+    },
+    "Accommodation & Food": {
+      "sector": "Accommodation & Food",
+      "customer_count": 22,
+      "customer_pct": 2.5374855824682814,
+      "high_value_count": "9",
+      "high_value_pct": 2.727272727272727,
+      "lift_ratio": 1.074793388429752,
+      "avg_monetary": 22616.201246141212,
+      "avg_frequency": 3.8181818181818183,
+      "score_weight": 61.36363636363637
+    },
+    "International Organisations": {
+      "sector": "International Organisations",
+      "customer_count": 33,
+      "customer_pct": 3.8062283737024223,
+      "high_value_count": "11",
+      "high_value_pct": 3.3333333333333335,
+      "lift_ratio": 0.8757575757575757,
+      "avg_monetary": 23474.828615101647,
+      "avg_frequency": 8.242424242424242,
+      "score_weight": 50.0
+    },
+    "Administrative Services": {
+      "sector": "Administrative Services",
+      "customer_count": 56,
+      "customer_pct": 6.459054209919262,
+      "high_value_count": "26",
+      "high_value_pct": 7.878787878787878,
+      "lift_ratio": 1.219805194805195,
+      "avg_monetary": 39686.535345008364,
+      "avg_frequency": 6.660714285714286,
+      "score_weight": 69.64285714285715
+    },
+    "Construction": {
+      "sector": "Construction",
+      "customer_count": 37,
+      "customer_pct": 4.2675893886966545,
+      "high_value_count": "9",
+      "high_value_pct": 2.727272727272727,
+      "lift_ratio": 0.6390663390663391,
+      "avg_monetary": 24660.228248479387,
+      "avg_frequency": 6.135135135135135,
+      "score_weight": 36.48648648648649
+    },
+    "Professional Services": {
+      "sector": "Professional Services",
+      "customer_count": 128,
+      "customer_pct": 14.763552479815456,
+      "high_value_count": "45",
+      "high_value_pct": 13.636363636363635,
+      "lift_ratio": 0.9236505681818181,
+      "avg_monetary": 18032.612944706267,
+      "avg_frequency": 7.3984375,
+      "score_weight": 52.734375
+    },
+    "Other Services": {
+      "sector": "Other Services",
+      "customer_count": 30,
+      "customer_pct": 3.4602076124567476,
+      "high_value_count": "8",
+      "high_value_pct": 2.4242424242424243,
+      "lift_ratio": 0.7006060606060606,
+      "avg_monetary": 9555.108682797743,
+      "avg_frequency": 3.066666666666667,
+      "score_weight": 40.0
+    },
+    "Information & Communication": {
+      "sector": "Information & Communication",
+      "customer_count": 72,
+      "customer_pct": 8.304498269896193,
+      "high_value_count": "26",
+      "high_value_pct": 7.878787878787878,
+      "lift_ratio": 0.9487373737373738,
+      "avg_monetary": 17384.213966567993,
+      "avg_frequency": 7.194444444444445,
+      "score_weight": 54.16666666666667
+    },
+    "Real Estate": {
+      "sector": "Real Estate",
+      "customer_count": 23,
+      "customer_pct": 2.6528258362168398,
+      "high_value_count": "12",
+      "high_value_pct": 3.6363636363636362,
+      "lift_ratio": 1.3707509881422923,
+      "avg_monetary": 7954.703657340067,
+      "avg_frequency": 3.3043478260869565,
+      "score_weight": 78.26086956521738
+    },
+    "Health & Social": {
+      "sector": "Health & Social",
+      "customer_count": 14,
+      "customer_pct": 1.6147635524798154,
+      "high_value_count": "7",
+      "high_value_pct": 2.1212121212121215,
+      "lift_ratio": 1.3136363636363637,
+      "avg_monetary": 15721.079482245828,
+      "avg_frequency": 8.428571428571429,
+      "score_weight": 75.00000000000001
+    },
+    "Energy": {
+      "sector": "Energy",
+      "customer_count": 2,
+      "customer_pct": 0.2306805074971165,
+      "high_value_count": "1",
+      "high_value_pct": 0.30303030303030304,
+      "lift_ratio": 1.3136363636363637,
+      "avg_monetary": 943.4949399305557,
+      "avg_frequency": 2.5,
+      "score_weight": 75.00000000000001
+    },
+    "Education": {
+      "sector": "Education",
+      "customer_count": 12,
+      "customer_pct": 1.384083044982699,
+      "high_value_count": "3",
+      "high_value_pct": 0.9090909090909091,
+      "lift_ratio": 0.6568181818181819,
+      "avg_monetary": 4028.1294234579514,
+      "avg_frequency": 2.6666666666666665,
+      "score_weight": 37.50000000000001
+    },
+    "Financial Services": {
+      "sector": "Financial Services",
+      "customer_count": 21,
+      "customer_pct": 2.422145328719723,
+      "high_value_count": "6",
+      "high_value_pct": 1.8181818181818181,
+      "lift_ratio": 0.7506493506493506,
+      "avg_monetary": 9657.441617508883,
+      "avg_frequency": 4.095238095238095,
+      "score_weight": 42.857142857142854
+    },
+    "Transport & Storage": {
+      "sector": "Transport & Storage",
+      "customer_count": 10,
+      "customer_pct": 1.1534025374855825,
+      "high_value_count": "5",
+      "high_value_pct": 1.5151515151515151,
+      "lift_ratio": 1.3136363636363637,
+      "avg_monetary": 36265.06422384516,
+      "avg_frequency": 16.1,
+      "score_weight": 75.00000000000001
+    },
+    "Arts & Entertainment": {
+      "sector": "Arts & Entertainment",
+      "customer_count": 14,
+      "customer_pct": 1.6147635524798154,
+      "high_value_count": "2",
+      "high_value_pct": 0.6060606060606061,
+      "lift_ratio": 0.3753246753246753,
+      "avg_monetary": 2959.775549425926,
+      "avg_frequency": 2.4285714285714284,
+      "score_weight": 21.428571428571427
+    },
+    "Agriculture": {
+      "sector": "Agriculture",
+      "customer_count": 3,
+      "customer_pct": 0.34602076124567477,
+      "high_value_count": "2",
+      "high_value_pct": 0.6060606060606061,
+      "lift_ratio": 1.7515151515151515,
+      "avg_monetary": 35593.93453137567,
+      "avg_frequency": 19.333333333333332,
+      "score_weight": 100.0
+    },
+    "Water & Waste": {
+      "sector": "Water & Waste",
+      "customer_count": 1,
+      "customer_pct": 0.11534025374855825,
+      "high_value_count": "0",
+      "high_value_pct": 0.0,
+      "lift_ratio": 0.0,
+      "avg_monetary": 3166.8530226666667,
+      "avg_frequency": 1.0,
+      "score_weight": 0.0
+    },
+    "Mining": {
+      "sector": "Mining",
+      "customer_count": 2,
+      "customer_pct": 0.2306805074971165,
+      "high_value_count": "1",
+      "high_value_pct": 0.30303030303030304,
+      "lift_ratio": 1.3136363636363637,
+      "avg_monetary": 15473.469172500001,
+      "avg_frequency": 7.5,
+      "score_weight": 75.00000000000001
+    },
+    "Public Admin": {
+      "sector": "Public Admin",
+      "customer_count": 1,
+      "customer_pct": 0.11534025374855825,
+      "high_value_count": "0",
+      "high_value_pct": 0.0,
+      "lift_ratio": 0.0,
+      "avg_monetary": 582.7818333333333,
+      "avg_frequency": 1.0,
+      "score_weight": 0.0
+    },
+    "Household Activities": {
+      "sector": "Household Activities",
+      "customer_count": 6,
+      "customer_pct": 0.6920415224913495,
+      "high_value_count": "1",
+      "high_value_pct": 0.30303030303030304,
+      "lift_ratio": 0.43787878787878787,
+      "avg_monetary": 3905.262777777778,
+      "avg_frequency": 1.3333333333333333,
+      "score_weight": 25.0
+    }
+  },
+  "company_age": {
+    "optimal_min_years": 7.0,
+    "optimal_max_years": 29.0,
+    "high_value_median": 16.6,
+    "high_value_mean": 21.719756838905774,
+    "high_value_std": 20.286331573775982,
+    "all_customer_median": 14.0,
+    "score_weights": {
+      "too_young": 0.5,
+      "young": 0.7,
+      "optimal": 1.0,
+      "mature": 0.9,
+      "very_mature": 0.7
+    }
+  },
+  "company_size": {
+    "optimal_officer_count_min": 2,
+    "optimal_officer_count_max": 7,
+    "optimal_filing_count_min": 14,
+    "optimal_filing_count_max": 89,
+    "high_value_officer_median": 4.0,
+    "high_value_filing_median": 39.5,
+    "has_charges_rate": 0.39090909090909093
+  },
+  "geography": {
+    "top_regions": [
+      "Gloucestershire",
+      "Derbyshire",
+      "Buckinghamshire",
+      "Leeds",
+      "West Yorkshire",
+      "Warwickshire",
+      "Oxford",
+      "Liverpool",
+      "Berkshire",
+      "Cornwall"
+    ],
+    "region_scores": {
+      "Surrey": 71.4285714285714,
+      "Cambridge": 20.833333333333332,
+      "London": 46.7391304347826,
+      "Hampshire": 55.55555555555555,
+      "West Sussex": 35.7142857142857,
+      "Cardiff": 55.55555555555555,
+      "County Down": 20.833333333333332,
+      "Cheshire": 45.45454545454545,
+      "Gloucestershire": 100.0,
+      "Essex": 28.409090909090907,
+      "North Yorkshire": 50.0,
+      "Edinburgh": 53.571428571428555,
+      "Birmingham": 55.55555555555555,
+      "Hertfordshire": 48.07692307692308,
+      "Leeds": 79.54545454545453,
+      "Leicester": 41.666666666666664,
+      "Southampton": 25.0,
+      "Manchester": 50.0,
+      "Middlesex": 62.5,
+      "Northamptonshire": 55.55555555555555,
+      "Shropshire": 41.666666666666664,
+      "Oxford": 74.99999999999999,
+      "Buckinghamshire": 93.74999999999999,
+      "Oxfordshire": 50.0,
+      "Suffolk": 25.0,
+      "Warwickshire": 76.92307692307692,
+      "Bristol": 22.727272727272727,
+      "West Midlands": 28.846153846153843,
+      "Sheffield": 41.666666666666664,
+      "Herts": 53.571428571428555,
+      "Dorset": 20.833333333333332,
+      "Lancashire": 37.49999999999999,
+      "Nottingham": 12.5,
+      "Wiltshire": 57.692307692307686,
+      "Oxon": 62.5,
+      "Kent": 51.470588235294116,
+      "Liverpool": 74.99999999999999,
+      "Bedfordshire": 20.833333333333332,
+      "Berkshire": 74.99999999999999,
+      "Glasgow": 31.25,
+      "Cornwall": 74.99999999999999,
+      "West Yorkshire": 78.12499999999999,
+      "Derbyshire": 100.0
+    },
+    "high_value_region_pct": {
+      "Surrey": 3.6363636363636362,
+      "Cambridge": 0.30303030303030304,
+      "London": 13.030303030303031,
+      "Hampshire": 2.4242424242424243,
+      "West Sussex": 0.6060606060606061,
+      "Cardiff": 1.2121212121212122,
+      "County Down": 0.30303030303030304,
+      "Cheshire": 1.2121212121212122,
+      "Gloucestershire": 1.2121212121212122,
+      "Essex": 1.5151515151515151,
+      "North Yorkshire": 0.6060606060606061,
+      "Edinburgh": 0.9090909090909091,
+      "Birmingham": 1.2121212121212122,
+      "Hertfordshire": 1.5151515151515151,
+      "Leeds": 2.1212121212121215,
+      "Leicester": 0.9090909090909091,
+      "Southampton": 0.30303030303030304,
+      "Manchester": 1.2121212121212122,
+      "Middlesex": 1.2121212121212122,
+      "Northamptonshire": 1.2121212121212122,
+      "Shropshire": 0.6060606060606061,
+      "Oxford": 0.9090909090909091,
+      "Buckinghamshire": 2.727272727272727,
+      "Oxfordshire": 3.6363636363636362,
+      "Suffolk": 0.30303030303030304,
+      "Warwickshire": 2.4242424242424243,
+      "Bristol": 0.6060606060606061,
+      "West Midlands": 0.9090909090909091,
+      "Sheffield": 0.6060606060606061,
+      "Herts": 0.9090909090909091,
+      "Dorset": 0.30303030303030304,
+      "Lancashire": 0.9090909090909091,
+      "Nottingham": 0.30303030303030304,
+      "Wiltshire": 1.8181818181818181,
+      "Oxon": 1.2121212121212122,
+      "Kent": 2.1212121212121215,
+      "Liverpool": 0.9090909090909091,
+      "Bedfordshire": 0.30303030303030304,
+      "Berkshire": 1.8181818181818181,
+      "Glasgow": 0.6060606060606061,
+      "Cornwall": 0.9090909090909091,
+      "West Yorkshire": 1.5151515151515151,
+      "Derbyshire": 1.2121212121212122
+    }
+  },
+  "web_presence": {
+    "has_website_rate": 0.7946943483275664,
+    "has_https_rate": 0.5743944636678201,
+    "high_value_website_rate": 0.8939393939393939,
+    "website_score_boost": 1.1248845494128512
+  },
+  "feature_weights": {
+    "company_age_years": 100.0,
+    "officer_count": 30.89319848843007,
+    "filing_count": 57.10496756862589,
+    "has_charges": 0.5530569515553988,
+    "has_website": 26.00753003281407,
+    "has_https": 3.9793056235840534,
+    "ind_manufacturing": 4.121547962118132,
+    "ind_professional_services": 3.3290082198647366,
+    "ind_wholesale_and_retail": 0.955162257901029,
+    "ind_information_and_communication": 0.42596797023532423,
+    "ind_administrative_services": 1.7925602843269641,
+    "ind_construction": 4.005653188448113,
+    "ind_international_organisations": 1.6659104927863666,
+    "ind_other_services": 1.8233781737920427,
+    "ind_real_estate": 0.6076437753759257,
+    "ind_accommodation_and_food": 0.4165938527805153
+  },
+  "top_sic_codes": [
+    {
+      "sic_code": "46180",
+      "sector": "Wholesale & Retail",
+      "customer_count": 3,
+      "high_value_count": 3,
+      "high_value_rate": 1.0,
+      "lift_ratio": 2.6272727272727274
+    },
+    {
+      "sic_code": "7487",
+      "sector": "Professional Services",
+      "customer_count": 5,
+      "high_value_count": 4,
+      "high_value_rate": 0.8,
+      "lift_ratio": 2.101818181818182
+    },
+    {
+      "sic_code": "22290",
+      "sector": "Manufacturing",
+      "customer_count": 9,
+      "high_value_count": 7,
+      "high_value_rate": 0.7777777777777778,
+      "lift_ratio": 2.0434343434343436
+    },
+    {
+      "sic_code": "17230",
+      "sector": "Manufacturing",
+      "customer_count": 9,
+      "high_value_count": 7,
+      "high_value_rate": 0.7777777777777778,
+      "lift_ratio": 2.0434343434343436
+    },
+    {
+      "sic_code": "7499",
+      "sector": "Professional Services",
+      "customer_count": 4,
+      "high_value_count": 3,
+      "high_value_rate": 0.75,
+      "lift_ratio": 1.9704545454545455
+    },
+    {
+      "sic_code": "47620",
+      "sector": "Wholesale & Retail",
+      "customer_count": 4,
+      "high_value_count": 3,
+      "high_value_rate": 0.75,
+      "lift_ratio": 1.9704545454545455
+    },
+    {
+      "sic_code": "56103",
+      "sector": "Accommodation & Food",
+      "customer_count": 4,
+      "high_value_count": 3,
+      "high_value_rate": 0.75,
+      "lift_ratio": 1.9704545454545455
+    },
+    {
+      "sic_code": "14190",
+      "sector": "Manufacturing",
+      "customer_count": 3,
+      "high_value_count": 2,
+      "high_value_rate": 0.6666666666666666,
+      "lift_ratio": 1.7515151515151515
+    },
+    {
+      "sic_code": "56302",
+      "sector": "Accommodation & Food",
+      "customer_count": 3,
+      "high_value_count": 2,
+      "high_value_rate": 0.6666666666666666,
+      "lift_ratio": 1.7515151515151515
+    },
+    {
+      "sic_code": "43220",
+      "sector": "Construction",
+      "customer_count": 6,
+      "high_value_count": 4,
+      "high_value_rate": 0.6666666666666666,
+      "lift_ratio": 1.7515151515151515
+    },
+    {
+      "sic_code": "71122",
+      "sector": "Professional Services",
+      "customer_count": 3,
+      "high_value_count": 2,
+      "high_value_rate": 0.6666666666666666,
+      "lift_ratio": 1.7515151515151515
+    },
+    {
+      "sic_code": "25990",
+      "sector": "Manufacturing",
+      "customer_count": 3,
+      "high_value_count": 2,
+      "high_value_rate": 0.6666666666666666,
+      "lift_ratio": 1.7515151515151515
+    },
+    {
+      "sic_code": "46760",
+      "sector": "Wholesale & Retail",
+      "customer_count": 3,
+      "high_value_count": 2,
+      "high_value_rate": 0.6666666666666666,
+      "lift_ratio": 1.7515151515151515
+    },
+    {
+      "sic_code": "58190",
+      "sector": "Information & Communication",
+      "customer_count": 18,
+      "high_value_count": 11,
+      "high_value_rate": 0.6111111111111112,
+      "lift_ratio": 1.6055555555555556
+    },
+    {
+      "sic_code": "68100",
+      "sector": "Real Estate",
+      "customer_count": 7,
+      "high_value_count": 4,
+      "high_value_rate": 0.5714285714285714,
+      "lift_ratio": 1.5012987012987011
+    },
+    {
+      "sic_code": "68209",
+      "sector": "Real Estate",
+      "customer_count": 21,
+      "high_value_count": 12,
+      "high_value_rate": 0.5714285714285714,
+      "lift_ratio": 1.5012987012987011
+    },
+    {
+      "sic_code": "18140",
+      "sector": "Manufacturing",
+      "customer_count": 9,
+      "high_value_count": 5,
+      "high_value_rate": 0.5555555555555556,
+      "lift_ratio": 1.4595959595959596
+    },
+    {
+      "sic_code": "59200",
+      "sector": "Information & Communication",
+      "customer_count": 4,
+      "high_value_count": 2,
+      "high_value_rate": 0.5,
+      "lift_ratio": 1.3136363636363637
+    },
+    {
+      "sic_code": "49410",
+      "sector": "Transportation",
+      "customer_count": 4,
+      "high_value_count": 2,
+      "high_value_rate": 0.5,
+      "lift_ratio": 1.3136363636363637
+    },
+    {
+      "sic_code": "56101",
+      "sector": "Accommodation & Food",
+      "customer_count": 4,
+      "high_value_count": 2,
+      "high_value_rate": 0.5,
+      "lift_ratio": 1.3136363636363637
+    },
+    {
+      "sic_code": "18129",
+      "sector": "Manufacturing",
+      "customer_count": 131,
+      "high_value_count": 63,
+      "high_value_rate": 0.48091603053435117,
+      "lift_ratio": 1.263497571131159
+    },
+    {
+      "sic_code": "74100",
+      "sector": "Professional Services",
+      "customer_count": 28,
+      "high_value_count": 13,
+      "high_value_rate": 0.4642857142857143,
+      "lift_ratio": 1.219805194805195
+    },
+    {
+      "sic_code": "46900",
+      "sector": "Wholesale & Retail",
+      "customer_count": 13,
+      "high_value_count": 6,
+      "high_value_rate": 0.46153846153846156,
+      "lift_ratio": 1.2125874125874125
+    },
+    {
+      "sic_code": "86900",
+      "sector": "Health",
+      "customer_count": 13,
+      "high_value_count": 6,
+      "high_value_rate": 0.46153846153846156,
+      "lift_ratio": 1.2125874125874125
+    },
+    {
+      "sic_code": "32990",
+      "sector": "Manufacturing",
+      "customer_count": 23,
+      "high_value_count": 10,
+      "high_value_rate": 0.43478260869565216,
+      "lift_ratio": 1.1422924901185771
+    },
+    {
+      "sic_code": "47910",
+      "sector": "Wholesale & Retail",
+      "customer_count": 21,
+      "high_value_count": 9,
+      "high_value_rate": 0.42857142857142855,
+      "lift_ratio": 1.1259740259740258
+    },
+    {
+      "sic_code": "82920",
+      "sector": "Administrative Services",
+      "customer_count": 7,
+      "high_value_count": 3,
+      "high_value_rate": 0.42857142857142855,
+      "lift_ratio": 1.1259740259740258
+    },
+    {
+      "sic_code": "82990",
+      "sector": "Administrative Services",
+      "customer_count": 47,
+      "high_value_count": 20,
+      "high_value_rate": 0.425531914893617,
+      "lift_ratio": 1.1179883945841393
+    },
+    {
+      "sic_code": "47990",
+      "sector": "Wholesale & Retail",
+      "customer_count": 12,
+      "high_value_count": 5,
+      "high_value_rate": 0.4166666666666667,
+      "lift_ratio": 1.0946969696969697
+    },
+    {
+      "sic_code": "43290",
+      "sector": "Construction",
+      "customer_count": 5,
+      "high_value_count": 2,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "46499",
+      "sector": "Wholesale & Retail",
+      "customer_count": 5,
+      "high_value_count": 2,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "27900",
+      "sector": "Manufacturing",
+      "customer_count": 5,
+      "high_value_count": 2,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "17219",
+      "sector": "Manufacturing",
+      "customer_count": 5,
+      "high_value_count": 2,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "59112",
+      "sector": "Information & Communication",
+      "customer_count": 5,
+      "high_value_count": 2,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "68320",
+      "sector": "Real Estate",
+      "customer_count": 5,
+      "high_value_count": 2,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "62090",
+      "sector": "Information & Communication",
+      "customer_count": 10,
+      "high_value_count": 4,
+      "high_value_rate": 0.4,
+      "lift_ratio": 1.050909090909091
+    },
+    {
+      "sic_code": "70100",
+      "sector": "Professional Services",
+      "customer_count": 8,
+      "high_value_count": 3,
+      "high_value_rate": 0.375,
+      "lift_ratio": 0.9852272727272727
+    },
+    {
+      "sic_code": "96090",
+      "sector": "Other Services",
+      "customer_count": 17,
+      "high_value_count": 6,
+      "high_value_rate": 0.35294117647058826,
+      "lift_ratio": 0.9272727272727274
+    },
+    {
+      "sic_code": "55900",
+      "sector": "Accommodation & Food",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "46190",
+      "sector": "Wholesale & Retail",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "18130",
+      "sector": "Manufacturing",
+      "customer_count": 6,
+      "high_value_count": 2,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "17290",
+      "sector": "Manufacturing",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "78109",
+      "sector": "Administrative Services",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "62012",
+      "sector": "Information & Communication",
+      "customer_count": 6,
+      "high_value_count": 2,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "63120",
+      "sector": "Information & Communication",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "33190",
+      "sector": "Manufacturing",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "98000",
+      "sector": "Household Activities",
+      "customer_count": 9,
+      "high_value_count": 3,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "47110",
+      "sector": "Wholesale & Retail",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "43999",
+      "sector": "Construction",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    },
+    {
+      "sic_code": "45200",
+      "sector": "Wholesale & Retail",
+      "customer_count": 3,
+      "high_value_count": 1,
+      "high_value_rate": 0.3333333333333333,
+      "lift_ratio": 0.8757575757575757
+    }
+  ],
+  "model_metrics": {
+    "cv_auc_mean": 0.5688756726139903,
+    "cv_auc_std": 0.03623853547836663,
+    "n_features": 16,
+    "n_samples": 867,
+    "positive_rate": 0.3806228373702422
+  }
+}

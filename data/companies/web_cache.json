@@ -1,0 +1,7514 @@
+{
+  "4 CREATIVE": {
+    "company": "4 CREATIVE",
+    "has_website": true,
+    "website_domain": "4creative.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "4-PRINT": {
+    "company": "4-PRINT",
+    "has_website": true,
+    "website_domain": "4print.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "50 OR 100 DIEBOND PANELS X 1 COL BLACK LOGO": {
+    "company": "50 OR 100 DIEBOND PANELS X 1 COL BLACK LOGO",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "A&M ELLIS": {
+    "company": "A&M ELLIS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ABC": {
+    "company": "ABC",
+    "has_website": true,
+    "website_domain": "abc.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ABC BOX CO": {
+    "company": "ABC BOX CO",
+    "has_website": true,
+    "website_domain": "abcboxco.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "ABLE CANOPIES": {
+    "company": "ABLE CANOPIES",
+    "has_website": true,
+    "website_domain": "ablecanopies.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "ABSOLUTE CONTROL": {
+    "company": "ABSOLUTE CONTROL",
+    "has_website": true,
+    "website_domain": "absolutecontrol.com",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "ACG": {
+    "company": "ACG",
+    "has_website": true,
+    "website_domain": "acg.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ACKNOWLEDGE DESIGNS": {
+    "company": "ACKNOWLEDGE DESIGNS",
+    "has_website": true,
+    "website_domain": "acknowledgedesigns.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "ACOPIA": {
+    "company": "ACOPIA",
+    "has_website": true,
+    "website_domain": "acopia.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ACORN PRESS": {
+    "company": "ACORN PRESS",
+    "has_website": true,
+    "website_domain": "acornpress.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "ACTICARE UK": {
+    "company": "ACTICARE UK",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ACTION PRESS": {
+    "company": "ACTION PRESS",
+    "has_website": true,
+    "website_domain": "actionpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "AD PRINT SERVICES": {
+    "company": "AD PRINT SERVICES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ADGLOW": {
+    "company": "ADGLOW",
+    "has_website": true,
+    "website_domain": "adglow.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ADOVATION": {
+    "company": "ADOVATION",
+    "has_website": true,
+    "website_domain": "adovation.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ADVAGRAFIX": {
+    "company": "ADVAGRAFIX",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ADVANCED INSULATIONS": {
+    "company": "ADVANCED INSULATIONS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "AG PRODUCTS": {
+    "company": "AG PRODUCTS",
+    "has_website": true,
+    "website_domain": "agproducts.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ALDINE": {
+    "company": "ALDINE",
+    "has_website": true,
+    "website_domain": "aldine.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ALL PAY CARDS": {
+    "company": "ALL PAY CARDS",
+    "has_website": true,
+    "website_domain": "allpaycards.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "ALLAN HOLDING FINEPRINT": {
+    "company": "ALLAN HOLDING FINEPRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ALLSIGNS": {
+    "company": "ALLSIGNS",
+    "has_website": true,
+    "website_domain": "allsigns.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "ALTAVIA": {
+    "company": "ALTAVIA",
+    "has_website": true,
+    "website_domain": "altavia.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "AMBA DEFENCE": {
+    "company": "AMBA DEFENCE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "AMBRO": {
+    "company": "AMBRO",
+    "has_website": true,
+    "website_domain": "ambro.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "AMBRO PLASTICS": {
+    "company": "AMBRO PLASTICS",
+    "has_website": true,
+    "website_domain": "ambroplastics.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "AMBROSE PRESS": {
+    "company": "AMBROSE PRESS",
+    "has_website": true,
+    "website_domain": "ambrosepress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "AMY FINNIMORE NECKLACE DISPLAY CARD": {
+    "company": "AMY FINNIMORE NECKLACE DISPLAY CARD",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ANDREW HARVEY": {
+    "company": "ANDREW HARVEY",
+    "has_website": true,
+    "website_domain": "andrewharvey.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ANDREW HUNTS": {
+    "company": "ANDREW HUNTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ANDY LINKE": {
+    "company": "ANDY LINKE",
+    "has_website": true,
+    "website_domain": "andylinke.com",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "ANECO": {
+    "company": "ANECO",
+    "has_website": true,
+    "website_domain": "aneco.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ANV SEWING": {
+    "company": "ANV SEWING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "APL": {
+    "company": "APL",
+    "has_website": true,
+    "website_domain": "apl.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "APL PACKAGING": {
+    "company": "APL PACKAGING",
+    "has_website": true,
+    "website_domain": "aplpackaging.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "APT": {
+    "company": "APT",
+    "has_website": true,
+    "website_domain": "apt.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "AQUATINT": {
+    "company": "AQUATINT",
+    "has_website": true,
+    "website_domain": "aquatint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ARRIVAL": {
+    "company": "ARRIVAL",
+    "has_website": true,
+    "website_domain": "arrival.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ARTISAN": {
+    "company": "ARTISAN",
+    "has_website": true,
+    "website_domain": "artisan.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ARTISAN PRINT": {
+    "company": "ARTISAN PRINT",
+    "has_website": true,
+    "website_domain": "artisanprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ARTISAN PRINT SOLUTIONS": {
+    "company": "ARTISAN PRINT SOLUTIONS",
+    "has_website": true,
+    "website_domain": "artisanprintsolutions.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ASHGROVE TRADING": {
+    "company": "ASHGROVE TRADING",
+    "has_website": true,
+    "website_domain": "ashgrovetrading.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ASHMAN": {
+    "company": "ASHMAN",
+    "has_website": true,
+    "website_domain": "ashman.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ASHMAN & CLOUGH": {
+    "company": "ASHMAN & CLOUGH",
+    "has_website": true,
+    "website_domain": "ashmanandclough.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "ASHWYK": {
+    "company": "ASHWYK",
+    "has_website": true,
+    "website_domain": "ashwyk.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "ASTLES CONTROLS": {
+    "company": "ASTLES CONTROLS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ASTRA LIGHTING": {
+    "company": "ASTRA LIGHTING",
+    "has_website": true,
+    "website_domain": "astralighting.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "ATMOSSPHERE": {
+    "company": "ATMOSSPHERE",
+    "has_website": true,
+    "website_domain": "atmossphere.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "AVENUE ONE": {
+    "company": "AVENUE ONE",
+    "has_website": true,
+    "website_domain": "avenueone.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "AVENUE ONE GRAPHICS": {
+    "company": "AVENUE ONE GRAPHICS",
+    "has_website": true,
+    "website_domain": "avenueonegraphics.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "AVS": {
+    "company": "AVS",
+    "has_website": true,
+    "website_domain": "avs.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "B A S": {
+    "company": "B A S",
+    "has_website": true,
+    "website_domain": "bas.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "B LITHO": {
+    "company": "B LITHO",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BAG N BOX MAN": {
+    "company": "BAG N BOX MAN",
+    "has_website": true,
+    "website_domain": "bagnboxman.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BAHOMA": {
+    "company": "BAHOMA",
+    "has_website": true,
+    "website_domain": "bahoma.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BAMBOO CREATIONS": {
+    "company": "BAMBOO CREATIONS",
+    "has_website": true,
+    "website_domain": "bamboocreations.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BANBURY LABELS": {
+    "company": "BANBURY LABELS",
+    "has_website": true,
+    "website_domain": "banburylabels.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BANBURY LITH": {
+    "company": "BANBURY LITH",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BANBURY LITH0": {
+    "company": "BANBURY LITH0",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BANBURY LITHO": {
+    "company": "BANBURY LITHO",
+    "has_website": true,
+    "website_domain": "banburylitho.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BARBARA": {
+    "company": "BARBARA",
+    "has_website": true,
+    "website_domain": "barbara.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BARBARA MORAN": {
+    "company": "BARBARA MORAN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BARNWELL PRINT": {
+    "company": "BARNWELL PRINT",
+    "has_website": true,
+    "website_domain": "barnwellprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BCQ": {
+    "company": "BCQ",
+    "has_website": true,
+    "website_domain": "bcq.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BD NETWORKS": {
+    "company": "BD NETWORKS",
+    "has_website": true,
+    "website_domain": "bdnetworks.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "BEAMS INTERNATIONAL": {
+    "company": "BEAMS INTERNATIONAL",
+    "has_website": true,
+    "website_domain": "beamsinternational.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BEH ELECTRICAL": {
+    "company": "BEH ELECTRICAL",
+    "has_website": true,
+    "website_domain": "behelectrical.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "BELL FLOW": {
+    "company": "BELL FLOW",
+    "has_website": true,
+    "website_domain": "bellflow.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "BELL FLOW SYSTEMS": {
+    "company": "BELL FLOW SYSTEMS",
+    "has_website": true,
+    "website_domain": "bellflowsystems.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "BELOW THE LINE": {
+    "company": "BELOW THE LINE",
+    "has_website": true,
+    "website_domain": "belowtheline.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BERRY YUMMY": {
+    "company": "BERRY YUMMY",
+    "has_website": true,
+    "website_domain": "berryyummy.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "BETTA TECH": {
+    "company": "BETTA TECH",
+    "has_website": true,
+    "website_domain": "bettatech.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "BETTER INDOORS": {
+    "company": "BETTER INDOORS",
+    "has_website": true,
+    "website_domain": "betterindoors.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "BIG DESIGN & PRINT": {
+    "company": "BIG DESIGN & PRINT",
+    "has_website": true,
+    "website_domain": "bigdesignandprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BIG GROUP RETAIL": {
+    "company": "BIG GROUP RETAIL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BILL-PRINT MARSHALL": {
+    "company": "BILL-PRINT MARSHALL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BIN HANGERS": {
+    "company": "BIN HANGERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BINDERS PLUS": {
+    "company": "BINDERS PLUS",
+    "has_website": true,
+    "website_domain": "bindersplus.com",
+    "has_https": true,
+    "http_status": 465,
+    "domain_variant": "com"
+  },
+  "BINDING SCIENCES": {
+    "company": "BINDING SCIENCES",
+    "has_website": true,
+    "website_domain": "bindingsciences.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "BINERS PLUS": {
+    "company": "BINERS PLUS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BKT": {
+    "company": "BKT",
+    "has_website": true,
+    "website_domain": "bkt.co.uk",
+    "has_https": false,
+    "http_status": 409,
+    "domain_variant": "co.uk"
+  },
+  "BLACKFIEF": {
+    "company": "BLACKFIEF",
+    "has_website": true,
+    "website_domain": "blackfief.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "BLACKMORE": {
+    "company": "BLACKMORE",
+    "has_website": true,
+    "website_domain": "blackmore.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BLACKMORES": {
+    "company": "BLACKMORES",
+    "has_website": true,
+    "website_domain": "blackmores.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BLANK": {
+    "company": "BLANK",
+    "has_website": true,
+    "website_domain": "blank.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "BLEEP RECORDS": {
+    "company": "BLEEP RECORDS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BLINDSIDE CARDS": {
+    "company": "BLINDSIDE CARDS",
+    "has_website": true,
+    "website_domain": "blindsidecards.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BLOCK 9": {
+    "company": "BLOCK 9",
+    "has_website": true,
+    "website_domain": "block9.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "BLUE FLAMINGO": {
+    "company": "BLUE FLAMINGO",
+    "has_website": true,
+    "website_domain": "blueflamingo.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BLUE LEAF": {
+    "company": "BLUE LEAF",
+    "has_website": true,
+    "website_domain": "blueleaf.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BLUE MOOSE": {
+    "company": "BLUE MOOSE",
+    "has_website": true,
+    "website_domain": "bluemoose.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "BLUE SKY SIGNS": {
+    "company": "BLUE SKY SIGNS",
+    "has_website": true,
+    "website_domain": "blueskysigns.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "BLUE STAR": {
+    "company": "BLUE STAR",
+    "has_website": true,
+    "website_domain": "bluestar.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BLUNT PRINT": {
+    "company": "BLUNT PRINT",
+    "has_website": true,
+    "website_domain": "bluntprint.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "BOLT TECH": {
+    "company": "BOLT TECH",
+    "has_website": true,
+    "website_domain": "bolttech.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "BOX AND SEAL": {
+    "company": "BOX AND SEAL",
+    "has_website": true,
+    "website_domain": "boxandseal.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BOXES & PACKAGING": {
+    "company": "BOXES & PACKAGING",
+    "has_website": true,
+    "website_domain": "boxesandpackaging.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BPD": {
+    "company": "BPD",
+    "has_website": true,
+    "website_domain": "bpd.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "BPDL": {
+    "company": "BPDL",
+    "has_website": true,
+    "website_domain": "bpdl.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BRACKLEY LABELS": {
+    "company": "BRACKLEY LABELS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BRACKNELL PRINTROOM": {
+    "company": "BRACKNELL PRINTROOM",
+    "has_website": true,
+    "website_domain": "bracknellprintroom.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BRADY": {
+    "company": "BRADY",
+    "has_website": true,
+    "website_domain": "brady.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BRAND ACE": {
+    "company": "BRAND ACE",
+    "has_website": true,
+    "website_domain": "brandace.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BRANDLINE PRODUCTS": {
+    "company": "BRANDLINE PRODUCTS",
+    "has_website": true,
+    "website_domain": "brandlineproducts.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "BRAY LEINO": {
+    "company": "BRAY LEINO",
+    "has_website": true,
+    "website_domain": "brayleino.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BRDC": {
+    "company": "BRDC",
+    "has_website": true,
+    "website_domain": "brdc.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BRIGHTGREENPRINT": {
+    "company": "BRIGHTGREENPRINT",
+    "has_website": true,
+    "website_domain": "brightgreenprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BRITISH MOTOR HERITAGE": {
+    "company": "BRITISH MOTOR HERITAGE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BROADGATE": {
+    "company": "BROADGATE",
+    "has_website": true,
+    "website_domain": "broadgate.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BROADGATE CREATIVE": {
+    "company": "BROADGATE CREATIVE",
+    "has_website": true,
+    "website_domain": "broadgatecreative.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BROADGATE DESIGN": {
+    "company": "BROADGATE DESIGN",
+    "has_website": true,
+    "website_domain": "broadgatedesign.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "BROADSWORD": {
+    "company": "BROADSWORD",
+    "has_website": true,
+    "website_domain": "broadsword.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "BROCKS COMPASS": {
+    "company": "BROCKS COMPASS",
+    "has_website": true,
+    "website_domain": "brockscompass.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BUBBLE": {
+    "company": "BUBBLE",
+    "has_website": true,
+    "website_domain": "bubble.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "BUCKS ART WEEK": {
+    "company": "BUCKS ART WEEK",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BUCKS ART WEEKS": {
+    "company": "BUCKS ART WEEKS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BUCKS OPEN STUDIOS": {
+    "company": "BUCKS OPEN STUDIOS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BUX & BEWL": {
+    "company": "BUX & BEWL",
+    "has_website": true,
+    "website_domain": "buxandbewl.co.uk",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "BUYSEND.COM": {
+    "company": "BUYSEND.COM",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BUZZ": {
+    "company": "BUZZ",
+    "has_website": true,
+    "website_domain": "buzz.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "BUZZ DESIGN": {
+    "company": "BUZZ DESIGN",
+    "has_website": true,
+    "website_domain": "buzzdesign.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "CAMBERTRONICS": {
+    "company": "CAMBERTRONICS",
+    "has_website": true,
+    "website_domain": "cambertronics.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CANDY": {
+    "company": "CANDY",
+    "has_website": true,
+    "website_domain": "candy.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "CANDY & CO": {
+    "company": "CANDY & CO",
+    "has_website": true,
+    "website_domain": "candyandco.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "CARBON COLOUR": {
+    "company": "CARBON COLOUR",
+    "has_website": true,
+    "website_domain": "carboncolour.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "CARDMASTERS": {
+    "company": "CARDMASTERS",
+    "has_website": true,
+    "website_domain": "cardmasters.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CARRIART": {
+    "company": "CARRIART",
+    "has_website": true,
+    "website_domain": "carriart.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CCM MARKETING": {
+    "company": "CCM MARKETING",
+    "has_website": true,
+    "website_domain": "ccmmarketing.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "CDL": {
+    "company": "CDL",
+    "has_website": true,
+    "website_domain": "cdl.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CDP": {
+    "company": "CDP",
+    "has_website": true,
+    "website_domain": "cdp.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CDT": {
+    "company": "CDT",
+    "has_website": true,
+    "website_domain": "cdt.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CELLPAK": {
+    "company": "CELLPAK",
+    "has_website": true,
+    "website_domain": "cellpak.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "CELSUR": {
+    "company": "CELSUR",
+    "has_website": true,
+    "website_domain": "celsur.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "CENTRAL BANK OF IRAQ": {
+    "company": "CENTRAL BANK OF IRAQ",
+    "has_website": true,
+    "website_domain": "centralbankofiraq.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "CENTRAL DESIGN": {
+    "company": "CENTRAL DESIGN",
+    "has_website": true,
+    "website_domain": "centraldesign.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "CENTRAL DESIGNS": {
+    "company": "CENTRAL DESIGNS",
+    "has_website": true,
+    "website_domain": "centraldesigns.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CH & HH CONSULTANCY": {
+    "company": "CH & HH CONSULTANCY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CHALLENGE": {
+    "company": "CHALLENGE",
+    "has_website": true,
+    "website_domain": "challenge.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "CHALLENGE EUROPE": {
+    "company": "CHALLENGE EUROPE",
+    "has_website": true,
+    "website_domain": "challengeeurope.com",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "com"
+  },
+  "CHAMELEON": {
+    "company": "CHAMELEON",
+    "has_website": true,
+    "website_domain": "chameleon.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CHAMELEON CREATIVE": {
+    "company": "CHAMELEON CREATIVE",
+    "has_website": true,
+    "website_domain": "chameleoncreative.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "CHARLESWORTH": {
+    "company": "CHARLESWORTH",
+    "has_website": true,
+    "website_domain": "charlesworth.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CHEQUERS": {
+    "company": "CHEQUERS",
+    "has_website": true,
+    "website_domain": "chequers.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "CHILTERN": {
+    "company": "CHILTERN",
+    "has_website": true,
+    "website_domain": "chiltern.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CHILTERN PRINTERS": {
+    "company": "CHILTERN PRINTERS",
+    "has_website": true,
+    "website_domain": "chilternprinters.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "CHRIS MCINTOSH ENGINEERING SERVICES": {
+    "company": "CHRIS MCINTOSH ENGINEERING SERVICES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CHRISTIE-JLR": {
+    "company": "CHRISTIE-JLR",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CHROMA": {
+    "company": "CHROMA",
+    "has_website": true,
+    "website_domain": "chroma.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CHROME-DOME DESIGN": {
+    "company": "CHROME-DOME DESIGN",
+    "has_website": true,
+    "website_domain": "chromedomedesign.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "CHROME-DOME MARKETING": {
+    "company": "CHROME-DOME MARKETING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CITIZENS ADVICE": {
+    "company": "CITIZENS ADVICE",
+    "has_website": true,
+    "website_domain": "citizensadvice.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CITY IMAGES": {
+    "company": "CITY IMAGES",
+    "has_website": true,
+    "website_domain": "cityimages.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CKN": {
+    "company": "CKN",
+    "has_website": true,
+    "website_domain": "ckn.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "CLARKEPRINT": {
+    "company": "CLARKEPRINT",
+    "has_website": true,
+    "website_domain": "clarkeprint.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "CLAROPRINT": {
+    "company": "CLAROPRINT",
+    "has_website": true,
+    "website_domain": "claroprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CLAYTONS COCKTAILS": {
+    "company": "CLAYTONS COCKTAILS",
+    "has_website": true,
+    "website_domain": "claytonscocktails.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "CLENAWARE SYSTEMS": {
+    "company": "CLENAWARE SYSTEMS",
+    "has_website": true,
+    "website_domain": "clenawaresystems.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CLERE": {
+    "company": "CLERE",
+    "has_website": true,
+    "website_domain": "clere.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CLERE DESIGN": {
+    "company": "CLERE DESIGN",
+    "has_website": true,
+    "website_domain": "cleredesign.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "CLINTPLAN": {
+    "company": "CLINTPLAN",
+    "has_website": true,
+    "website_domain": "clintplan.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "CMS": {
+    "company": "CMS",
+    "has_website": true,
+    "website_domain": "cms.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CMUK": {
+    "company": "CMUK",
+    "has_website": true,
+    "website_domain": "cmuk.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "CODEGATE": {
+    "company": "CODEGATE",
+    "has_website": true,
+    "website_domain": "codegate.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COLOPHON": {
+    "company": "COLOPHON",
+    "has_website": true,
+    "website_domain": "colophon.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COLOUR CREW": {
+    "company": "COLOUR CREW",
+    "has_website": true,
+    "website_domain": "colourcrew.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COLOUR PRESS": {
+    "company": "COLOUR PRESS",
+    "has_website": true,
+    "website_domain": "colourpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COLOURBURST": {
+    "company": "COLOURBURST",
+    "has_website": true,
+    "website_domain": "colourburst.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "COLOURPOINT": {
+    "company": "COLOURPOINT",
+    "has_website": true,
+    "website_domain": "colourpoint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COLOURSTREAM": {
+    "company": "COLOURSTREAM",
+    "has_website": true,
+    "website_domain": "colourstream.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "COLOURZONE": {
+    "company": "COLOURZONE",
+    "has_website": true,
+    "website_domain": "colourzone.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "COMMERCIAL": {
+    "company": "COMMERCIAL",
+    "has_website": true,
+    "website_domain": "commercial.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "COMMERCIAL BY NATURE": {
+    "company": "COMMERCIAL BY NATURE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "COMPLETE": {
+    "company": "COMPLETE",
+    "has_website": true,
+    "website_domain": "complete.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COMPLETE OFFICE SUPPLIES": {
+    "company": "COMPLETE OFFICE SUPPLIES",
+    "has_website": true,
+    "website_domain": "completeofficesupplies.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COMPLETE PRESENTATION": {
+    "company": "COMPLETE PRESENTATION",
+    "has_website": true,
+    "website_domain": "completepresentation.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CONDOR WINES": {
+    "company": "CONDOR WINES",
+    "has_website": true,
+    "website_domain": "condorwines.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CONNECT": {
+    "company": "CONNECT",
+    "has_website": true,
+    "website_domain": "connect.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "CONSERTATREE": {
+    "company": "CONSERTATREE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CONSERVATREE": {
+    "company": "CONSERVATREE",
+    "has_website": true,
+    "website_domain": "conservatree.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "CONTACTA": {
+    "company": "CONTACTA",
+    "has_website": true,
+    "website_domain": "contacta.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COOPER VISION": {
+    "company": "COOPER VISION",
+    "has_website": true,
+    "website_domain": "coopervision.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CORNFLOWER": {
+    "company": "CORNFLOWER",
+    "has_website": true,
+    "website_domain": "cornflower.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "CORPORATE BUSINESS GIFTS": {
+    "company": "CORPORATE BUSINESS GIFTS",
+    "has_website": true,
+    "website_domain": "corporatebusinessgifts.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "COUTCOM": {
+    "company": "COUTCOM",
+    "has_website": true,
+    "website_domain": "coutcom.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "COUTURE": {
+    "company": "COUTURE",
+    "has_website": true,
+    "website_domain": "couture.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "COUTURE PRODUCT SAMPLING": {
+    "company": "COUTURE PRODUCT SAMPLING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "COUTURE SAMPLING": {
+    "company": "COUTURE SAMPLING",
+    "has_website": true,
+    "website_domain": "couturesampling.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CPF FIELD": {
+    "company": "CPF FIELD",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CPG": {
+    "company": "CPG",
+    "has_website": true,
+    "website_domain": "cpg.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CPJ FIELD": {
+    "company": "CPJ FIELD",
+    "has_website": true,
+    "website_domain": "cpjfield.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CREATIONS BY CHAMELEON": {
+    "company": "CREATIONS BY CHAMELEON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "CREATIVE ASSOCIATES": {
+    "company": "CREATIVE ASSOCIATES",
+    "has_website": true,
+    "website_domain": "creativeassociates.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "CROWN GRAPHIC SOLUTIONS": {
+    "company": "CROWN GRAPHIC SOLUTIONS",
+    "has_website": true,
+    "website_domain": "crowngraphicsolutions.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CRYSTAL PRINT": {
+    "company": "CRYSTAL PRINT",
+    "has_website": true,
+    "website_domain": "crystalprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CUBIQ": {
+    "company": "CUBIQ",
+    "has_website": true,
+    "website_domain": "cubiq.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "CURTIS PACKAGING": {
+    "company": "CURTIS PACKAGING",
+    "has_website": true,
+    "website_domain": "curtispackaging.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "D2 PRINTING": {
+    "company": "D2 PRINTING",
+    "has_website": true,
+    "website_domain": "d2printing.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "DAEL": {
+    "company": "DAEL",
+    "has_website": true,
+    "website_domain": "dael.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DAF": {
+    "company": "DAF",
+    "has_website": true,
+    "website_domain": "daf.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "DALE STUDIOS": {
+    "company": "DALE STUDIOS",
+    "has_website": true,
+    "website_domain": "dalestudios.co.uk",
+    "has_https": true,
+    "http_status": 308,
+    "domain_variant": "co.uk"
+  },
+  "DAR LIGHTING": {
+    "company": "DAR LIGHTING",
+    "has_website": true,
+    "website_domain": "darlighting.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "DAXICON LTD": {
+    "company": "DAXICON LTD",
+    "has_website": true,
+    "website_domain": "daxicon.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DAYFOLD": {
+    "company": "DAYFOLD",
+    "has_website": true,
+    "website_domain": "dayfold.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "DBG HOLDINGS": {
+    "company": "DBG HOLDINGS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "DBM COVENTRY": {
+    "company": "DBM COVENTRY",
+    "has_website": true,
+    "website_domain": "dbmcoventry.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DCS": {
+    "company": "DCS",
+    "has_website": true,
+    "website_domain": "dcs.co.uk",
+    "has_https": false,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "DEE - LYNX": {
+    "company": "DEE - LYNX",
+    "has_website": true,
+    "website_domain": "deelynx.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "DENMORE PRESS": {
+    "company": "DENMORE PRESS",
+    "has_website": true,
+    "website_domain": "denmorepress.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "DESIGNEASE": {
+    "company": "DESIGNEASE",
+    "has_website": true,
+    "website_domain": "designease.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "DEVELOPMENT CO": {
+    "company": "DEVELOPMENT CO",
+    "has_website": true,
+    "website_domain": "developmentco.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "DEXTERITY": {
+    "company": "DEXTERITY",
+    "has_website": true,
+    "website_domain": "dexterity.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DIGI PRESS": {
+    "company": "DIGI PRESS",
+    "has_website": true,
+    "website_domain": "digipress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "DIGITAL FUSION": {
+    "company": "DIGITAL FUSION",
+    "has_website": true,
+    "website_domain": "digitalfusion.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DLM CREATIVE": {
+    "company": "DLM CREATIVE",
+    "has_website": true,
+    "website_domain": "dlmcreative.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "DM LINK": {
+    "company": "DM LINK",
+    "has_website": true,
+    "website_domain": "dmlink.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "DOMUS GROUP": {
+    "company": "DOMUS GROUP",
+    "has_website": true,
+    "website_domain": "domus.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "DOVETON": {
+    "company": "DOVETON",
+    "has_website": true,
+    "website_domain": "doveton.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DOVETON PRESS": {
+    "company": "DOVETON PRESS",
+    "has_website": true,
+    "website_domain": "dovetonpress.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DPI": {
+    "company": "DPI",
+    "has_website": true,
+    "website_domain": "dpi.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "DRAWER BOX": {
+    "company": "DRAWER BOX",
+    "has_website": true,
+    "website_domain": "drawerbox.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "DS DISPLAYS": {
+    "company": "DS DISPLAYS",
+    "has_website": true,
+    "website_domain": "dsdisplays.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DT PRODUCTS": {
+    "company": "DT PRODUCTS",
+    "has_website": true,
+    "website_domain": "dtproducts.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DURAWELD": {
+    "company": "DURAWELD",
+    "has_website": true,
+    "website_domain": "duraweld.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "DYNAMIC PRINT MEDIA": {
+    "company": "DYNAMIC PRINT MEDIA",
+    "has_website": true,
+    "website_domain": "dynamicprintmedia.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "DYSON": {
+    "company": "DYSON",
+    "has_website": true,
+    "website_domain": "dyson.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "EARNEST CUMMINS": {
+    "company": "EARNEST CUMMINS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "EAZYPRINT": {
+    "company": "EAZYPRINT",
+    "has_website": true,
+    "website_domain": "eazyprint.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ECLIPSE PRINT SOLUTIONS": {
+    "company": "ECLIPSE PRINT SOLUTIONS",
+    "has_website": true,
+    "website_domain": "eclipseprintsolutions.com",
+    "has_https": true,
+    "http_status": 406,
+    "domain_variant": "com"
+  },
+  "ECOPACK": {
+    "company": "ECOPACK",
+    "has_website": true,
+    "website_domain": "ecopack.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "ECOPACK SOLUTIONS": {
+    "company": "ECOPACK SOLUTIONS",
+    "has_website": true,
+    "website_domain": "ecopacksolutions.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "EDDYFI": {
+    "company": "EDDYFI",
+    "has_website": true,
+    "website_domain": "eddyfi.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "EFFECTIVE DP": {
+    "company": "EFFECTIVE DP",
+    "has_website": true,
+    "website_domain": "effectivedp.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "ELEMENT": {
+    "company": "ELEMENT",
+    "has_website": true,
+    "website_domain": "element.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ELLE MEDIA": {
+    "company": "ELLE MEDIA",
+    "has_website": true,
+    "website_domain": "ellemedia.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "ELLIS PATENTS": {
+    "company": "ELLIS PATENTS",
+    "has_website": true,
+    "website_domain": "ellispatents.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "EMBERZONE": {
+    "company": "EMBERZONE",
+    "has_website": true,
+    "website_domain": "emberzone.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "EMERALD COLOUR": {
+    "company": "EMERALD COLOUR",
+    "has_website": true,
+    "website_domain": "emeraldcolour.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "EMPRESS": {
+    "company": "EMPRESS",
+    "has_website": true,
+    "website_domain": "empress.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "EMPRESS - CHARLOTTE": {
+    "company": "EMPRESS - CHARLOTTE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "EMPRESS LITHO": {
+    "company": "EMPRESS LITHO",
+    "has_website": true,
+    "website_domain": "empresslitho.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "EMTONE": {
+    "company": "EMTONE",
+    "has_website": true,
+    "website_domain": "emtone.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "ENCORE": {
+    "company": "ENCORE",
+    "has_website": true,
+    "website_domain": "encore.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "EQUINE HEALTH": {
+    "company": "EQUINE HEALTH",
+    "has_website": true,
+    "website_domain": "equinehealth.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ERGO AGENCY": {
+    "company": "ERGO AGENCY",
+    "has_website": true,
+    "website_domain": "ergoagency.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "ERNELLE MAGABO": {
+    "company": "ERNELLE MAGABO",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ESP COLOUR": {
+    "company": "ESP COLOUR",
+    "has_website": true,
+    "website_domain": "espcolour.co.uk",
+    "has_https": true,
+    "http_status": 308,
+    "domain_variant": "co.uk"
+  },
+  "ESPT": {
+    "company": "ESPT",
+    "has_website": true,
+    "website_domain": "espt.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ESPT DESIGN & PRINT": {
+    "company": "ESPT DESIGN & PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ESPT PRINT": {
+    "company": "ESPT PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "EVENTS AND PR": {
+    "company": "EVENTS AND PR",
+    "has_website": true,
+    "website_domain": "eventsandpr.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "EXPOSURE": {
+    "company": "EXPOSURE",
+    "has_website": true,
+    "website_domain": "exposure.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FALCONER": {
+    "company": "FALCONER",
+    "has_website": true,
+    "website_domain": "falconer.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "FANTASTIC MR BOX": {
+    "company": "FANTASTIC MR BOX",
+    "has_website": true,
+    "website_domain": "fantasticmrbox.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "FANU": {
+    "company": "FANU",
+    "has_website": true,
+    "website_domain": "fanu.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "FELIX": {
+    "company": "FELIX",
+    "has_website": true,
+    "website_domain": "felix.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FERAL": {
+    "company": "FERAL",
+    "has_website": true,
+    "website_domain": "feral.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FINECUT": {
+    "company": "FINECUT",
+    "has_website": true,
+    "website_domain": "finecut.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FINECUT FINISHING": {
+    "company": "FINECUT FINISHING",
+    "has_website": true,
+    "website_domain": "finecutfinishing.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FINEPRINT": {
+    "company": "FINEPRINT",
+    "has_website": true,
+    "website_domain": "fineprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FINEPRINT BASINGSTOKE": {
+    "company": "FINEPRINT BASINGSTOKE",
+    "has_website": true,
+    "website_domain": "fineprintbasingstoke.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FISERV": {
+    "company": "FISERV",
+    "has_website": true,
+    "website_domain": "fiserv.com",
+    "has_https": true,
+    "http_status": 406,
+    "domain_variant": "com"
+  },
+  "FLEEET": {
+    "company": "FLEEET",
+    "has_website": true,
+    "website_domain": "fleeet.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "FLEET": {
+    "company": "FLEET",
+    "has_website": true,
+    "website_domain": "fleet.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "FLEET - BABYF": {
+    "company": "FLEET - BABYF",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "FLEET LUXURY": {
+    "company": "FLEET LUXURY",
+    "has_website": true,
+    "website_domain": "fleetluxury.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FLEET LUXURY PACKAGING": {
+    "company": "FLEET LUXURY PACKAGING",
+    "has_website": true,
+    "website_domain": "fleetluxurypackaging.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FLYLEAF": {
+    "company": "FLYLEAF",
+    "has_website": true,
+    "website_domain": "flyleaf.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FMB": {
+    "company": "FMB",
+    "has_website": true,
+    "website_domain": "fmb.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "FOAM ENGINEERS": {
+    "company": "FOAM ENGINEERS",
+    "has_website": true,
+    "website_domain": "foamengineers.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FOLDERS LTD": {
+    "company": "FOLDERS LTD",
+    "has_website": true,
+    "website_domain": "folders.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FOREST": {
+    "company": "FOREST",
+    "has_website": true,
+    "website_domain": "forest.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FOREST PROMOTIONS": {
+    "company": "FOREST PROMOTIONS",
+    "has_website": true,
+    "website_domain": "forestpromotions.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "FOREVER YOUNG HEALTH": {
+    "company": "FOREVER YOUNG HEALTH",
+    "has_website": true,
+    "website_domain": "foreveryounghealth.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "FORGE SP": {
+    "company": "FORGE SP",
+    "has_website": true,
+    "website_domain": "forgesp.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "FORGE SPECIASL PROJECTS": {
+    "company": "FORGE SPECIASL PROJECTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "FORMARA": {
+    "company": "FORMARA",
+    "has_website": true,
+    "website_domain": "formara.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FORWARD PRINTS": {
+    "company": "FORWARD PRINTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "FOX GROUP": {
+    "company": "FOX GROUP",
+    "has_website": true,
+    "website_domain": "fox.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "FRANK WISE SCHOOL": {
+    "company": "FRANK WISE SCHOOL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "FRANKLIN COVEY": {
+    "company": "FRANKLIN COVEY",
+    "has_website": true,
+    "website_domain": "franklincovey.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "FREIDHEIM": {
+    "company": "FREIDHEIM",
+    "has_website": true,
+    "website_domain": "freidheim.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "FULLER & CO": {
+    "company": "FULLER & CO",
+    "has_website": true,
+    "website_domain": "fullerandco.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "FULLPOINT": {
+    "company": "FULLPOINT",
+    "has_website": true,
+    "website_domain": "fullpoint.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "FUSION": {
+    "company": "FUSION",
+    "has_website": true,
+    "website_domain": "fusion.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "G RYDER": {
+    "company": "G RYDER",
+    "has_website": true,
+    "website_domain": "gryder.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "GARY": {
+    "company": "GARY",
+    "has_website": true,
+    "website_domain": "gary.co.uk",
+    "has_https": true,
+    "http_status": 401,
+    "domain_variant": "co.uk"
+  },
+  "GARY WILLIAMS": {
+    "company": "GARY WILLIAMS",
+    "has_website": true,
+    "website_domain": "garywilliams.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "GARY WILLIAMS RIGID BOX TRAYS + WRAP AROUND COVERS": {
+    "company": "GARY WILLIAMS RIGID BOX TRAYS + WRAP AROUND COVERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GAS SAFE": {
+    "company": "GAS SAFE",
+    "has_website": true,
+    "website_domain": "gassafe.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "GAS SAFETY": {
+    "company": "GAS SAFETY",
+    "has_website": true,
+    "website_domain": "gassafety.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "GAS SAFETY SHOP": {
+    "company": "GAS SAFETY SHOP",
+    "has_website": true,
+    "website_domain": "gassafetyshop.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "GAVIN MARTIN": {
+    "company": "GAVIN MARTIN",
+    "has_website": true,
+    "website_domain": "gavinmartin.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "GD ASSOCIATES": {
+    "company": "GD ASSOCIATES",
+    "has_website": true,
+    "website_domain": "gdassociates.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "GEEOFF NEAL": {
+    "company": "GEEOFF NEAL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GEMINI": {
+    "company": "GEMINI",
+    "has_website": true,
+    "website_domain": "gemini.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "GEMINI PRINT": {
+    "company": "GEMINI PRINT",
+    "has_website": true,
+    "website_domain": "geminiprint.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "GEMINI PRINT SOLUTIONS": {
+    "company": "GEMINI PRINT SOLUTIONS",
+    "has_website": true,
+    "website_domain": "geminiprintsolutions.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "GENEOLOGY SUPPLIES": {
+    "company": "GENEOLOGY SUPPLIES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GENESIS": {
+    "company": "GENESIS",
+    "has_website": true,
+    "website_domain": "genesis.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "GENTLEMANS TONIC": {
+    "company": "GENTLEMANS TONIC",
+    "has_website": true,
+    "website_domain": "gentlemanstonic.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "GEOFF NEAL": {
+    "company": "GEOFF NEAL",
+    "has_website": true,
+    "website_domain": "geoffneal.co.uk",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "GEOFF NEAL LITHO": {
+    "company": "GEOFF NEAL LITHO",
+    "has_website": true,
+    "website_domain": "geoffneallitho.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "GEOFF NEAL PRINTWORKS": {
+    "company": "GEOFF NEAL PRINTWORKS",
+    "has_website": true,
+    "website_domain": "geoffnealprintworks.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "GFM": {
+    "company": "GFM",
+    "has_website": true,
+    "website_domain": "gfm.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "GILES COLOURPOINT": {
+    "company": "GILES COLOURPOINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GILES MILLER": {
+    "company": "GILES MILLER",
+    "has_website": true,
+    "website_domain": "gilesmiller.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "GINGER ROOT": {
+    "company": "GINGER ROOT",
+    "has_website": true,
+    "website_domain": "gingerroot.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "GOUGH": {
+    "company": "GOUGH",
+    "has_website": true,
+    "website_domain": "gough.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "GOUSTO": {
+    "company": "GOUSTO",
+    "has_website": true,
+    "website_domain": "gousto.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "GPA GLOBAL": {
+    "company": "GPA GLOBAL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GRAPEFRUIT": {
+    "company": "GRAPEFRUIT",
+    "has_website": true,
+    "website_domain": "grapefruit.co.uk",
+    "has_https": false,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "GRAPHIC ARTS": {
+    "company": "GRAPHIC ARTS",
+    "has_website": true,
+    "website_domain": "graphicarts.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "GRAPHICO": {
+    "company": "GRAPHICO",
+    "has_website": true,
+    "website_domain": "graphico.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "GRAPHICS ARTS": {
+    "company": "GRAPHICS ARTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GRAYS": {
+    "company": "GRAYS",
+    "has_website": true,
+    "website_domain": "grays.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "GRAYS LONDON": {
+    "company": "GRAYS LONDON",
+    "has_website": true,
+    "website_domain": "grayslondon.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "GREEN ST BINDERY": {
+    "company": "GREEN ST BINDERY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GREEN STREET": {
+    "company": "GREEN STREET",
+    "has_website": true,
+    "website_domain": "greenstreet.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "GREEN STREET BINDERY": {
+    "company": "GREEN STREET BINDERY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GREENS": {
+    "company": "GREENS",
+    "has_website": true,
+    "website_domain": "greens.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "GREENS DIGITAL": {
+    "company": "GREENS DIGITAL",
+    "has_website": true,
+    "website_domain": "greensdigital.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "GREENSHIRES": {
+    "company": "GREENSHIRES",
+    "has_website": true,
+    "website_domain": "greenshires.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "GRG PRINT MANAGEMENT": {
+    "company": "GRG PRINT MANAGEMENT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GUESTKEY": {
+    "company": "GUESTKEY",
+    "has_website": true,
+    "website_domain": "guestkey.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "GUIDE DOGS": {
+    "company": "GUIDE DOGS",
+    "has_website": true,
+    "website_domain": "guidedogs.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "GUITING QUARRY": {
+    "company": "GUITING QUARRY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GUITTING QUARRY": {
+    "company": "GUITTING QUARRY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "Glenn Constructive Media": {
+    "company": "Glenn Constructive Media",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "HAGE GROUP": {
+    "company": "HAGE GROUP",
+    "has_website": true,
+    "website_domain": "hage.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "HAGUE": {
+    "company": "HAGUE",
+    "has_website": true,
+    "website_domain": "hague.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "HAGUE PRINT": {
+    "company": "HAGUE PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "HARDINGS": {
+    "company": "HARDINGS",
+    "has_website": true,
+    "website_domain": "hardings.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "HARLOW PRINTING": {
+    "company": "HARLOW PRINTING",
+    "has_website": true,
+    "website_domain": "harlowprinting.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HARRISONS": {
+    "company": "HARRISONS",
+    "has_website": true,
+    "website_domain": "harrisons.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "HARTGRAPH": {
+    "company": "HARTGRAPH",
+    "has_website": true,
+    "website_domain": "hartgraph.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "HAYMAN": {
+    "company": "HAYMAN",
+    "has_website": true,
+    "website_domain": "hayman.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HELLOFRESH": {
+    "company": "HELLOFRESH",
+    "has_website": true,
+    "website_domain": "hellofresh.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HENRY": {
+    "company": "HENRY",
+    "has_website": true,
+    "website_domain": "henry.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "HENRY WAHOOTI": {
+    "company": "HENRY WAHOOTI",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "HERON": {
+    "company": "HERON",
+    "has_website": true,
+    "website_domain": "www.heron.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "HERON PRESS": {
+    "company": "HERON PRESS",
+    "has_website": true,
+    "website_domain": "heronpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HERONSWOOD PRESS": {
+    "company": "HERONSWOOD PRESS",
+    "has_website": true,
+    "website_domain": "heronswoodpress.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HERTS OPEN STUDIOS": {
+    "company": "HERTS OPEN STUDIOS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "HFG PRINT": {
+    "company": "HFG PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "HIT PRODUCTS": {
+    "company": "HIT PRODUCTS",
+    "has_website": true,
+    "website_domain": "hitproducts.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "HKA": {
+    "company": "HKA",
+    "has_website": true,
+    "website_domain": "hka.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HOBS REPRO": {
+    "company": "HOBS REPRO",
+    "has_website": true,
+    "website_domain": "hobsrepro.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "HOLYWELL": {
+    "company": "HOLYWELL",
+    "has_website": true,
+    "website_domain": "holywell.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "HOLYWELL PRESS": {
+    "company": "HOLYWELL PRESS",
+    "has_website": true,
+    "website_domain": "holywellpress.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "HORWOOD CHERRIES": {
+    "company": "HORWOOD CHERRIES",
+    "has_website": true,
+    "website_domain": "horwoodcherries.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "HOXTON ANALYTICS": {
+    "company": "HOXTON ANALYTICS",
+    "has_website": true,
+    "website_domain": "hoxtonanalytics.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "HUNTS": {
+    "company": "HUNTS",
+    "has_website": true,
+    "website_domain": "hunts.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "HUNTS BCQ": {
+    "company": "HUNTS BCQ",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "IDC BAND": {
+    "company": "IDC BAND",
+    "has_website": true,
+    "website_domain": "idcband.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "IE-NDT": {
+    "company": "IE-NDT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "IGSD CLOTHING": {
+    "company": "IGSD CLOTHING",
+    "has_website": true,
+    "website_domain": "igsdclothing.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "IMAGE EVOLUTION": {
+    "company": "IMAGE EVOLUTION",
+    "has_website": true,
+    "website_domain": "imageevolution.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "IMAGO GROUP": {
+    "company": "IMAGO GROUP",
+    "has_website": true,
+    "website_domain": "imago.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "IMPACT": {
+    "company": "IMPACT",
+    "has_website": true,
+    "website_domain": "impact.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "IMPACT IRELAND": {
+    "company": "IMPACT IRELAND",
+    "has_website": true,
+    "website_domain": "impactireland.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "IMPACT MEDIA": {
+    "company": "IMPACT MEDIA",
+    "has_website": true,
+    "website_domain": "impactmedia.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "IMPRESS": {
+    "company": "IMPRESS",
+    "has_website": true,
+    "website_domain": "impress.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "INCUS": {
+    "company": "INCUS",
+    "has_website": true,
+    "website_domain": "incus.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "INDUCED ENERGY": {
+    "company": "INDUCED ENERGY",
+    "has_website": true,
+    "website_domain": "inducedenergy.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "INITIAL INCENTIVES": {
+    "company": "INITIAL INCENTIVES",
+    "has_website": true,
+    "website_domain": "initialincentives.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "INKON": {
+    "company": "INKON",
+    "has_website": true,
+    "website_domain": "inkon.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "INTERLEVIN": {
+    "company": "INTERLEVIN",
+    "has_website": true,
+    "website_domain": "interlevin.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "IPSOS RETAIL": {
+    "company": "IPSOS RETAIL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "IPW1": {
+    "company": "IPW1",
+    "has_website": true,
+    "website_domain": "ipw1.co.uk",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "J-GRAPHIC": {
+    "company": "J-GRAPHIC",
+    "has_website": true,
+    "website_domain": "jgraphic.com",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "com"
+  },
+  "JACKSON CALVERT": {
+    "company": "JACKSON CALVERT",
+    "has_website": true,
+    "website_domain": "jacksoncalvert.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "JAMES ANWYL": {
+    "company": "JAMES ANWYL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "JAMES HAMILTON GROUP": {
+    "company": "JAMES HAMILTON GROUP",
+    "has_website": true,
+    "website_domain": "jameshamilton.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JAMJAR": {
+    "company": "JAMJAR",
+    "has_website": true,
+    "website_domain": "jamjar.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JASK": {
+    "company": "JASK",
+    "has_website": true,
+    "website_domain": "jask.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "JASK CREATIVE": {
+    "company": "JASK CREATIVE",
+    "has_website": true,
+    "website_domain": "jaskcreative.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JBPM": {
+    "company": "JBPM",
+    "has_website": true,
+    "website_domain": "jbpm.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JBPM ONLINE": {
+    "company": "JBPM ONLINE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "JE GROUP": {
+    "company": "JE GROUP",
+    "has_website": true,
+    "website_domain": "je.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JENX": {
+    "company": "JENX",
+    "has_website": true,
+    "website_domain": "jenx.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "JH GRAPHICS": {
+    "company": "JH GRAPHICS",
+    "has_website": true,
+    "website_domain": "jhgraphics.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "JIGSAW": {
+    "company": "JIGSAW",
+    "has_website": true,
+    "website_domain": "jigsaw.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "JIM DARK CREATIONS": {
+    "company": "JIM DARK CREATIONS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "JLR": {
+    "company": "JLR",
+    "has_website": true,
+    "website_domain": "jlr.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JOHN E WRIGHT": {
+    "company": "JOHN E WRIGHT",
+    "has_website": true,
+    "website_domain": "johnewright.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "JOHN GOOD": {
+    "company": "JOHN GOOD",
+    "has_website": true,
+    "website_domain": "johngood.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "JOHN PRICE": {
+    "company": "JOHN PRICE",
+    "has_website": true,
+    "website_domain": "johnprice.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "JOMA JEWELLERY": {
+    "company": "JOMA JEWELLERY",
+    "has_website": true,
+    "website_domain": "jomajewellery.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "JOURNEYS END": {
+    "company": "JOURNEYS END",
+    "has_website": true,
+    "website_domain": "journeysend.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JPL": {
+    "company": "JPL",
+    "has_website": true,
+    "website_domain": "jpl.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JPL PRINT": {
+    "company": "JPL PRINT",
+    "has_website": true,
+    "website_domain": "www.jplprint.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "JPL PRINTERS": {
+    "company": "JPL PRINTERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "JRG PRINT": {
+    "company": "JRG PRINT",
+    "has_website": true,
+    "website_domain": "jrgprint.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "JUDD MEDICAL": {
+    "company": "JUDD MEDICAL",
+    "has_website": true,
+    "website_domain": "juddmedical.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "JUDES": {
+    "company": "JUDES",
+    "has_website": true,
+    "website_domain": "judes.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "JUST DIGITAL": {
+    "company": "JUST DIGITAL",
+    "has_website": true,
+    "website_domain": "justdigital.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "JUSTIN SCOTT A4 POB BINDERS": {
+    "company": "JUSTIN SCOTT A4 POB BINDERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "Jay @ Taws": {
+    "company": "Jay @ Taws",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "K T LITHO": {
+    "company": "K T LITHO",
+    "has_website": true,
+    "website_domain": "ktlitho.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "KALL KWIK": {
+    "company": "KALL KWIK",
+    "has_website": true,
+    "website_domain": "kallkwik.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "KALLKWIK BURY ST EDMUNDS": {
+    "company": "KALLKWIK BURY ST EDMUNDS",
+    "has_website": true,
+    "website_domain": "kallkwikburystedmunds.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "KANNEGIESSER": {
+    "company": "KANNEGIESSER",
+    "has_website": true,
+    "website_domain": "kannegiesser.co.uk",
+    "has_https": true,
+    "http_status": 303,
+    "domain_variant": "co.uk"
+  },
+  "KAY PICTURES": {
+    "company": "KAY PICTURES",
+    "has_website": true,
+    "website_domain": "kaypictures.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "KEITH MARLEY": {
+    "company": "KEITH MARLEY",
+    "has_website": true,
+    "website_domain": "keithmarley.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "KENNET SCHOOL": {
+    "company": "KENNET SCHOOL",
+    "has_website": true,
+    "website_domain": "kennetschool.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "KERRY PRINT STRATEGY": {
+    "company": "KERRY PRINT STRATEGY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "KILBY": {
+    "company": "KILBY",
+    "has_website": true,
+    "website_domain": "kilby.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "KIND AGENCY": {
+    "company": "KIND AGENCY",
+    "has_website": true,
+    "website_domain": "kindagency.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "KINGSBURY PRESS": {
+    "company": "KINGSBURY PRESS",
+    "has_website": true,
+    "website_domain": "kingsburypress.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "KMS": {
+    "company": "KMS",
+    "has_website": true,
+    "website_domain": "kms.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "KMS LITHO": {
+    "company": "KMS LITHO",
+    "has_website": true,
+    "website_domain": "kmslitho.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "KN OFFICE": {
+    "company": "KN OFFICE",
+    "has_website": true,
+    "website_domain": "knoffice.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "KNIGHT PRINT MANAGEMENT": {
+    "company": "KNIGHT PRINT MANAGEMENT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "KNIGHTPRINT": {
+    "company": "KNIGHTPRINT",
+    "has_website": true,
+    "website_domain": "knightprint.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "KNIIGT PRINT": {
+    "company": "KNIIGT PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "KP GROUP": {
+    "company": "KP GROUP",
+    "has_website": true,
+    "website_domain": "kp.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PackagePro": {
+    "company": "PackagePro",
+    "has_website": true,
+    "website_domain": "ksp.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LA DIGITAL": {
+    "company": "LA DIGITAL",
+    "has_website": true,
+    "website_domain": "ladigital.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "LAGONDA": {
+    "company": "LAGONDA",
+    "has_website": true,
+    "website_domain": "lagonda.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "LALEHAM": {
+    "company": "LALEHAM",
+    "has_website": true,
+    "website_domain": "laleham.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "LALEHAM PRODUCTS": {
+    "company": "LALEHAM PRODUCTS",
+    "has_website": true,
+    "website_domain": "lalehamproducts.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "LANDMARK": {
+    "company": "LANDMARK",
+    "has_website": true,
+    "website_domain": "landmark.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "LANGLAND": {
+    "company": "LANGLAND",
+    "has_website": true,
+    "website_domain": "langland.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LARSEN": {
+    "company": "LARSEN",
+    "has_website": true,
+    "website_domain": "larsen.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LAVENDER CONSULTING": {
+    "company": "LAVENDER CONSULTING",
+    "has_website": true,
+    "website_domain": "lavenderconsulting.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "LAWRENCE FURNISHINGS": {
+    "company": "LAWRENCE FURNISHINGS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "LEACH COLOUR": {
+    "company": "LEACH COLOUR",
+    "has_website": true,
+    "website_domain": "www.leachcolour.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "LEMON PRESS": {
+    "company": "LEMON PRESS",
+    "has_website": true,
+    "website_domain": "lemonpress.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "LETTERWORKS": {
+    "company": "LETTERWORKS",
+    "has_website": true,
+    "website_domain": "letterworks.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "LGD": {
+    "company": "LGD",
+    "has_website": true,
+    "website_domain": "lgd.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LGPP PRINT": {
+    "company": "LGPP PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "LIMELIGHT": {
+    "company": "LIMELIGHT",
+    "has_website": true,
+    "website_domain": "limelight.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LINCOLNSHIRE POLICE": {
+    "company": "LINCOLNSHIRE POLICE",
+    "has_website": true,
+    "website_domain": "lincolnshirepolice.co.uk",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "LION": {
+    "company": "LION",
+    "has_website": true,
+    "website_domain": "lion.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "LION FPG": {
+    "company": "LION FPG",
+    "has_website": true,
+    "website_domain": "lionfpg.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LION PRESENTATION": {
+    "company": "LION PRESENTATION",
+    "has_website": true,
+    "website_domain": "lionpresentation.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "LITTLETON IT": {
+    "company": "LITTLETON IT",
+    "has_website": true,
+    "website_domain": "littletonit.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "LIVING OPTICS": {
+    "company": "LIVING OPTICS",
+    "has_website": true,
+    "website_domain": "livingoptics.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "LONSDALE DIRECT": {
+    "company": "LONSDALE DIRECT",
+    "has_website": true,
+    "website_domain": "lonsdaledirect.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LOVE ALUMINIUM": {
+    "company": "LOVE ALUMINIUM",
+    "has_website": true,
+    "website_domain": "lovealuminium.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "LOVELL": {
+    "company": "LOVELL",
+    "has_website": true,
+    "website_domain": "lovell.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "LS PRINT": {
+    "company": "LS PRINT",
+    "has_website": true,
+    "website_domain": "lsprint.com",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "LUKE HUGHES": {
+    "company": "LUKE HUGHES",
+    "has_website": true,
+    "website_domain": "lukehughes.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "LUNIO DESIGN": {
+    "company": "LUNIO DESIGN",
+    "has_website": true,
+    "website_domain": "luniodesign.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "LYNCRAFT MARKETING": {
+    "company": "LYNCRAFT MARKETING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MADDOX DIXON MAGICIAN": {
+    "company": "MADDOX DIXON MAGICIAN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MAINSTREAM": {
+    "company": "MAINSTREAM",
+    "has_website": true,
+    "website_domain": "mainstream.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MAINSTREAM PRINT": {
+    "company": "MAINSTREAM PRINT",
+    "has_website": true,
+    "website_domain": "mainstreamprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MALCOLM KILMINSTER": {
+    "company": "MALCOLM KILMINSTER",
+    "has_website": true,
+    "website_domain": "malcolmkilminster.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MAM PRODUCTS": {
+    "company": "MAM PRODUCTS",
+    "has_website": true,
+    "website_domain": "mamproducts.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MAM PRODUSCTS": {
+    "company": "MAM PRODUSCTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MANOR": {
+    "company": "MANOR",
+    "has_website": true,
+    "website_domain": "manor.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "MANOR PRINTING": {
+    "company": "MANOR PRINTING",
+    "has_website": true,
+    "website_domain": "manorprinting.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "MARK MEDIA ACE": {
+    "company": "MARK MEDIA ACE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MARSHGUARD": {
+    "company": "MARSHGUARD",
+    "has_website": true,
+    "website_domain": "marshguard.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "MATT": {
+    "company": "MATT",
+    "has_website": true,
+    "website_domain": "matt.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MATTHEWS PRINTERS": {
+    "company": "MATTHEWS PRINTERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MAXIPOS": {
+    "company": "MAXIPOS",
+    "has_website": true,
+    "website_domain": "maxipos.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "MAXMARA": {
+    "company": "MAXMARA",
+    "has_website": true,
+    "website_domain": "maxmara.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "MAXPACK": {
+    "company": "MAXPACK",
+    "has_website": true,
+    "website_domain": "maxpack.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MAYFIELD": {
+    "company": "MAYFIELD",
+    "has_website": true,
+    "website_domain": "mayfield.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "MAYFIELD PRESS": {
+    "company": "MAYFIELD PRESS",
+    "has_website": true,
+    "website_domain": "mayfieldpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MAYFILED PRESS": {
+    "company": "MAYFILED PRESS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MAYLR": {
+    "company": "MAYLR",
+    "has_website": true,
+    "website_domain": "maylr.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MB CREATIVE": {
+    "company": "MB CREATIVE",
+    "has_website": true,
+    "website_domain": "mbcreative.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "MC CREATIVE": {
+    "company": "MC CREATIVE",
+    "has_website": true,
+    "website_domain": "mccreative.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MCCORMICK": {
+    "company": "MCCORMICK",
+    "has_website": true,
+    "website_domain": "mccormick.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MCKINNEY & CO": {
+    "company": "MCKINNEY & CO",
+    "has_website": true,
+    "website_domain": "mckinneyandco.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "MEDIA ACE": {
+    "company": "MEDIA ACE",
+    "has_website": true,
+    "website_domain": "mediaace.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MELANIE GEORGACOPOULOS": {
+    "company": "MELANIE GEORGACOPOULOS",
+    "has_website": true,
+    "website_domain": "melaniegeorgacopoulos.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "MERIDIAN": {
+    "company": "MERIDIAN",
+    "has_website": true,
+    "website_domain": "meridian.com",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "MERIDIAN SP": {
+    "company": "MERIDIAN SP",
+    "has_website": true,
+    "website_domain": "meridiansp.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "MERIT": {
+    "company": "MERIT",
+    "has_website": true,
+    "website_domain": "merit.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "MERIT DISPLAY": {
+    "company": "MERIT DISPLAY",
+    "has_website": true,
+    "website_domain": "meritdisplay.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "MERIT DISPLAYS": {
+    "company": "MERIT DISPLAYS",
+    "has_website": true,
+    "website_domain": "meritdisplays.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "MERRY": {
+    "company": "MERRY",
+    "has_website": true,
+    "website_domain": "merry.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "MERRY PRINTERS": {
+    "company": "MERRY PRINTERS",
+    "has_website": true,
+    "website_domain": "merryprinters.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MICHAEL BURBAGE": {
+    "company": "MICHAEL BURBAGE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MICHAEL PRITCHARD POLYPROP SIGNS": {
+    "company": "MICHAEL PRITCHARD POLYPROP SIGNS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MICROMETRIC": {
+    "company": "MICROMETRIC",
+    "has_website": true,
+    "website_domain": "micrometric.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MINERVA": {
+    "company": "MINERVA",
+    "has_website": true,
+    "website_domain": "minerva.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MINERVA LOOSELEAF": {
+    "company": "MINERVA LOOSELEAF",
+    "has_website": true,
+    "website_domain": "minervalooseleaf.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "MINUTEMAN PRESS": {
+    "company": "MINUTEMAN PRESS",
+    "has_website": true,
+    "website_domain": "minutemanpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MITRA BIO": {
+    "company": "MITRA BIO",
+    "has_website": true,
+    "website_domain": "mitrabio.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "MIXAM": {
+    "company": "MIXAM",
+    "has_website": true,
+    "website_domain": "mixam.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "MJ COYLER PHILLIPS": {
+    "company": "MJ COYLER PHILLIPS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MK3": {
+    "company": "MK3",
+    "has_website": true,
+    "website_domain": "mk3.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MK3 DESIGN": {
+    "company": "MK3 DESIGN",
+    "has_website": true,
+    "website_domain": "mk3design.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MKP": {
+    "company": "MKP",
+    "has_website": true,
+    "website_domain": "mkp.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MODE": {
+    "company": "MODE",
+    "has_website": true,
+    "website_domain": "mode.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MODE LIGHTING": {
+    "company": "MODE LIGHTING",
+    "has_website": true,
+    "website_domain": "modelighting.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "MONGO": {
+    "company": "MONGO",
+    "has_website": true,
+    "website_domain": "mongo.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "MONGO PRINT": {
+    "company": "MONGO PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MORE": {
+    "company": "MORE",
+    "has_website": true,
+    "website_domain": "more.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "MP PRINTERS": {
+    "company": "MP PRINTERS",
+    "has_website": true,
+    "website_domain": "mpprinters.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "MPC": {
+    "company": "MPC",
+    "has_website": true,
+    "website_domain": "mpc.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MPD": {
+    "company": "MPD",
+    "has_website": true,
+    "website_domain": "mpd.com",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "com"
+  },
+  "MPD PRINT": {
+    "company": "MPD PRINT",
+    "has_website": true,
+    "website_domain": "mpdprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "MULTIFLOW": {
+    "company": "MULTIFLOW",
+    "has_website": true,
+    "website_domain": "multiflow.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MURRAYS": {
+    "company": "MURRAYS",
+    "has_website": true,
+    "website_domain": "murrays.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "MY DEK": {
+    "company": "MY DEK",
+    "has_website": true,
+    "website_domain": "mydek.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "NATCOFOODS": {
+    "company": "NATCOFOODS",
+    "has_website": true,
+    "website_domain": "natcofoods.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "NERYS         JLR": {
+    "company": "NERYS         JLR",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "NETTL": {
+    "company": "NETTL",
+    "has_website": true,
+    "website_domain": "nettl.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "NEW MOON": {
+    "company": "NEW MOON",
+    "has_website": true,
+    "website_domain": "newmoon.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "NEW NORDIC": {
+    "company": "NEW NORDIC",
+    "has_website": true,
+    "website_domain": "newnordic.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "NEWNORTH": {
+    "company": "NEWNORTH",
+    "has_website": true,
+    "website_domain": "newnorth.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "NEWNORTHJ": {
+    "company": "NEWNORTHJ",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "NEWTON PRINT": {
+    "company": "NEWTON PRINT",
+    "has_website": true,
+    "website_domain": "newtonprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "NICK   ALTAVIA": {
+    "company": "NICK   ALTAVIA",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "NORDIC": {
+    "company": "NORDIC",
+    "has_website": true,
+    "website_domain": "nordic.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "NOTED IN STYLE": {
+    "company": "NOTED IN STYLE",
+    "has_website": true,
+    "website_domain": "notedinstyle.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "NUBOX": {
+    "company": "NUBOX",
+    "has_website": true,
+    "website_domain": "nubox.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "NUNEATON SIGNS": {
+    "company": "NUNEATON SIGNS",
+    "has_website": true,
+    "website_domain": "nuneatonsigns.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "O&P": {
+    "company": "O&P",
+    "has_website": true,
+    "website_domain": "oandp.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "OCEAN PRINT": {
+    "company": "OCEAN PRINT",
+    "has_website": true,
+    "website_domain": "oceanprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "OCM": {
+    "company": "OCM",
+    "has_website": true,
+    "website_domain": "ocm.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ODESSA PRINT": {
+    "company": "ODESSA PRINT",
+    "has_website": true,
+    "website_domain": "odessaprint.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "ODILLO": {
+    "company": "ODILLO",
+    "has_website": true,
+    "website_domain": "odillo.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "OF COLOUR AND CODE": {
+    "company": "OF COLOUR AND CODE",
+    "has_website": true,
+    "website_domain": "ofcolourandcode.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "OFFICE DEPOT": {
+    "company": "OFFICE DEPOT",
+    "has_website": true,
+    "website_domain": "officedepot.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "OFMG": {
+    "company": "OFMG",
+    "has_website": true,
+    "website_domain": "ofmg.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "OLIVE PG": {
+    "company": "OLIVE PG",
+    "has_website": true,
+    "website_domain": "olivepg.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "OLIVE PRINBT": {
+    "company": "OLIVE PRINBT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "OLIVE PRINT": {
+    "company": "OLIVE PRINT",
+    "has_website": true,
+    "website_domain": "oliveprint.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ON BOARD DEFENCE": {
+    "company": "ON BOARD DEFENCE",
+    "has_website": true,
+    "website_domain": "onboarddefence.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ONTO PACK": {
+    "company": "ONTO PACK",
+    "has_website": true,
+    "website_domain": "ontopack.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "OPUS 99": {
+    "company": "OPUS 99",
+    "has_website": true,
+    "website_domain": "opus99.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "OPUS MARKETING": {
+    "company": "OPUS MARKETING",
+    "has_website": true,
+    "website_domain": "opusmarketing.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "OS PRINT": {
+    "company": "OS PRINT",
+    "has_website": true,
+    "website_domain": "osprint.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "OS PRINT FINISHERS": {
+    "company": "OS PRINT FINISHERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "OS PRINT FINISHING": {
+    "company": "OS PRINT FINISHING",
+    "has_website": true,
+    "website_domain": "osprintfinishing.co.uk",
+    "has_https": true,
+    "http_status": 429,
+    "domain_variant": "co.uk"
+  },
+  "OT GROUP": {
+    "company": "OT GROUP",
+    "has_website": true,
+    "website_domain": "ot.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "OXFORD": {
+    "company": "OXFORD",
+    "has_website": true,
+    "website_domain": "oxford.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "OXFORD MINDFULLNESS": {
+    "company": "OXFORD MINDFULLNESS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "OXFORD OPEN LEARNING": {
+    "company": "OXFORD OPEN LEARNING",
+    "has_website": true,
+    "website_domain": "www.oxfordopenlearning.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "OXFORD PLASTICS": {
+    "company": "OXFORD PLASTICS",
+    "has_website": true,
+    "website_domain": "oxfordplastics.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "OXFORD PRODUCTS": {
+    "company": "OXFORD PRODUCTS",
+    "has_website": true,
+    "website_domain": "oxfordproducts.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "OXFRORD OPEN LEARNING": {
+    "company": "OXFRORD OPEN LEARNING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PACKAGING ONE": {
+    "company": "PACKAGING ONE",
+    "has_website": true,
+    "website_domain": "packagingone.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "PACKAGING SUPPLIES": {
+    "company": "PACKAGING SUPPLIES",
+    "has_website": true,
+    "website_domain": "packagingsupplies.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PALINA": {
+    "company": "PALINA",
+    "has_website": true,
+    "website_domain": "palina.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PANASONIC": {
+    "company": "PANASONIC",
+    "has_website": true,
+    "website_domain": "panasonic.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PAPER ENGINE": {
+    "company": "PAPER ENGINE",
+    "has_website": true,
+    "website_domain": "paperengine.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PARAGON": {
+    "company": "PARAGON",
+    "has_website": true,
+    "website_domain": "paragon.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PARAMOUNT": {
+    "company": "PARAMOUNT",
+    "has_website": true,
+    "website_domain": "paramount.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PARCHMENT UK": {
+    "company": "PARCHMENT UK",
+    "has_website": true,
+    "website_domain": "parchment.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PARK GROVE PRESS": {
+    "company": "PARK GROVE PRESS",
+    "has_website": true,
+    "website_domain": "parkgrovepress.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PAUL CHEESEMAN": {
+    "company": "PAUL CHEESEMAN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PBS": {
+    "company": "PBS",
+    "has_website": true,
+    "website_domain": "pbs.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PCG MEDIA": {
+    "company": "PCG MEDIA",
+    "has_website": true,
+    "website_domain": "pcgmedia.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PDS": {
+    "company": "PDS",
+    "has_website": true,
+    "website_domain": "pds.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PELICAN": {
+    "company": "PELICAN",
+    "has_website": true,
+    "website_domain": "pelican.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PENTAXIA": {
+    "company": "PENTAXIA",
+    "has_website": true,
+    "website_domain": "pentaxia.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PERCUSSIONS": {
+    "company": "PERCUSSIONS",
+    "has_website": true,
+    "website_domain": "percussions.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "PHASE PRINT": {
+    "company": "PHASE PRINT",
+    "has_website": true,
+    "website_domain": "phaseprint.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PHILIPS": {
+    "company": "PHILIPS",
+    "has_website": true,
+    "website_domain": "philips.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PHILLIPS": {
+    "company": "PHILLIPS",
+    "has_website": true,
+    "website_domain": "phillips.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "PHILLIPS DIRECT": {
+    "company": "PHILLIPS DIRECT",
+    "has_website": true,
+    "website_domain": "phillipsdirect.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PHORMULA": {
+    "company": "PHORMULA",
+    "has_website": true,
+    "website_domain": "phormula.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PILLBOX": {
+    "company": "PILLBOX",
+    "has_website": true,
+    "website_domain": "pillbox.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "PILLBOX DESIGN": {
+    "company": "PILLBOX DESIGN",
+    "has_website": true,
+    "website_domain": "pillboxdesign.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PINKS & ROSES": {
+    "company": "PINKS & ROSES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PINKS AND ROSES": {
+    "company": "PINKS AND ROSES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PIXEL": {
+    "company": "PIXEL",
+    "has_website": true,
+    "website_domain": "pixel.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PLACES AND SPACES": {
+    "company": "PLACES AND SPACES",
+    "has_website": true,
+    "website_domain": "placesandspaces.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "PMG": {
+    "company": "PMG",
+    "has_website": true,
+    "website_domain": "pmg.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "PMT DIGITAL": {
+    "company": "PMT DIGITAL",
+    "has_website": true,
+    "website_domain": "pmtdigital.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "POSITIVE PRINT": {
+    "company": "POSITIVE PRINT",
+    "has_website": true,
+    "website_domain": "positiveprint.com",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "com"
+  },
+  "POT LONDON": {
+    "company": "POT LONDON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "POTTERS UK": {
+    "company": "POTTERS UK",
+    "has_website": true,
+    "website_domain": "potters.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PP LEICESTER": {
+    "company": "PP LEICESTER",
+    "has_website": true,
+    "website_domain": "ppleicester.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "PP STRATFORD": {
+    "company": "PP STRATFORD",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PP STRATFORD UPON AVON": {
+    "company": "PP STRATFORD UPON AVON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PP WIMPOLE ST": {
+    "company": "PP WIMPOLE ST",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PPS PRINT": {
+    "company": "PPS PRINT",
+    "has_website": true,
+    "website_domain": "ppsprint.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRECISIONPROCO": {
+    "company": "PRECISIONPROCO",
+    "has_website": true,
+    "website_domain": "precisionproco.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRESENTATION DIRECT": {
+    "company": "PRESENTATION DIRECT",
+    "has_website": true,
+    "website_domain": "presentationdirect.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PRICES CANDLES": {
+    "company": "PRICES CANDLES",
+    "has_website": true,
+    "website_domain": "pricescandles.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PRINT & PACKAGING": {
+    "company": "PRINT & PACKAGING",
+    "has_website": true,
+    "website_domain": "printandpackaging.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "PRINT 360": {
+    "company": "PRINT 360",
+    "has_website": true,
+    "website_domain": "print360.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PRINT CREATIVE": {
+    "company": "PRINT CREATIVE",
+    "has_website": true,
+    "website_domain": "printcreative.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "PRINT DATA": {
+    "company": "PRINT DATA",
+    "has_website": true,
+    "website_domain": "printdata.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRINT DATA SOLUTIONS": {
+    "company": "PRINT DATA SOLUTIONS",
+    "has_website": true,
+    "website_domain": "printdatasolutions.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRINT EVOLVED": {
+    "company": "PRINT EVOLVED",
+    "has_website": true,
+    "website_domain": "printevolved.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PRINT FINDER": {
+    "company": "PRINT FINDER",
+    "has_website": true,
+    "website_domain": "printfinder.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PRINT GENIUS": {
+    "company": "PRINT GENIUS",
+    "has_website": true,
+    "website_domain": "printgenius.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "PRINT GUY": {
+    "company": "PRINT GUY",
+    "has_website": true,
+    "website_domain": "printguy.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PRINT IT LONDON": {
+    "company": "PRINT IT LONDON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRINT READY": {
+    "company": "PRINT READY",
+    "has_website": true,
+    "website_domain": "printready.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "PRINT SOLUTIONS": {
+    "company": "PRINT SOLUTIONS",
+    "has_website": true,
+    "website_domain": "printsolutions.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRINT SOURCE": {
+    "company": "PRINT SOURCE",
+    "has_website": true,
+    "website_domain": "printsource.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PRINT STRATEGY": {
+    "company": "PRINT STRATEGY",
+    "has_website": true,
+    "website_domain": "printstrategy.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PRINT-PRESS": {
+    "company": "PRINT-PRESS",
+    "has_website": true,
+    "website_domain": "printpress.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "PRINTALICIOUS": {
+    "company": "PRINTALICIOUS",
+    "has_website": true,
+    "website_domain": "printalicious.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PRINTED SOLUTIONS": {
+    "company": "PRINTED SOLUTIONS",
+    "has_website": true,
+    "website_domain": "printedsolutions.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "PRINTER SMART": {
+    "company": "PRINTER SMART",
+    "has_website": true,
+    "website_domain": "printersmart.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PRINTERBELLO": {
+    "company": "PRINTERBELLO",
+    "has_website": true,
+    "website_domain": "printerbello.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PRINTERBELLOW": {
+    "company": "PRINTERBELLOW",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRINTHOUSE": {
+    "company": "PRINTHOUSE",
+    "has_website": true,
+    "website_domain": "printhouse.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PRINTROOM": {
+    "company": "PRINTROOM",
+    "has_website": true,
+    "website_domain": "printroom.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PRINTWELL": {
+    "company": "PRINTWELL",
+    "has_website": true,
+    "website_domain": "printwell.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRINTWORKS": {
+    "company": "PRINTWORKS",
+    "has_website": true,
+    "website_domain": "printworks.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRINTWORKS COVENTRY": {
+    "company": "PRINTWORKS COVENTRY",
+    "has_website": true,
+    "website_domain": "printworkscoventry.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PRIOR PACKAGING": {
+    "company": "PRIOR PACKAGING",
+    "has_website": true,
+    "website_domain": "priorpackaging.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "PRIORS PACKAGING": {
+    "company": "PRIORS PACKAGING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRIORY PRESS": {
+    "company": "PRIORY PRESS",
+    "has_website": true,
+    "website_domain": "priorypress.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "PRISM": {
+    "company": "PRISM",
+    "has_website": true,
+    "website_domain": "prism.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PROBADGE": {
+    "company": "PROBADGE",
+    "has_website": true,
+    "website_domain": "probadge.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PROGRESS": {
+    "company": "PROGRESS",
+    "has_website": true,
+    "website_domain": "progress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PROGRESS PACKAGING": {
+    "company": "PROGRESS PACKAGING",
+    "has_website": true,
+    "website_domain": "progresspackaging.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PROJECT 12": {
+    "company": "PROJECT 12",
+    "has_website": true,
+    "website_domain": "project12.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PROJECTS GROUP": {
+    "company": "PROJECTS GROUP",
+    "has_website": true,
+    "website_domain": "projects.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PROMO IDEAS": {
+    "company": "PROMO IDEAS",
+    "has_website": true,
+    "website_domain": "promoideas.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PRONTAPRINT": {
+    "company": "PRONTAPRINT",
+    "has_website": true,
+    "website_domain": "prontaprint.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "PRONTAPRINT LEAMINGTON SPA": {
+    "company": "PRONTAPRINT LEAMINGTON SPA",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRONTAPRINT LEICESTER": {
+    "company": "PRONTAPRINT LEICESTER",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRONTAPRINT STRATFORD": {
+    "company": "PRONTAPRINT STRATFORD",
+    "has_website": true,
+    "website_domain": "prontaprintstratford.com",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "com"
+  },
+  "PRONTAPRINT SUA": {
+    "company": "PRONTAPRINT SUA",
+    "has_website": true,
+    "website_domain": "prontaprintsua.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "PRONTAPRINT WIMPOLE": {
+    "company": "PRONTAPRINT WIMPOLE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRONTAPRINT WIMPOLE ST": {
+    "company": "PRONTAPRINT WIMPOLE ST",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRONTAPRINT WIMPOLE STREET": {
+    "company": "PRONTAPRINT WIMPOLE STREET",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PROPAGANDA": {
+    "company": "PROPAGANDA",
+    "has_website": true,
+    "website_domain": "propaganda.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "PUPLE PRINT": {
+    "company": "PUPLE PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PURELY NUTRICIAN": {
+    "company": "PURELY NUTRICIAN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PURELY NUTRITION": {
+    "company": "PURELY NUTRITION",
+    "has_website": true,
+    "website_domain": "purelynutrition.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "PUREPRINT": {
+    "company": "PUREPRINT",
+    "has_website": true,
+    "website_domain": "pureprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PURPLE PRINT": {
+    "company": "PURPLE PRINT",
+    "has_website": true,
+    "website_domain": "purpleprint.com",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "com"
+  },
+  "PURPLEPRINT MANAGEMENT": {
+    "company": "PURPLEPRINT MANAGEMENT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PYRAMID": {
+    "company": "PYRAMID",
+    "has_website": true,
+    "website_domain": "pyramid.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "QA FLOORING": {
+    "company": "QA FLOORING",
+    "has_website": true,
+    "website_domain": "qaflooring.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "QEA": {
+    "company": "QEA",
+    "has_website": true,
+    "website_domain": "qea.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "QUALVIS": {
+    "company": "QUALVIS",
+    "has_website": true,
+    "website_domain": "qualvis.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "QUANTAS": {
+    "company": "QUANTAS",
+    "has_website": true,
+    "website_domain": "quantas.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "QUDDOS PRINTING": {
+    "company": "QUDDOS PRINTING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "QUITING QUARRY": {
+    "company": "QUITING QUARRY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "R PRINT": {
+    "company": "R PRINT",
+    "has_website": true,
+    "website_domain": "rprint.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RACELOGIC": {
+    "company": "RACELOGIC",
+    "has_website": true,
+    "website_domain": "racelogic.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RACLOGIC": {
+    "company": "RACLOGIC",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RAILEX": {
+    "company": "RAILEX",
+    "has_website": true,
+    "website_domain": "railex.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RAINBOW PRINT MEDIA": {
+    "company": "RAINBOW PRINT MEDIA",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RAJ - RAY MARKETING": {
+    "company": "RAJ - RAY MARKETING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RAMTHORNE CONCRETE": {
+    "company": "RAMTHORNE CONCRETE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RAPIDITY": {
+    "company": "RAPIDITY",
+    "has_website": true,
+    "website_domain": "rapidity.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RAY - CLIFFORD PRESS COVENTRY": {
+    "company": "RAY - CLIFFORD PRESS COVENTRY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RAY MARKETING": {
+    "company": "RAY MARKETING",
+    "has_website": true,
+    "website_domain": "raymarketing.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "RAYMONT-OSMAN": {
+    "company": "RAYMONT-OSMAN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RCN": {
+    "company": "RCN",
+    "has_website": true,
+    "website_domain": "rcn.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "RECOL": {
+    "company": "RECOL",
+    "has_website": true,
+    "website_domain": "recol.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RECORD DECK LAYERS": {
+    "company": "RECORD DECK LAYERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RED PENGUIN": {
+    "company": "RED PENGUIN",
+    "has_website": true,
+    "website_domain": "redpenguin.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "REFELX": {
+    "company": "REFELX",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "REFLEX": {
+    "company": "REFLEX",
+    "has_website": true,
+    "website_domain": "reflex.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "REFLEX GRAPHICS": {
+    "company": "REFLEX GRAPHICS",
+    "has_website": true,
+    "website_domain": "reflexgraphics.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "REGIN": {
+    "company": "REGIN",
+    "has_website": true,
+    "website_domain": "regin.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RESOLUTION": {
+    "company": "RESOLUTION",
+    "has_website": true,
+    "website_domain": "resolution.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RESOLUTION DESIGN": {
+    "company": "RESOLUTION DESIGN",
+    "has_website": true,
+    "website_domain": "resolutiondesign.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RESOURCE": {
+    "company": "RESOURCE",
+    "has_website": true,
+    "website_domain": "resource.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RHL PRINT": {
+    "company": "RHL PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RICHARD - HUNTS": {
+    "company": "RICHARD - HUNTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RICHARD COLOURPOINT": {
+    "company": "RICHARD COLOURPOINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "RIGHT SIGNS": {
+    "company": "RIGHT SIGNS",
+    "has_website": true,
+    "website_domain": "rightsigns.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RING BINDER PRODUCTS": {
+    "company": "RING BINDER PRODUCTS",
+    "has_website": true,
+    "website_domain": "ringbinderproducts.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ROBERT WELCH": {
+    "company": "ROBERT WELCH",
+    "has_website": true,
+    "website_domain": "robertwelch.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ROBINSON": {
+    "company": "ROBINSON",
+    "has_website": true,
+    "website_domain": "robinson.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ROBINSON PACKAGING": {
+    "company": "ROBINSON PACKAGING",
+    "has_website": true,
+    "website_domain": "robinsonpackaging.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ROBINSONS": {
+    "company": "ROBINSONS",
+    "has_website": true,
+    "website_domain": "robinsons.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "ROBINSONS PACKAGING": {
+    "company": "ROBINSONS PACKAGING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ROBYN SKINCARE": {
+    "company": "ROBYN SKINCARE",
+    "has_website": true,
+    "website_domain": "robynskincare.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "ROMBUS": {
+    "company": "ROMBUS",
+    "has_website": true,
+    "website_domain": "rombus.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ROMBUS PACKAGING": {
+    "company": "ROMBUS PACKAGING",
+    "has_website": true,
+    "website_domain": "rombuspackaging.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RORY MEDIA ACE": {
+    "company": "RORY MEDIA ACE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ROSEHILL PRESS": {
+    "company": "ROSEHILL PRESS",
+    "has_website": true,
+    "website_domain": "rosehillpress.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "ROTARY CREATIVE": {
+    "company": "ROTARY CREATIVE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ROTOLOK": {
+    "company": "ROTOLOK",
+    "has_website": true,
+    "website_domain": "rotolok.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RUBICON PLC": {
+    "company": "RUBICON PLC",
+    "has_website": true,
+    "website_domain": "rubicon.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "RUDDOCKS": {
+    "company": "RUDDOCKS",
+    "has_website": true,
+    "website_domain": "ruddocks.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RUN PRINT RUN": {
+    "company": "RUN PRINT RUN",
+    "has_website": true,
+    "website_domain": "runprintrun.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "RUSKIN APOTHECARY": {
+    "company": "RUSKIN APOTHECARY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "S&N GENEALOGY SUPPLIES": {
+    "company": "S&N GENEALOGY SUPPLIES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SAHARAN GROUP": {
+    "company": "SAHARAN GROUP",
+    "has_website": true,
+    "website_domain": "saharan.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SALIENT KNIVES": {
+    "company": "SALIENT KNIVES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SALISBURY PRINTING": {
+    "company": "SALISBURY PRINTING",
+    "has_website": true,
+    "website_domain": "salisburyprinting.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SALVO": {
+    "company": "SALVO",
+    "has_website": true,
+    "website_domain": "salvo.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SAM SALE": {
+    "company": "SAM SALE",
+    "has_website": true,
+    "website_domain": "samsale.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "SAM SYS": {
+    "company": "SAM SYS",
+    "has_website": true,
+    "website_domain": "samsys.co.uk",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "SCAFFTAG BRADY": {
+    "company": "SCAFFTAG BRADY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SCAN TECH": {
+    "company": "SCAN TECH",
+    "has_website": true,
+    "website_domain": "scantech.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "SCOTIA": {
+    "company": "SCOTIA",
+    "has_website": true,
+    "website_domain": "scotia.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SCOTT WHITTEL": {
+    "company": "SCOTT WHITTEL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SCREENTEC": {
+    "company": "SCREENTEC",
+    "has_website": true,
+    "website_domain": "screentec.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SCREENTECH": {
+    "company": "SCREENTECH",
+    "has_website": true,
+    "website_domain": "screentech.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "SDC PRINT": {
+    "company": "SDC PRINT",
+    "has_website": true,
+    "website_domain": "sdcprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SEACOURT": {
+    "company": "SEACOURT",
+    "has_website": true,
+    "website_domain": "seacourt.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "SEACOURT PRESS": {
+    "company": "SEACOURT PRESS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SELADORE LEGAL": {
+    "company": "SELADORE LEGAL",
+    "has_website": true,
+    "website_domain": "seladorelegal.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "SELECTION BOX": {
+    "company": "SELECTION BOX",
+    "has_website": true,
+    "website_domain": "selectionbox.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "SERVICE GRAPHICS": {
+    "company": "SERVICE GRAPHICS",
+    "has_website": true,
+    "website_domain": "servicegraphics.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SERVICEPOINT": {
+    "company": "SERVICEPOINT",
+    "has_website": true,
+    "website_domain": "servicepoint.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "SEVERNPRINT": {
+    "company": "SEVERNPRINT",
+    "has_website": true,
+    "website_domain": "severnprint.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "SHAUN-CHEQUERS": {
+    "company": "SHAUN-CHEQUERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SHERWOOD GROUP": {
+    "company": "SHERWOOD GROUP",
+    "has_website": true,
+    "website_domain": "sherwood.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SHORT RUN PRESS": {
+    "company": "SHORT RUN PRESS",
+    "has_website": true,
+    "website_domain": "shortrunpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SHOWCASE CREATIVE": {
+    "company": "SHOWCASE CREATIVE",
+    "has_website": true,
+    "website_domain": "showcasecreative.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "SIGNAL UK LTD": {
+    "company": "SIGNAL UK LTD",
+    "has_website": true,
+    "website_domain": "signal.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SIGNS ENGRAVING": {
+    "company": "SIGNS ENGRAVING",
+    "has_website": true,
+    "website_domain": "signsengraving.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SIGNS EXPRESS": {
+    "company": "SIGNS EXPRESS",
+    "has_website": true,
+    "website_domain": "signsexpress.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SILK SCREENERS": {
+    "company": "SILK SCREENERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SIMCHA": {
+    "company": "SIMCHA",
+    "has_website": true,
+    "website_domain": "simcha.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "SIMPLY FOLDERS": {
+    "company": "SIMPLY FOLDERS",
+    "has_website": true,
+    "website_domain": "simplyfolders.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SLIK SCREENERS": {
+    "company": "SLIK SCREENERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SMART IMPRESSIONS": {
+    "company": "SMART IMPRESSIONS",
+    "has_website": true,
+    "website_domain": "smartimpressions.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SMART PACK": {
+    "company": "SMART PACK",
+    "has_website": true,
+    "website_domain": "smartpack.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "SMITH BRANDS": {
+    "company": "SMITH BRANDS",
+    "has_website": true,
+    "website_domain": "smithbrands.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SNB": {
+    "company": "SNB",
+    "has_website": true,
+    "website_domain": "snb.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SONOCCO TRIDENT": {
+    "company": "SONOCCO TRIDENT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SONOCO": {
+    "company": "SONOCO",
+    "has_website": true,
+    "website_domain": "sonoco.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "SONOCO TRIDENT": {
+    "company": "SONOCO TRIDENT",
+    "has_website": true,
+    "website_domain": "sonocotrident.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "SPEARSONS": {
+    "company": "SPEARSONS",
+    "has_website": true,
+    "website_domain": "spearsons.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SPIEGL": {
+    "company": "SPIEGL",
+    "has_website": true,
+    "website_domain": "spiegl.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SPIEGL PRESS": {
+    "company": "SPIEGL PRESS",
+    "has_website": true,
+    "website_domain": "spieglpress.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "SPOT ON": {
+    "company": "SPOT ON",
+    "has_website": true,
+    "website_domain": "spoton.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SQUIRREL BOOTCAMP": {
+    "company": "SQUIRREL BOOTCAMP",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SR PRINT MANAGEMENT": {
+    "company": "SR PRINT MANAGEMENT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SRPM": {
+    "company": "SRPM",
+    "has_website": true,
+    "website_domain": "srpm.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "SS MEDIA": {
+    "company": "SS MEDIA",
+    "has_website": true,
+    "website_domain": "ssmedia.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "STAEGER CLEAR": {
+    "company": "STAEGER CLEAR",
+    "has_website": true,
+    "website_domain": "staegerclear.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "STAGER": {
+    "company": "STAGER",
+    "has_website": true,
+    "website_domain": "stager.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "STAGESTRUCK": {
+    "company": "STAGESTRUCK",
+    "has_website": true,
+    "website_domain": "stagestruck.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "STANBURY CHAMELEON": {
+    "company": "STANBURY CHAMELEON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STEVE COLOURPOINT": {
+    "company": "STEVE COLOURPOINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STOKE PACKAGING": {
+    "company": "STOKE PACKAGING",
+    "has_website": true,
+    "website_domain": "stokepackaging.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "STONES": {
+    "company": "STONES",
+    "has_website": true,
+    "website_domain": "stones.co.uk",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "STONES MEDIA": {
+    "company": "STONES MEDIA",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STOTHERS": {
+    "company": "STOTHERS",
+    "has_website": true,
+    "website_domain": "stothers.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "STREAMELINE PRESS": {
+    "company": "STREAMELINE PRESS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STRIPEY RHINO": {
+    "company": "STRIPEY RHINO",
+    "has_website": true,
+    "website_domain": "stripeyrhino.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "STROUD PRINT": {
+    "company": "STROUD PRINT",
+    "has_website": true,
+    "website_domain": "stroudprint.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SUASTAINAPRINT": {
+    "company": "SUASTAINAPRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SUE GREEN GRAPHIC ARTS": {
+    "company": "SUE GREEN GRAPHIC ARTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SUPERIOR TEAMWORKS": {
+    "company": "SUPERIOR TEAMWORKS",
+    "has_website": true,
+    "website_domain": "superiorteamworks.com",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "SUPERQUICK": {
+    "company": "SUPERQUICK",
+    "has_website": true,
+    "website_domain": "superquick.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SUPPLIES4CARE": {
+    "company": "SUPPLIES4CARE",
+    "has_website": true,
+    "website_domain": "supplies4care.com",
+    "has_https": false,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "SURE": {
+    "company": "SURE",
+    "has_website": true,
+    "website_domain": "sure.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SUREFOOT": {
+    "company": "SUREFOOT",
+    "has_website": true,
+    "website_domain": "surefoot.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "SURPRISE SHIRTS": {
+    "company": "SURPRISE SHIRTS",
+    "has_website": true,
+    "website_domain": "surpriseshirts.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "SUSTAINABLE PRINT": {
+    "company": "SUSTAINABLE PRINT",
+    "has_website": true,
+    "website_domain": "sustainableprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SUSTAINAPRINT": {
+    "company": "SUSTAINAPRINT",
+    "has_website": true,
+    "website_domain": "sustainaprint.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "SUTAINAPRINT": {
+    "company": "SUTAINAPRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "SYNERGY": {
+    "company": "SYNERGY",
+    "has_website": true,
+    "website_domain": "synergy.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "T2 PRINT & DISPLAY": {
+    "company": "T2 PRINT & DISPLAY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TABITHA RINGWOOD": {
+    "company": "TABITHA RINGWOOD",
+    "has_website": true,
+    "website_domain": "tabitharingwood.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "TABLEAU": {
+    "company": "TABLEAU",
+    "has_website": true,
+    "website_domain": "tableau.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "TALK DESIGN & PRINT": {
+    "company": "TALK DESIGN & PRINT",
+    "has_website": true,
+    "website_domain": "talkdesignandprint.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TAPPENDEN": {
+    "company": "TAPPENDEN",
+    "has_website": true,
+    "website_domain": "tappenden.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TAYLOR BLOXHAM": {
+    "company": "TAYLOR BLOXHAM",
+    "has_website": true,
+    "website_domain": "taylorbloxham.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TBSG": {
+    "company": "TBSG",
+    "has_website": true,
+    "website_domain": "tbsg.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TEA LAB": {
+    "company": "TEA LAB",
+    "has_website": true,
+    "website_domain": "tealab.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "TEAM ITG": {
+    "company": "TEAM ITG",
+    "has_website": true,
+    "website_domain": "teamitg.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TECHNIQUE": {
+    "company": "TECHNIQUE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TECHNIQUE PRINT": {
+    "company": "TECHNIQUE PRINT",
+    "has_website": true,
+    "website_domain": "techniqueprint.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "TECHNIQUE STUDIOS": {
+    "company": "TECHNIQUE STUDIOS",
+    "has_website": true,
+    "website_domain": "techniquestudios.com",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "com"
+  },
+  "TECHNOPRINT": {
+    "company": "TECHNOPRINT",
+    "has_website": true,
+    "website_domain": "technoprint.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TEDISON AUTO ELECTRICAL": {
+    "company": "TEDISON AUTO ELECTRICAL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TEN HAT LTD": {
+    "company": "TEN HAT LTD",
+    "has_website": true,
+    "website_domain": "tenhat.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "TERRY SIMMONDS TAPE MEASURES": {
+    "company": "TERRY SIMMONDS TAPE MEASURES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TEWKESBURY PRINTING": {
+    "company": "TEWKESBURY PRINTING",
+    "has_website": true,
+    "website_domain": "tewkesburyprinting.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "THAMES LOOSE LEAF": {
+    "company": "THAMES LOOSE LEAF",
+    "has_website": true,
+    "website_domain": "thameslooseleaf.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "THANET EARTH": {
+    "company": "THANET EARTH",
+    "has_website": true,
+    "website_domain": "thanetearth.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "THANET PLASTICS": {
+    "company": "THANET PLASTICS",
+    "has_website": true,
+    "website_domain": "thanetplastics.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "THE BREAD COMPANY": {
+    "company": "THE BREAD COMPANY",
+    "has_website": true,
+    "website_domain": "thebreadcompany.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "THE BUSINESS SUPPLIES GROUP": {
+    "company": "THE BUSINESS SUPPLIES GROUP",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THE COLOR CO": {
+    "company": "THE COLOR CO",
+    "has_website": true,
+    "website_domain": "thecolorco.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "THE COLOUR CO": {
+    "company": "THE COLOUR CO",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THE COLOUR COMPANY": {
+    "company": "THE COLOUR COMPANY",
+    "has_website": true,
+    "website_domain": "thecolourcompany.co.uk",
+    "has_https": false,
+    "http_status": 409,
+    "domain_variant": "co.uk"
+  },
+  "THE EDEN PROJECT": {
+    "company": "THE EDEN PROJECT",
+    "has_website": true,
+    "website_domain": "theedenproject.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "THE FULL WORKS": {
+    "company": "THE FULL WORKS",
+    "has_website": true,
+    "website_domain": "thefullworks.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "THE LANDMARK TRUST": {
+    "company": "THE LANDMARK TRUST",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THE MORE AGENCY": {
+    "company": "THE MORE AGENCY",
+    "has_website": true,
+    "website_domain": "themoreagency.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "THE MPC COMPANY": {
+    "company": "THE MPC COMPANY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THE PACKAGING EXPERST": {
+    "company": "THE PACKAGING EXPERST",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THE PACKAGING EXPERT": {
+    "company": "THE PACKAGING EXPERT",
+    "has_website": true,
+    "website_domain": "thepackagingexpert.com",
+    "has_https": true,
+    "http_status": 465,
+    "domain_variant": "com"
+  },
+  "THE PACKAGING EXPERTS": {
+    "company": "THE PACKAGING EXPERTS",
+    "has_website": true,
+    "website_domain": "thepackagingexperts.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "THE PCKAGING EXPERTS": {
+    "company": "THE PCKAGING EXPERTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THE PRINT CENTRE": {
+    "company": "THE PRINT CENTRE",
+    "has_website": true,
+    "website_domain": "theprintcentre.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "THE STATIONERY GROUP": {
+    "company": "THE STATIONERY GROUP",
+    "has_website": true,
+    "website_domain": "thestationery.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "THE WILKINS GROUP": {
+    "company": "THE WILKINS GROUP",
+    "has_website": true,
+    "website_domain": "thewilkins.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "THINK DESIGN": {
+    "company": "THINK DESIGN",
+    "has_website": true,
+    "website_domain": "thinkdesign.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "THOMAS LEACH": {
+    "company": "THOMAS LEACH",
+    "has_website": true,
+    "website_domain": "thomasleach.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "TIMELESS ACTIVITIES": {
+    "company": "TIMELESS ACTIVITIES",
+    "has_website": true,
+    "website_domain": "timelessactivities.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "TJ BOOKS": {
+    "company": "TJ BOOKS",
+    "has_website": true,
+    "website_domain": "tjbooks.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TL COLOUR": {
+    "company": "TL COLOUR",
+    "has_website": true,
+    "website_domain": "tlcolour.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "TMORPH": {
+    "company": "TMORPH",
+    "has_website": true,
+    "website_domain": "tmorph.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TONY - HEDGEROW": {
+    "company": "TONY - HEDGEROW",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TONY CKN": {
+    "company": "TONY CKN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TONY G": {
+    "company": "TONY G",
+    "has_website": true,
+    "website_domain": "tonyg.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "TP MEDIA": {
+    "company": "TP MEDIA",
+    "has_website": true,
+    "website_domain": "tpmedia.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "TPE": {
+    "company": "TPE",
+    "has_website": true,
+    "website_domain": "tpe.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "TRADING SPACES LIMITED": {
+    "company": "TRADING SPACES LIMITED",
+    "has_website": true,
+    "website_domain": "tradingspaces.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TRAY ONLY": {
+    "company": "TRAY ONLY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TRAYS ONLY": {
+    "company": "TRAYS ONLY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TRIDENT MARKETING": {
+    "company": "TRIDENT MARKETING",
+    "has_website": true,
+    "website_domain": "tridentmarketing.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TRIFORM": {
+    "company": "TRIFORM",
+    "has_website": true,
+    "website_domain": "triform.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "TRINITY": {
+    "company": "TRINITY",
+    "has_website": true,
+    "website_domain": "trinity.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "TRINITY CONNECTIONS": {
+    "company": "TRINITY CONNECTIONS",
+    "has_website": true,
+    "website_domain": "trinityconnections.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "TRIPLE P": {
+    "company": "TRIPLE P",
+    "has_website": true,
+    "website_domain": "triplep.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "TRIPLE P MARKETING": {
+    "company": "TRIPLE P MARKETING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TRPLE P": {
+    "company": "TRPLE P",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TWENTY 10 DIGITAL": {
+    "company": "TWENTY 10 DIGITAL",
+    "has_website": true,
+    "website_domain": "twenty10digital.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "TXM": {
+    "company": "TXM",
+    "has_website": true,
+    "website_domain": "txm.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "Think PA Ltd": {
+    "company": "Think PA Ltd",
+    "has_website": true,
+    "website_domain": "thinkpa.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "UK COVERS": {
+    "company": "UK COVERS",
+    "has_website": true,
+    "website_domain": "ukcovers.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "ULSTER CARPETS SAMPLE BOX TRAYS ONLY": {
+    "company": "ULSTER CARPETS SAMPLE BOX TRAYS ONLY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "UNIVERSITY OF WARWICK": {
+    "company": "UNIVERSITY OF WARWICK",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "V RICHARDSON PRINT": {
+    "company": "V RICHARDSON PRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "VACUUM FORMING": {
+    "company": "VACUUM FORMING",
+    "has_website": true,
+    "website_domain": "vacuumforming.co.uk",
+    "has_https": true,
+    "http_status": 307,
+    "domain_variant": "co.uk"
+  },
+  "VALE GROUP": {
+    "company": "VALE GROUP",
+    "has_website": true,
+    "website_domain": "vale.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "VENTURE": {
+    "company": "VENTURE",
+    "has_website": true,
+    "website_domain": "venture.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "VICTORIA": {
+    "company": "VICTORIA",
+    "has_website": true,
+    "website_domain": "victoria.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "VICTORIA & NAVAN SINGLE LECTURN HEADERS 2 VERSIONS 30 + 120 COPIES": {
+    "company": "VICTORIA & NAVAN SINGLE LECTURN HEADERS 2 VERSIONS 30 + 120 COPIES",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "VICTORIA CARPETS": {
+    "company": "VICTORIA CARPETS",
+    "has_website": true,
+    "website_domain": "victoriacarpets.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "VINY STORAGE": {
+    "company": "VINY STORAGE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "VIPER GAS": {
+    "company": "VIPER GAS",
+    "has_website": true,
+    "website_domain": "vipergas.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "VISUALAR": {
+    "company": "VISUALAR",
+    "has_website": true,
+    "website_domain": "visualar.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "VITAL": {
+    "company": "VITAL",
+    "has_website": true,
+    "website_domain": "vital.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "VOLUNTEER CONNECT": {
+    "company": "VOLUNTEER CONNECT",
+    "has_website": true,
+    "website_domain": "volunteerconnect.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "WAHHOTI LONDON": {
+    "company": "WAHHOTI LONDON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WAHOOTI": {
+    "company": "WAHOOTI",
+    "has_website": true,
+    "website_domain": "wahooti.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "WAHOOTI LONDON": {
+    "company": "WAHOOTI LONDON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WALLPLAN": {
+    "company": "WALLPLAN",
+    "has_website": true,
+    "website_domain": "wallplan.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WANZL": {
+    "company": "WANZL",
+    "has_website": true,
+    "website_domain": "wanzl.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "WANZL FOAM PVC HEADERS": {
+    "company": "WANZL FOAM PVC HEADERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WARP": {
+    "company": "WARP",
+    "has_website": true,
+    "website_domain": "warp.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WARP RECORDS": {
+    "company": "WARP RECORDS",
+    "has_website": true,
+    "website_domain": "warprecords.co.uk",
+    "has_https": false,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "WARWICK PRINT": {
+    "company": "WARWICK PRINT",
+    "has_website": true,
+    "website_domain": "www.warwickprint.co.uk",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "WARWICK PRINTING": {
+    "company": "WARWICK PRINTING",
+    "has_website": true,
+    "website_domain": "warwickprinting.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WARWICK SIGNS": {
+    "company": "WARWICK SIGNS",
+    "has_website": true,
+    "website_domain": "warwicksigns.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WE'RE FYI": {
+    "company": "WE'RE FYI",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WEAREFYI": {
+    "company": "WEAREFYI",
+    "has_website": true,
+    "website_domain": "wearefyi.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WEBMART": {
+    "company": "WEBMART",
+    "has_website": true,
+    "website_domain": "webmart.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "WEBRANDIT": {
+    "company": "WEBRANDIT",
+    "has_website": true,
+    "website_domain": "webrandit.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "WEE HUNG TEE": {
+    "company": "WEE HUNG TEE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WELCOME PRODUCTS": {
+    "company": "WELCOME PRODUCTS",
+    "has_website": true,
+    "website_domain": "welcomeproducts.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WEST & WEST": {
+    "company": "WEST & WEST",
+    "has_website": true,
+    "website_domain": "westandwest.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "WETHERBY": {
+    "company": "WETHERBY",
+    "has_website": true,
+    "website_domain": "wetherby.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "WHITE HALO": {
+    "company": "WHITE HALO",
+    "has_website": true,
+    "website_domain": "whitehalo.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WHITE HALO DESIGN": {
+    "company": "WHITE HALO DESIGN",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WILL SAUNDERS": {
+    "company": "WILL SAUNDERS",
+    "has_website": true,
+    "website_domain": "willsaunders.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "WILTON CARPETS": {
+    "company": "WILTON CARPETS",
+    "has_website": true,
+    "website_domain": "wiltoncarpets.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "WIMPOLE - PRONTAPRINT": {
+    "company": "WIMPOLE - PRONTAPRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WIMPOLE STREET PRONTAPRINT": {
+    "company": "WIMPOLE STREET PRONTAPRINT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WINDLES": {
+    "company": "WINDLES",
+    "has_website": true,
+    "website_domain": "windles.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "WINGBINDERS": {
+    "company": "WINGBINDERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WOLVERSON FITNESS": {
+    "company": "WOLVERSON FITNESS",
+    "has_website": true,
+    "website_domain": "wolversonfitness.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "WOODBINE ARTS": {
+    "company": "WOODBINE ARTS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WORKBENCH": {
+    "company": "WORKBENCH",
+    "has_website": true,
+    "website_domain": "workbench.co.uk",
+    "has_https": false,
+    "http_status": 302,
+    "domain_variant": "co.uk"
+  },
+  "WRIGHT": {
+    "company": "WRIGHT",
+    "has_website": true,
+    "website_domain": "wright.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "WRIGHT BOXES": {
+    "company": "WRIGHT BOXES",
+    "has_website": true,
+    "website_domain": "wrightboxes.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "WRIGHT STUDIOS": {
+    "company": "WRIGHT STUDIOS",
+    "has_website": true,
+    "website_domain": "wrightstudios.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "WRIGHTS OF CAMPDEN": {
+    "company": "WRIGHTS OF CAMPDEN",
+    "has_website": true,
+    "website_domain": "wrightsofcampden.co.uk",
+    "has_https": false,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "WT & VC": {
+    "company": "WT & VC",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "XIC": {
+    "company": "XIC",
+    "has_website": true,
+    "website_domain": "xic.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "XPRESS GROUP": {
+    "company": "XPRESS GROUP",
+    "has_website": true,
+    "website_domain": "xpress.co.uk",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "ZENITH": {
+    "company": "ZENITH",
+    "has_website": true,
+    "website_domain": "zenith.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "ZENITH PRINT": {
+    "company": "ZENITH PRINT",
+    "has_website": true,
+    "website_domain": "zenithprint.co.uk",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "co.uk"
+  },
+  "2D 25M": {
+    "company": "2D 25M",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "AMY FINNIMORE": {
+    "company": "AMY FINNIMORE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "AMY FINNIMORE SLEEVE &": {
+    "company": "AMY FINNIMORE SLEEVE &",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ANAHITA": {
+    "company": "ANAHITA",
+    "has_website": true,
+    "website_domain": "anahita.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "ANDY HALL": {
+    "company": "ANDY HALL",
+    "has_website": true,
+    "website_domain": "andyhall.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "ANDY LINKE 50 +": {
+    "company": "ANDY LINKE 50 +",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ANDY LINKE 75 +": {
+    "company": "ANDY LINKE 75 +",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "ARTHUR GODDARD": {
+    "company": "ARTHUR GODDARD",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BAGNBOX COLLAPSIBLE": {
+    "company": "BAGNBOX COLLAPSIBLE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BASE &": {
+    "company": "BASE &",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BEN HAYDEN": {
+    "company": "BEN HAYDEN",
+    "has_website": true,
+    "website_domain": "benhayden.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "BEN SCOTTWOOD": {
+    "company": "BEN SCOTTWOOD",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "BLOCK": {
+    "company": "BLOCK",
+    "has_website": true,
+    "website_domain": "block.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "BLOCK9": {
+    "company": "BLOCK9",
+    "has_website": true,
+    "website_domain": "block9.co.uk",
+    "has_https": true,
+    "http_status": 404,
+    "domain_variant": "co.uk"
+  },
+  "BLUE SKY": {
+    "company": "BLUE SKY",
+    "has_website": true,
+    "website_domain": "bluesky.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "COUTURE - ULSTER CARPETS SAMPLE": {
+    "company": "COUTURE - ULSTER CARPETS SAMPLE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "COUTURE - ULSTER PRESENTATION": {
+    "company": "COUTURE - ULSTER PRESENTATION",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "DIPTI PATEL": {
+    "company": "DIPTI PATEL",
+    "has_website": true,
+    "website_domain": "diptipatel.com",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "DREAMCELL": {
+    "company": "DREAMCELL",
+    "has_website": true,
+    "website_domain": "dreamcell.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "EDGE TURNER": {
+    "company": "EDGE TURNER",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "FANTASTIC MR": {
+    "company": "FANTASTIC MR",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "FLEET LUXURY DRAWER": {
+    "company": "FLEET LUXURY DRAWER",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GARY WILLIAMS SCREEN 3 COLS ON": {
+    "company": "GARY WILLIAMS SCREEN 3 COLS ON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GEOFF GRAY": {
+    "company": "GEOFF GRAY",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "GLENN CONSTRUCTIVE MEDIA": {
+    "company": "GLENN CONSTRUCTIVE MEDIA",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "HENRY LING": {
+    "company": "HENRY LING",
+    "has_website": true,
+    "website_domain": "henryling.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "ICE": {
+    "company": "ICE",
+    "has_website": true,
+    "website_domain": "ice.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "JAY @ TAWS": {
+    "company": "JAY @ TAWS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "JUSTIN SCOTT": {
+    "company": "JUSTIN SCOTT",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "KEITH DAVIES 28 MAGNETIC": {
+    "company": "KEITH DAVIES 28 MAGNETIC",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "KUHLER": {
+    "company": "KUHLER",
+    "has_website": true,
+    "website_domain": "kuhler.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "M BUTTERWORTH": {
+    "company": "M BUTTERWORTH",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MADDOX DIXON THERMOCHROMIC": {
+    "company": "MADDOX DIXON THERMOCHROMIC",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MATT J": {
+    "company": "MATT J",
+    "has_website": true,
+    "website_domain": "mattj.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "MATT PHILLIPS PLAYING": {
+    "company": "MATT PHILLIPS PLAYING",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MAXWELL SUMMERFIELD": {
+    "company": "MAXWELL SUMMERFIELD",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "MICHAEL PRITCHARD POLYPROP": {
+    "company": "MICHAEL PRITCHARD POLYPROP",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "NERYS JLR": {
+    "company": "NERYS JLR",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "NICK - ALTAVIA": {
+    "company": "NICK - ALTAVIA",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "NICK DALLISON": {
+    "company": "NICK DALLISON",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "OPUS": {
+    "company": "OPUS",
+    "has_website": true,
+    "website_domain": "opus.co.uk",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "co.uk"
+  },
+  "PAPER OVER BOARD": {
+    "company": "PAPER OVER BOARD",
+    "has_website": true,
+    "website_domain": "paperoverboard.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "PAUL BRENNAN": {
+    "company": "PAUL BRENNAN",
+    "has_website": true,
+    "website_domain": "paulbrennan.co.uk",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "co.uk"
+  },
+  "PHILIPS DIRECT": {
+    "company": "PHILIPS DIRECT",
+    "has_website": true,
+    "website_domain": "philipsdirect.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PHILLIPS DIE": {
+    "company": "PHILLIPS DIE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PRASHANT PATEL": {
+    "company": "PRASHANT PATEL",
+    "has_website": true,
+    "website_domain": "prashantpatel.co.uk",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "PRINT": {
+    "company": "PRINT",
+    "has_website": true,
+    "website_domain": "print.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "PRINT & PACKAGING SERVICES LTD": {
+    "company": "PRINT & PACKAGING SERVICES LTD",
+    "has_website": true,
+    "website_domain": "printandpackagingservices.com",
+    "has_https": true,
+    "http_status": 301,
+    "domain_variant": "com"
+  },
+  "PRIYA ANDREAS": {
+    "company": "PRIYA ANDREAS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "PROJECT": {
+    "company": "PROJECT",
+    "has_website": true,
+    "website_domain": "project.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RACHEL LOCKE 6 X STAINED GLASS": {
+    "company": "RACHEL LOCKE 6 X STAINED GLASS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "REENA PATEL": {
+    "company": "REENA PATEL",
+    "has_website": true,
+    "website_domain": "reenapatel.co.uk",
+    "has_https": false,
+    "http_status": 200,
+    "domain_variant": "co.uk"
+  },
+  "RING": {
+    "company": "RING",
+    "has_website": true,
+    "website_domain": "ring.com",
+    "has_https": true,
+    "http_status": 302,
+    "domain_variant": "com"
+  },
+  "SELECTION": {
+    "company": "SELECTION",
+    "has_website": true,
+    "website_domain": "selection.com",
+    "has_https": true,
+    "http_status": 200,
+    "domain_variant": "com"
+  },
+  "SIGNS": {
+    "company": "SIGNS",
+    "has_website": true,
+    "website_domain": "signs.com",
+    "has_https": true,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "STUART GASKELL": {
+    "company": "STUART GASKELL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STUART GASKILL": {
+    "company": "STUART GASKILL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STUART GASKILL 18 X DIEBOND": {
+    "company": "STUART GASKILL 18 X DIEBOND",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STUART GASKILL 6 X ASDA GATE": {
+    "company": "STUART GASKILL 6 X ASDA GATE",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STUART GASKILL ALDI DECALS X": {
+    "company": "STUART GASKILL ALDI DECALS X",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STUART GASKILL GREGGS": {
+    "company": "STUART GASKILL GREGGS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "STUART GASKILL JLR": {
+    "company": "STUART GASKILL JLR",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "TERRY SIMMONDS": {
+    "company": "TERRY SIMMONDS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "THINK PA LTD": {
+    "company": "THINK PA LTD",
+    "has_website": true,
+    "website_domain": "thinkpa.com",
+    "has_https": false,
+    "http_status": 403,
+    "domain_variant": "com"
+  },
+  "UKCOVERS": {
+    "company": "UKCOVERS",
+    "has_website": true,
+    "website_domain": "ukcovers.com",
+    "has_https": true,
+    "http_status": 405,
+    "domain_variant": "com"
+  },
+  "WANZL SHELF EDGE STRIP SETS X": {
+    "company": "WANZL SHELF EDGE STRIP SETS X",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WRIGHT ACCURIST": {
+    "company": "WRIGHT ACCURIST",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WRIGHT BOXERS": {
+    "company": "WRIGHT BOXERS",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WRIGHT NEXBO": {
+    "company": "WRIGHT NEXBO",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WRIGHT VAMOOSH": {
+    "company": "WRIGHT VAMOOSH",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WRIGHT VENUS GILLETTE MAILER": {
+    "company": "WRIGHT VENUS GILLETTE MAILER",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  },
+  "WRIGHT VENUS GILLETTE REFILL": {
+    "company": "WRIGHT VENUS GILLETTE REFILL",
+    "has_website": false,
+    "website_domain": null,
+    "has_https": false,
+    "http_status": null,
+    "domain_variant": null
+  }
+}

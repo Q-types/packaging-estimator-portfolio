@@ -52,7 +52,7 @@ def get_marketing_strategies() -> Dict[str, Dict]:
                     "preview": "We noticed you haven't ordered recently. Is there something we could do better?",
                     "body": """Hi [Contact Name],
 
-We noticed it's been [X] months since your last order with KSP Packaging, and we wanted to check in.
+We noticed it's been [X] months since your last order with PackagePro, and we wanted to check in.
 
 Your business has been valued since [first order date], and we'd love the opportunity to serve you again.
 
@@ -62,7 +62,7 @@ I'd love to schedule a quick call to understand how we can help.
 
 Best regards,
 [Account Manager Name]
-KSP Packaging Team"""
+PackagePro Team"""
                 },
                 {
                     "name": "Exclusive Return Offer",
@@ -132,11 +132,11 @@ Looking forward to working with you again,
             "email_templates": [
                 {
                     "name": "Welcome Email",
-                    "subject": "Welcome to KSP Packaging, [Company Name]!",
+                    "subject": "Welcome to PackagePro, [Company Name]!",
                     "preview": "Thank you for choosing us. Here's what happens next...",
                     "body": """Hi [Contact Name],
 
-Welcome to KSP Packaging! We're thrilled to have [Company Name] as a customer.
+Welcome to PackagePro! We're thrilled to have [Company Name] as a customer.
 
 Here's what you can expect from us:
 • Dedicated account support
@@ -149,7 +149,7 @@ Your account manager, [Name], will be reaching out shortly to ensure your first 
 In the meantime, here's a quick guide to our capabilities: [Link]
 
 Thank you for your trust,
-The KSP Team"""
+The PackagePro Team"""
                 }
             ],
             "budget_allocation": {
@@ -267,7 +267,7 @@ Best,
                     "preview": "A special thank you and exclusive benefits for our valued partners.",
                     "body": """Dear [Contact Name],
 
-On behalf of everyone at KSP Packaging, I want to personally thank [Company Name] for your continued partnership.
+On behalf of everyone at PackagePro, I want to personally thank [Company Name] for your continued partnership.
 
 As one of our most valued customers, you're now part of our VIP Partner Program, which includes:
 
@@ -281,7 +281,7 @@ Your success is our success, and we're committed to supporting [Company Name] in
 
 With gratitude,
 [CEO/MD Name]
-Managing Director, KSP Packaging"""
+Managing Director, PackagePro"""
                 }
             ],
             "budget_allocation": {
@@ -331,7 +331,7 @@ Managing Director, KSP Packaging"""
             "email_templates": [
                 {
                     "name": "Check-In",
-                    "subject": "Quick check-in from KSP Packaging",
+                    "subject": "Quick check-in from PackagePro",
                     "preview": "It's been a while - do you have any upcoming packaging needs?",
                     "body": """Hi [Contact Name],
 

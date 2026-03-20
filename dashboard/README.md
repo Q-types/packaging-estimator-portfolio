@@ -1,6 +1,6 @@
-# KSP Customer Intelligence Dashboard
+# PackagePro Intelligence Dashboard
 
-A comprehensive customer analytics dashboard built with Streamlit for KSP Packaging. Features advanced customer segmentation, prospect scoring, and actionable business insights.
+A comprehensive customer analytics dashboard built with Streamlit for PackagePro. Features advanced customer segmentation, prospect scoring, and actionable business insights.
 
 ## Features
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Running Locally
 
 ```bash
-streamlit run KSP_Customer_Intelligence.py
+streamlit run PackagePro_Customer_Intelligence.py
 ```
 
 Or use the included run script:
@@ -71,4 +71,4 @@ This app is configured for deployment on [Streamlit Cloud](https://streamlit.io/
 
 ## License
 
-Proprietary - KSP Packaging
+Proprietary - PackagePro

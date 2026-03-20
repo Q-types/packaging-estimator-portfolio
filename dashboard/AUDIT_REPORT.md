@@ -1,4 +1,4 @@
-# KSP Customer Intelligence Dashboard - QA Audit Report
+# PackagePro Intelligence Dashboard - QA Audit Report
 
 ## Executive Summary
 
@@ -398,7 +398,7 @@ SEGMENT_COLORS = {
 
 ### E.4 Fix Hardcoded Prospect Count
 
-**File:** `KSP_Customer_Intelligence.py` line 554
+**File:** `PackagePro_Customer_Intelligence.py` line 554
 
 **Current:**
 ```python
@@ -413,7 +413,7 @@ st.markdown(f"Search across **{len(prospects_df):,} pre-scored prospects**...")
 
 ### E.5 Add Data Staleness Warning
 
-**File:** `KSP_Customer_Intelligence.py`
+**File:** `PackagePro_Customer_Intelligence.py`
 
 Add global banner:
 ```python
@@ -443,7 +443,7 @@ if days_old > 90:
 
 ### E.7 Add CSV Export
 
-**File:** `KSP_Customer_Intelligence.py`
+**File:** `PackagePro_Customer_Intelligence.py`
 
 Add to each major table:
 ```python
